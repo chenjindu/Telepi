@@ -23,23 +23,23 @@ Telepi is a pocket-sized router you build yourself: flash the free **Telepi OS**
 to a Raspberry Pi 5, power it on, and you own a portable WiFi router that travels with you.
 
 Wherever you are — a hotel, an Airbnb, a co-working space, a rented apartment, or at home — Telepi
-joins the upstream WiFi, then broadcasts **your own dual-band WiFi** with its own private LAN.
+joins the upstream network, then broadcasts **your own dual-band WiFi** with its own private LAN.
 Your devices connect to the same network name and password everywhere, no matter whose network you're on.
 
 **One device. Two roles:**
 
-1. **WiFi Repeater** — joins any upstream WiFi and reconnects on its own
+1. **WiFi Repeater** — joins any upstream WiFi (or a wired Ethernet uplink) and reconnects on its own
 2. **WiFi Router** — your own 5G + 2.4G private network with its own LAN
 
 A built-in DNS server filters ads and unsuitable websites for every device, and a WireGuard
 client can route the whole network through your VPN.
 
 <p align="center">
-  <img src="docs/images/webui-login.png" alt="Telepi login" width="720">
+  <img src="docs/images/webui-dashboard.png" alt="Telepi web interface — overview" width="720">
 </p>
 
 <p align="center">
-  <img src="docs/images/webui-dashboard.png" alt="Telepi web interface" width="720">
+  <img src="docs/images/webui-wan.png" alt="Telepi web interface — WAN" width="720">
 </p>
 
 ## Features
@@ -59,7 +59,7 @@ client can route the whole network through your VPN.
 1. **Get the hardware** — see the [Hardware List](docs/hardware.md) (Raspberry Pi 5 + off-the-shelf parts)
 2. **Download** the latest Telepi OS image from [telepi.com](https://telepi.com/products) or [Releases](https://github.com/chenjindu/Telepi/releases)
 3. **Flash** it to a microSD card or SSD — see the [Flash Guide](docs/flash-guide.md)
-4. **Power on**, connect to the `Telepi-5G-xxxx` or `Telepi-2.4G-xxxx` WiFi hotspot (default password: `telepi.com`)
+4. **Power on**, connect to the `Telepi-5G-XXXX` or `Telepi-2.4G-XXXX` WiFi hotspot (default password: `telepi.com`)
 5. Open **http://192.168.111.200:8080** and log in with `admin` / `telepi.com`
 6. Connect to your upstream WiFi on the **WAN** page, then change the default passwords
 
@@ -70,7 +70,7 @@ From download to a working router in about ten minutes.
 - [Architecture](docs/architecture.md) — network topology and system design
 - [Hardware List](docs/hardware.md) — full bill of materials with model numbers
 - [Flash Guide](docs/flash-guide.md) — writing the image and first boot
-- [Configuration](docs/configuration.md) — WAN, Wi-Fi, LAN, DNS filtering, VPN
+- [Configuration](docs/configuration.md) — WAN, Wi-Fi, LAN, DNS filtering, VPN, system
 
 Product tour with screenshots: [telepi.com/tour](https://telepi.com/tour)
 

@@ -1,5 +1,5 @@
 name: Feature Request
-description: Suggest an idea or improvement for HelpOS
+description: Suggest an idea or improvement for Telepi OS
 labels: [enhancement]
 body:
   - type: textarea

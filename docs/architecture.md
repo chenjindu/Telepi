@@ -1,29 +1,25 @@
 # Architecture
 
-How HelpRouter sits in your network, and how HelpOS is put together.
+How Telepi sits in your network, and how Telepi OS is put together.
 
 ## Network Topology
 
-HelpRouter sits between the untrusted upstream network and your own devices.
-Upstream can be any WiFi (hotel, Airbnb, office, landlord) or a wired Ethernet connection —
-your side of the network never changes.
-
-<p align="center">
-  <img src="images/topology.png" alt="Network topology" width="720">
-</p>
+Telepi sits between the untrusted upstream network and your own devices.
+Upstream can be any WiFi (hotel, Airbnb, office, landlord, your ISP's router) or a wired
+Ethernet connection — your side of the network never changes.
 
 ```
                       ┌──────────────────────────────────────────────┐
-                      │                 HelpRouter                   │
+                      │                   Telepi                     │
    Upstream WiFi ────►│  WiFi radio #1 (upstream / repeater)         │
         or            │                                              │
    Wired Ethernet ───►│  Gigabit Ethernet (upstream, optional)       │
                       │                                              │
-                      │  WiFi radio #2 ── 2.4 GHz hotspot ──┐        │
-                      │  WiFi radio #3 ── 5 GHz hotspot ────┤        │
+                      │  WiFi radio #2 ── 5 GHz hotspot ────┐        │
+                      │  WiFi radio #3 ── 2.4 GHz hotspot ──┤        │
                       └─────────────────────────────────────┼────────┘
                                                             │
-                              Your private network (fixed IPs, 192.168.8.0/24)
+                              Your private network (192.168.111.0/24)
                                                             │
                     ┌───────────┬───────────┬───────────────┤
                  Laptop      Phone       Tablet      Other devices
@@ -31,33 +27,31 @@ your side of the network never changes.
 
 Key properties:
 
-- **Your devices always get the same IP** — DHCP fixed-IP assignments survive reboots and relocations.
-- **NAT isolation** — the upstream network only ever sees one device (HelpRouter). With MAC clone,
+- **Your network is always the same** — the same WiFi names, password and LAN subnet wherever
+  the router goes. At a new place only Telepi has to join the upstream network.
+- **NAT isolation** — the upstream network only ever sees one device (Telepi). With MAC clone,
   even networks with single-device restrictions work.
-- **Everything keeps working offline** — LAN services (SMB, Git, Local Share, DNS…) don't need
-  the upstream at all.
+- **Your LAN keeps working offline** — devices behind Telepi still see each other when the
+  upstream is down.
 
 ## Software Stack
 
-HelpOS Router Edition is based on **Raspberry Pi OS Lite** (Debian, arm64) with all services
+Telepi OS is based on **Raspberry Pi OS Lite** (Debian, arm64) with everything
 pre-installed and pre-wired:
 
 ```
 ┌─────────────────────────────────────────────────────┐
-│  Web UI  ·  Web Terminal  ·  Setup Wizard           │  ← http://192.168.8.1
-├─────────────────────────────────────────────────────┤
-│  Services layer                                     │
-│  SSH · SMB · FTP · Git · SVN · Web · File · Share   │
+│  Web UI                                             │  ← http://192.168.111.200:8080
 ├─────────────────────────────────────────────────────┤
 │  Network layer                                      │
 │  WAN (WiFi repeater / Ethernet / MAC clone)         │
-│  Hotspot (2.4G + 5G AP), DHCP with fixed IPs        │
-│  DNS server with filtering (ads / malware / adult)  │
-│  VPN server & client (WireGuard, OpenVPN)           │
-│  Remote access (DDNS + tunnel, *.hc.ink)            │
+│  Wi-Fi (5G + 2.4G hotspots), LAN with DHCP          │
+│  DNS server with filtering                          │
+│  VPN client (WireGuard)                             │
 ├─────────────────────────────────────────────────────┤
-│  HelpOS base (Raspberry Pi OS Lite, arm64)          │
+│  Telepi OS base (Raspberry Pi OS Lite, arm64)       │
 │  Watchdogs: WiFi reconnection, USB adapter recovery │
+│  SSH server                                         │
 └─────────────────────────────────────────────────────┘
 ```
 
@@ -66,25 +60,22 @@ Notes:
 - **Full SSH access** to the underlying Linux system is included — it's your device.
 - Built-in **watchdogs** recover automatically from upstream WiFi drops and USB WiFi adapter
   failures, so the router keeps itself alive unattended.
-- Management is entirely web-based; the terminal is one click away when you want it.
+- Management is entirely web-based.
 
 ## Radio Layout
 
 | Radio | Hardware | Role |
 |---|---|---|
 | #1 | USB 3.0 adapter (ALFA AWUS036AXML) | Upstream — connects to the source WiFi |
-| #2 | M.2 card (MT7922) via PCIe HAT | 2.4 GHz hotspot |
-| #3 | M.2 card (MT7922) via PCIe HAT | 5 GHz hotspot |
+| #2 | M.2 card (MT7922) via PCIe HAT | 5 GHz hotspot |
+| #3 | Raspberry Pi 5 onboard WiFi | 2.4 GHz hotspot |
 
 With this layout the repeater and the dual-band hotspot run **simultaneously** —
 no bandwidth halving, no mode switching. See the [Hardware List](hardware.md) for exact parts.
 
-## Remote Access Path
+## The Ethernet Port
 
-```
-Your phone (anywhere) ──► yourname.hc.ink ──► DDNS / tunnel ──► HelpRouter ──► your LAN
-```
+The Gigabit port detects what is plugged into it:
 
-- With a public IP upstream, DDNS points your subdomain straight at the router.
-- Behind NAT / CGNAT, the built-in tunnel service keeps the router reachable anyway.
-- Either way: no port forwarding, no router configuration on the upstream side.
+- a cable from an upstream router or modem → it becomes the **WAN** uplink (instead of WiFi)
+- a computer or other device → it joins your **LAN**

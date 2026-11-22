@@ -1,11 +1,11 @@
 name: Bug Report
-description: Something in HelpOS isn't working as expected
+description: Something in Telepi OS isn't working as expected
 labels: [bug]
 body:
   - type: input
     id: version
     attributes:
-      label: HelpOS version
+      label: Telepi OS version
       description: The image version you downloaded (shown on the download page), e.g. 1.0.0
       placeholder: "1.0.0"
     validations:

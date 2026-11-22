@@ -1,7 +1,7 @@
 # Hardware List (BOM)
 
 The complete parts list. All items are off-the-shelf and available worldwide
-(Amazon links on [helprouter.com/products](https://helprouter.com/products)).
+(Amazon links on [telepi.com/products](https://telepi.com/products)).
 Equivalent parts with the same specs also work — these are the exact models we build and test with.
 
 | # | Photo | Part | Notes |
@@ -10,7 +10,7 @@ Equivalent parts with the same specs also work — these are the exact models we
 | 2 | <img src="images/hw_02.png" width="120" alt="27W USB-C PSU"> | **27W USB-C power supply** | Official Raspberry Pi 27W PSU recommended — the Pi 5 is picky about power |
 | 3 | <img src="images/hw_03.png" width="120" alt="GeeekPi case"> | **GeeekPi aluminum case for Pi 5** | With active cooler; supports PCIe peripheral boards (X1000/X1001/X1003/N04/N05) |
 | 4 | <img src="images/hw_04.png" width="120" alt="Waveshare M.2 HAT"> | **Waveshare PCIe to M.2 E-Key HAT** | For Raspberry Pi 5; supports NGFF (M.2 E-Key) wireless NICs, USB Bluetooth; HAT+ standard |
-| 5 | <img src="images/hw_05.png" width="120" alt="MT7922 WiFi card"> | **MT7922 Wi-Fi 6E network card** | M.2 E-Key; drives the 2.4G + 5G dual-band hotspot |
+| 5 | <img src="images/hw_05.png" width="120" alt="MT7922 WiFi card"> | **MT7922 Wi-Fi 6E network card** | M.2 E-Key; drives the 5G hotspot (the 2.4G hotspot uses the Pi 5 onboard WiFi) |
 | 6 | <img src="images/hw_06.png" width="120" alt="Bingfu antennas"> | **Bingfu dual-band antennas (2-pack)** | 2.4/5/5.8 GHz 3dBi MIMO, RP-SMA male; connect to the MT7922 |
 | 7 | <img src="images/hw_07.png" width="120" alt="ALFA AWUS036AXML"> | **ALFA NETWORK AWUS036AXML** | 802.11axe WiFi 6E USB 3.0 adapter (AXE3000, tri-band); the upstream/repeater radio ( or EDUP® USB 3.0 WiFi 6E Adapter for PC, AX3000M, Same Chip: Mt7921au  ) |
 | 8 | <img src="images/hw_08.png" width="120" alt="microSD / USB SSD"> | **microSD card or USB SSD** | 16 GB or larger; SSD gives better longevity under 24/7 use |
@@ -24,17 +24,13 @@ Equivalent parts with the same specs also work — these are the exact models we
    throttle it badly).
 4. Insert the flashed microSD / connect the SSD, close the case, connect power. Done.
 
-<p align="center">
-  <img src="images/assembly.png" alt="Assembly steps" width="720">
-</p>
-
 ## Minimal Build (reduced feature set)
 
-No PCIe HAT / MT7922 / ALFA at hand? HelpOS also runs on a **bare Raspberry Pi 5** using the
-onboard WiFi. You still get the hotspot, all services, DNS filtering, VPN and remote access —
-but the onboard radio can't repeat upstream WiFi and broadcast dual-band at full performance
-at the same time. Use wired Ethernet as the upstream in this setup, or accept reduced
-throughput. The full parts list above is what unlocks *simultaneous* repeater + dual-band hotspot.
+No PCIe HAT / MT7922 / ALFA at hand? Telepi OS also boots on a **bare Raspberry Pi 5**.
+The onboard WiFi provides the 2.4G hotspot, and DNS filtering and VPN work as usual — but there
+is no 5G hotspot, and without the USB adapter there is no radio left for the upstream, so plug
+a wired Ethernet uplink into the Gigabit port. This is not the configuration we build and test
+with; the full parts list above is what gives you *simultaneous* repeater + dual-band hotspot.
 
 ## Power Consumption
 

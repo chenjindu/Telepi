@@ -4,10 +4,10 @@ From a downloaded image to a booted router. About ten minutes, no Linux knowledg
 
 ## 1. Download the image
 
-Get the latest **HelpOS Router Edition** image (`.img.xz`) from:
+Get the latest **Telepi OS** image (`.img.xz`) from:
 
-- [helprouter.com/products](https://helprouter.com/products) (recommended), or
-- [GitHub Releases](https://github.com/chenjindu/HelpRouter/releases)
+- [telepi.com/products](https://telepi.com/products) (recommended), or
+- [GitHub Releases](https://github.com/chenjindu/Telepi/releases)
 
 ## 2. Verify the checksum
 
@@ -16,12 +16,12 @@ it rules out corrupted downloads, which are the #1 cause of "it doesn't boot".
 
 **Windows (PowerShell):**
 ```powershell
-Get-FileHash .\helpos-x.y.z-pi5.img.xz -Algorithm SHA256
+Get-FileHash .\YYYY-MM-DD-telepi-os-arm64_7922.img.xz -Algorithm SHA256
 ```
 
 **macOS / Linux:**
 ```bash
-shasum -a 256 helpos-x.y.z-pi5.img.xz
+shasum -a 256 YYYY-MM-DD-telepi-os-arm64_7922.img.xz
 ```
 
 Compare the output with the checksum shown next to the download. They must match exactly.
@@ -36,17 +36,13 @@ Use either tool — both accept `.img.xz` directly, no need to decompress:
 2. *Choose Device* → Raspberry Pi 5
 3. *Choose OS* → *Use custom* → select the downloaded `.img.xz`
 4. *Choose Storage* → your microSD card or USB-attached SSD
-5. When asked about OS customisation, choose **No** — HelpOS ships pre-configured
+5. When asked about OS customisation, choose **No** — Telepi OS ships pre-configured
 6. Write and wait for verification to finish
 
 **balenaEtcher**
 
 1. Install from [etcher.balena.io](https://etcher.balena.io/)
 2. *Flash from file* → select the `.img.xz` → select the target drive → *Flash!*
-
-<p align="center">
-  <img src="images/flash-imager.png" alt="Flashing with Raspberry Pi Imager" width="720">
-</p>
 
 > ⚠️ Flashing erases everything on the target card/drive. Double-check you selected the right one.
 
@@ -58,24 +54,33 @@ Use either tool — both accept `.img.xz` directly, no need to decompress:
 
 ## 5. Connect and configure
 
-1. On your phone or laptop, join the new WiFi network **`HelpRouter`**
-   (default password: **`helprouter`**)
-2. Open **http://192.168.8.1** in your browser
-3. Follow the setup wizard: connect to your upstream WiFi (or plug in Ethernet),
-   and set your own hotspot and admin passwords
+1. On your phone or laptop, join the new WiFi network **`Telepi-5G-XXXX`** or
+   **`Telepi-2.4G-XXXX`** (default password: **`telepi.com`**)
+2. Open **http://192.168.111.200:8080** in your browser and sign in with
+   `admin` / `telepi.com`
 
 <p align="center">
-  <img src="images/first-boot-wizard.png" alt="Setup wizard" width="720">
+  <img src="images/webui-login.png" alt="Web UI — login" width="480">
 </p>
 
+3. Open the **WAN** page, pick your upstream WiFi and enter its password
+   (or plug an uplink cable into the Ethernet port)
+
+<p align="center">
+  <img src="images/webui-wan.png" alt="Web UI — WAN" width="720">
+</p>
+
+4. Change the defaults: hotspot passwords on the **Wi-Fi 5G** / **Wi-Fi 2.4G** pages,
+   the web UI password on the **Setting** page
+
 That's it — your private network is live. Continue with the
-[Configuration guide](configuration.md) for DNS filtering, VPN, remote access and services.
+[Configuration guide](configuration.md) for DNS filtering and VPN.
 
 ## Troubleshooting
 
 | Symptom | Check |
 |---|---|
-| No `HelpRouter` WiFi after 2–3 minutes | Re-verify the SHA256; re-flash; confirm the PSU is 27W (under-powered Pi 5s fail silently) |
+| No Telepi WiFi after 2–3 minutes | Re-verify the SHA256; re-flash; confirm the PSU is 27W (under-powered Pi 5s fail silently) |
 | Flashed fine but no boot (no green LED activity) | Try another microSD card — worn cards flash OK but fail to boot |
-| Hotspot appears but 192.168.8.1 won't open | Make sure you're connected to `HelpRouter`, not your old WiFi; try `http://` explicitly (not `https://`) |
-| Anything else | Ask in [Discussions](https://github.com/chenjindu/HelpRouter/discussions) or file an [Issue](https://github.com/chenjindu/HelpRouter/issues/new/choose) |
+| Hotspot appears but the web UI won't open | Make sure you're connected to the Telepi hotspot, not your old WiFi; type `http://192.168.111.200:8080` in full (`http://`, not `https://`, and the `:8080`) |
+| Anything else | Ask in [Discussions](https://github.com/chenjindu/Telepi/discussions) or file an [Issue](https://github.com/chenjindu/Telepi/issues/new/choose) |

@@ -1,93 +1,97 @@
 # Configuration
 
-Everything is configured from the web UI at **http://192.168.8.1**
-(reachable from any device connected to the HelpRouter hotspot).
-A built-in web terminal is available for anything beyond the UI — and full SSH access is included.
-
-<!-- TODO(维护提示): 本文按产品功能编写；界面菜单名称如与实际 Web UI 不一致，请按实际界面微调。 -->
+Everything is configured from the web UI at **http://192.168.111.200:8080**
+(reachable from any device connected to a Telepi hotspot). Sign in with `admin` / `telepi.com`
+on first use. Full SSH access is included for anything beyond the UI.
 
 <p align="center">
-  <img src="images/webui-dashboard.png" alt="Web UI dashboard" width="720">
+  <img src="images/webui-dashboard.png" alt="Web UI — overview" width="720">
 </p>
+
+The **Overview** page shows the four things that matter at the top — WAN, LAN, Wi-Fi 5G and
+Wi-Fi 2.4G — with system health below.
 
 ## WAN — the upstream connection
 
-Three ways to get HelpRouter online:
+<p align="center">
+  <img src="images/webui-wan.png" alt="Web UI — WAN" width="720">
+</p>
 
-- **WiFi repeater** — scan and join any upstream WiFi (hotel, Airbnb, office). The upstream
-  credentials are stored per-network, so returning to a known location reconnects automatically.
-- **Wired Ethernet** — plug into the Gigabit port; useful where wired is offered or WiFi is poor.
+- **WiFi repeater** — scan and join any upstream WiFi (hotel, Airbnb, office, home). Networks are
+  saved, so returning to a known place reconnects automatically. The connected network is always
+  listed first.
+- **Wired Ethernet** — plug an uplink cable into the Gigabit port and Telepi uses it as the WAN.
 - **MAC clone** — on networks that only allow one registered device, clone the MAC of a device
-  that's already been admitted. All your devices then share that single admission.
+  that has already been admitted. All your devices then share that single admission.
 
-A connection watchdog re-establishes dropped upstream WiFi automatically — no manual intervention
+A connection watchdog re-establishes a dropped upstream automatically — no manual intervention
 when the hotel AP hiccups at 3 a.m.
 
-## LAN & Hotspot
+## Wi-Fi — your own network
 
-- **Dual-band hotspot** — separate 2.4 GHz and 5 GHz networks; set SSIDs and passwords
-  independently. Change the defaults on first boot.
-- **Fixed IPs** — assign each device a permanent IP (DHCP reservation). Your SSH configs,
-  bookmarks and scripts keep working forever, wherever the router travels.
-- **LAN subnet** — defaults to `192.168.8.0/24` with the router at `192.168.8.1`; adjustable
-  if it collides with an upstream network.
+<p align="center">
+  <img src="images/webui-wifi.png" alt="Web UI — Wi-Fi 5G" width="720">
+</p>
+
+- **Wi-Fi 5G** and **Wi-Fi 2.4G** are two separate hotspots; set each one's name, password and
+  channel independently, or switch one off.
+- Each page lists the devices currently connected.
+- Channels are chosen automatically, and the 5G hotspot moves out of the way if it would
+  collide with the upstream network.
+
+## LAN
+
+- Defaults to `192.168.111.0/24` with the router at `192.168.111.200`.
+- Change the subnet, router address and DHCP range if they collide with an upstream network.
+- Changes must be confirmed from the new address; if you cannot reach it, the old settings
+  come back by themselves.
 
 ## DNS Filtering
 
+<p align="center">
+  <img src="images/webui-dns.png" alt="Web UI — DNS server" width="720">
+</p>
+
 Network-level filtering applied to every device automatically — nothing to install on clients:
 
-- **Ad blocking** — block ad domains at resolution time
-- **Malware & phishing protection** — block known malicious domains
-- **Adult content filtering** — family-safe mode with one toggle
-
-Each category is an independent switch. Custom allow/deny lists are supported for
-domains you want to force through or force out.
+- **Block Ads & Trackers** — one switch blocks ads, trackers and known malicious domains.
+- **Blocklists** — add domains you don't want on your network, such as websites unsuitable
+  for children.
+- **Allowlists** — force a domain through if the filter is too strict.
+- **Rewrites** — give devices on your LAN their own names.
+- **Upstream** — choose the upstream DNS servers. A family-safe resolver here filters
+  unsuitable content for the whole network.
+- **Force DNS Redirection** — devices that try to use another DNS server are redirected to
+  Telepi, so nothing sidesteps the filter.
+- **Logs** — see what was looked up and what was blocked.
 
 ## VPN
 
-- **VPN server** (WireGuard & OpenVPN) — reach your home LAN securely from anywhere;
-  client configs are generated from the UI, scan-to-import for phones.
-- **VPN client** — route all LAN traffic through your VPN provider; every device
-  behind HelpRouter is covered without per-device setup.
+<p align="center">
+  <img src="images/webui-vpn.png" alt="Web UI — VPN client" width="720">
+</p>
 
-## Remote Access
+- **WireGuard client** — import the profile from your VPN provider or your own server.
+- When it is on, every device behind Telepi goes through the VPN without per-device setup;
+  switch it off and traffic returns to the normal upstream.
 
-1. Pick your free subdomain — `yourname.hc.ink`
-2. Flip the switch
+## SSH
 
-That's the whole setup. Behind a public IP the DDNS path is used; behind NAT/CGNAT the
-built-in tunnel keeps you reachable. No port forwarding, ever.
-
-## Built-in Services
-
-Toggle each service on/off from the UI:
-
-| Service | What it's for |
-|---|---|
-| SSH | Remote shell access to the router itself |
-| SMB | Windows/Mac network file sharing |
-| FTP | Classic file transfer |
-| Git | Host private repositories on your own hardware |
-| SVN | Subversion version control |
-| DNS | The filtering resolver (see above) |
-| Web | Host static sites on your LAN |
-| File | HTTP file server with a browser UI |
-| Local Share | Drop-in text & file sharing page between devices — no app, no cloud |
+Turn the SSH server on or off from the **SSH Server** page. Log in as `admin`
+(default password `telepi.com` — change it with `passwd`).
 
 ## System
 
-- **Upgrade** — the system checks for updates; upgrading is one click.
-- **Backup & restore** — export the full configuration to a file; restore it onto a fresh
-  flash to clone or recover your setup in minutes.
-- **Web terminal** — a real shell in the browser, for when you want to go under the hood.
-- **Logs** — system and connection logs viewable from the UI for troubleshooting.
+- **Setting** — interface language (English / 简体中文 / 繁體中文), web UI password, reboot,
+  and system logs.
+- **Upgrade** — check for a new version and install it with one click.
+- **About** — version information.
 
 ## Default Credentials (change these!)
 
 | What | Default |
 |---|---|
-| Hotspot SSID | `HelpRouter` |
-| Hotspot password | `helprouter` |
-| Web UI | `http://192.168.8.1` — admin password set during the wizard |
-
-The setup wizard walks you through changing all of these on first boot.
+| Hotspot names | `Telepi-5G-XXXX` and `Telepi-2.4G-XXXX` (XXXX is unique per image) |
+| Hotspot password | `telepi.com` |
+| Web UI | `http://192.168.111.200:8080` — `admin` / `telepi.com` |
+| SSH | `admin` / `telepi.com` |
