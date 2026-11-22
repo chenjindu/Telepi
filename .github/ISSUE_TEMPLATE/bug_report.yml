@@ -15,7 +15,7 @@ body:
     attributes:
       label: Hardware
       description: Board, RAM, storage, WiFi adapter — whatever is relevant
-      placeholder: "Raspberry Pi 5 8GB, microSD 32GB, ALFA AWUS036AXML"
+      placeholder: "Raspberry Pi 5 4GB, microSD 32GB, ALFA AWUS036AXML"
     validations:
       required: true
   - type: textarea

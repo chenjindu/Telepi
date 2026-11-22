@@ -6,7 +6,7 @@ Equivalent parts with the same specs also work — these are the exact models we
 
 | # | Photo | Part | Notes |
 |---|-------|------|-------|
-| 1 | <img src="images/hw_01.png" width="120" alt="Raspberry Pi 5"> | **Raspberry Pi 5** | 4GB RAM or more (8GB recommended) |
+| 1 | <img src="images/hw_01.png" width="120" alt="Raspberry Pi 5"> | **Raspberry Pi 5** | 2GB RAM or more |
 | 2 | <img src="images/hw_02.png" width="120" alt="27W USB-C PSU"> | **27W USB-C power supply** | Official Raspberry Pi 27W PSU recommended — the Pi 5 is picky about power |
 | 3 | <img src="images/hw_03.png" width="120" alt="GeeekPi case"> | **GeeekPi aluminum case for Pi 5** | With active cooler; supports PCIe peripheral boards (X1000/X1001/X1003/N04/N05) |
 | 4 | <img src="images/hw_04.png" width="120" alt="Waveshare M.2 HAT"> | **Waveshare PCIe to M.2 E-Key HAT** | For Raspberry Pi 5; supports NGFF (M.2 E-Key) wireless NICs, USB Bluetooth; HAT+ standard |
