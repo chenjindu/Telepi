@@ -2,7 +2,7 @@
 
 All notable changes to Telepi OS are documented here.
 
-## [2.0.0] — Unreleased
+## [2.0.0] — 2026-11-22
 
 The product is now **Telepi**, and the system image is **Telepi OS**
 (previously HelpRouter and HelpOS Router Edition). 2.0.0 focuses on being a portable router
