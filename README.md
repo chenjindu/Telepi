@@ -57,7 +57,7 @@ client can route the whole network through your VPN.
 ## Quick Start
 
 1. **Get the hardware** — see the [Hardware List](docs/hardware.md) (Raspberry Pi 5 + off-the-shelf parts)
-2. **Download** the latest Telepi OS image (currently **2.0.0**) from [telepi.com](https://telepi.com/products) or [Releases](https://github.com/chenjindu/Telepi/releases/latest)
+2. **Download** the latest Telepi OS image (currently **2.0.1**) from [telepi.com](https://telepi.com/products) or [Releases](https://github.com/chenjindu/Telepi/releases/latest)
 3. **Flash** it to a microSD card or SSD — see the [Flash Guide](docs/flash-guide.md)
 4. **Power on**, connect to the `Telepi-5G-XXXX` or `Telepi-2.4G-XXXX` WiFi hotspot (default password: `telepi.com`)
 5. Open **http://192.168.111.200:8080** and log in with `admin` / `telepi.com`

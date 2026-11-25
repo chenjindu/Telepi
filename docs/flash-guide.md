@@ -4,7 +4,7 @@ From a downloaded image to a booted router. About ten minutes, no Linux knowledg
 
 ## 1. Download the image
 
-Get the latest **Telepi OS** image (`.img.xz`, currently **2.0.0**) from:
+Get the latest **Telepi OS** image (`.img.xz`, currently **2.0.1**) from:
 
 - [telepi.com/products](https://telepi.com/products) (recommended), or
 - [GitHub Releases](https://github.com/chenjindu/Telepi/releases/latest)

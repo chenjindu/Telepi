@@ -2,6 +2,25 @@
 
 All notable changes to Telepi OS are documented here.
 
+## [2.0.1] — 2026-11-24
+
+### Fixed
+
+- The upstream WiFi connection no longer drops about once a day. The USB WiFi driver leaked
+  transmit buffers until the adapter stopped answering the upstream router's key renewal;
+  the image now ships the mt76 driver with the upstream fix
+
+### Changed
+
+- Built on a newer Raspberry Pi OS base image (kernel 6.12.75)
+- System logs are kept across reboots
+- Web UI 3.0.1: the About page shows the Telepi OS version
+
+### Upgrading
+
+Flash the 2.0.1 image — see the
+[Flash Guide](https://github.com/chenjindu/Telepi/blob/main/docs/flash-guide.md).
+
 ## [2.0.0] — 2026-11-22
 
 The product is now **Telepi**, and the system image is **Telepi OS**
