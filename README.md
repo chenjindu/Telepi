@@ -39,6 +39,10 @@ client can route the whole network through your VPN.
 </p>
 
 <p align="center">
+  <img src="docs/images/webui-status.png" alt="Telepi web interface — system status" width="720">
+</p>
+
+<p align="center">
   <img src="docs/images/webui-wan.png" alt="Telepi web interface — WAN" width="720">
 </p>
 
