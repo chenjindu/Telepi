@@ -2,7 +2,7 @@
 
 All notable changes to Telepi OS are documented here.
 
-## [2.0.1] — 2026-11-24
+## [2.0.1] — 2026-11-25
 
 ### Fixed
 
