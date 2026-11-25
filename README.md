@@ -6,7 +6,8 @@
 
 <p align="center">
   <b>Portable Router = WiFi Repeater + WiFi Router.</b><br>
-  A Raspberry Pi 5 based portable router, powered by <b>Telepi OS</b>.
+  A Raspberry Pi 5 based portable router, powered by <b>Telepi OS</b>.<br>
+  <a href="https://telepi.com/">https://telepi.com/</a>
 </p>
 
 <p align="center">

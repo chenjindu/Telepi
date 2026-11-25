@@ -4,11 +4,10 @@ All notable changes to Telepi OS are documented here.
 
 ## [2.0.1] — 2026-11-25
 
-### Fixed
+### Improved
 
-- The upstream WiFi connection no longer drops about once a day. The USB WiFi driver leaked
-  transmit buffers until the adapter stopped answering the upstream router's key renewal;
-  the image now ships the mt76 driver with the upstream fix
+- More robust WiFi drivers: the image ships an updated mt76 driver set, for better
+  long-running stability of the upstream connection and both hotspots
 
 ### Changed
 
