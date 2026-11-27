@@ -15,6 +15,18 @@ Equivalent parts with the same specs also work — these are the exact models we
 | 7 | <img src="images/hw_07.png" width="120" alt="MT7921AU USB WiFi adapter"> | **MT7921AU USB 3.0 WiFi adapter** | WiFi 6E (AXE3000, tri-band); the upstream/repeater radio. See [USB adapter models](#usb-adapter-models) below |
 | 8 | <img src="images/hw_08.png" width="120" alt="microSD / USB SSD"> | **microSD card or USB SSD** | 16 GB or larger; SSD gives better longevity under 24/7 use |
 
+## M.2 Card Options
+
+Telepi OS 2.1.0 and later detects the M.2 card on every boot and sets up the hotspots to match.
+The same image works with either card:
+
+| M.2 card | 5G hotspot | 2.4G hotspot |
+|---|---|---|
+| **MT7921 / MT7922** (the card in the list above) | M.2 card | Pi 5 onboard WiFi |
+| **AsiaRF AW7915-NPD** (MediaTek MT7915) | M.2 card, WiFi 6 | M.2 card, WiFi 6 |
+
+M.2 cards with the MT7925 chip are not supported: the card was unstable as a hotspot in our tests.
+
 ## USB Adapter Models
 
 The upstream radio is the one part where you have a choice of brands. What matters is the

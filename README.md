@@ -53,7 +53,7 @@ client can route the whole network through your VPN.
 |---|---|
 | **WAN** | WiFi repeater, saved networks, automatic reconnect, MAC clone |
 | **Wi-Fi** | Dual-band (5G + 2.4G) hotspots, connected-device list, automatic channel selection |
-| **LAN** | Your own subnet with DHCP; changes roll back automatically if they lock you out |
+| **LAN** | Your own subnet with DHCP; change it and the router restarts, then your devices pick up the new addresses when they reconnect |
 | **DNS Filtering** | Network-level blocking of ads, trackers and malicious domains; your own blocklist for unsuitable websites; allowlist, custom local names, choice of upstream DNS, query log; force DNS redirection |
 | **VPN** | WireGuard client — import a profile and cover every device on the network |
 | **Management** | Full web UI (light & dark, English / 简体中文 / 繁體中文), one-click upgrade, system logs |
@@ -62,7 +62,7 @@ client can route the whole network through your VPN.
 ## Quick Start
 
 1. **Get the hardware** — see the [Hardware List](docs/hardware.md) (Raspberry Pi 5 + off-the-shelf parts)
-2. **Download** the latest Telepi OS image (currently **2.0.1**) from [telepi.com](https://telepi.com/products) or [Releases](https://github.com/chenjindu/Telepi/releases/latest)
+2. **Download** the latest Telepi OS image (currently **2.1.0**) from [telepi.com](https://telepi.com/products) or [Releases](https://github.com/chenjindu/Telepi/releases/latest)
 3. **Flash** it to a microSD card or SSD — see the [Flash Guide](docs/flash-guide.md)
 4. **Power on**, connect to the `Telepi-5G-XXXX` or `Telepi-2.4G-XXXX` WiFi hotspot (default password: `telepi.com`)
 5. Open **http://192.168.111.200:8080** and log in with `admin` / `telepi.com`

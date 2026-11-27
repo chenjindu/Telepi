@@ -43,8 +43,8 @@ when the hotel AP hiccups at 3 a.m.
 
 - Defaults to `192.168.111.0/24` with the router at `192.168.111.200`.
 - Change the subnet, router address and DHCP range if they collide with an upstream network.
-- Changes must be confirmed from the new address; if you cannot reach it, the old settings
-  come back by themselves.
+- Applying a change restarts the router. Reconnect to the same WiFi and your devices get
+  addresses in the new subnet; the page then takes you to the web UI at its new address.
 
 ## DNS Filtering
 

@@ -73,6 +73,10 @@ Notes:
 With this layout the repeater and the dual-band hotspot run **simultaneously** —
 no bandwidth halving, no mode switching. See the [Hardware List](hardware.md) for exact parts.
 
+With an **AW7915-NPD** M.2 card instead of the MT7922 (Telepi OS 2.1.0 and later), the card
+runs both hotspots and the onboard WiFi stays off. Telepi OS detects which card is fitted
+on every boot.
+
 ## The Ethernet Port
 
 The Gigabit port detects what is plugged into it:

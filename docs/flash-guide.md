@@ -4,7 +4,7 @@ From a downloaded image to a booted router. About ten minutes, no Linux knowledg
 
 ## 1. Download the image
 
-Get the latest **Telepi OS** image (`.img.xz`, currently **2.0.1**) from:
+Get the latest **Telepi OS** image (`.img.xz`, currently **2.1.0**) from:
 
 - [telepi.com/products](https://telepi.com/products) (recommended), or
 - [GitHub Releases](https://github.com/chenjindu/Telepi/releases/latest)
@@ -16,12 +16,12 @@ it rules out corrupted downloads, which are the #1 cause of "it doesn't boot".
 
 **Windows (PowerShell):**
 ```powershell
-Get-FileHash .\YYYY-MM-DD-telepi-os-arm64_7922.img.xz -Algorithm SHA256
+Get-FileHash .\YYYY-MM-DD-telepi-os-X.Y.Z-arm64.img.xz -Algorithm SHA256
 ```
 
 **macOS / Linux:**
 ```bash
-shasum -a 256 YYYY-MM-DD-telepi-os-arm64_7922.img.xz
+shasum -a 256 YYYY-MM-DD-telepi-os-X.Y.Z-arm64.img.xz
 ```
 
 Compare the output with the checksum shown next to the download. They must match exactly.

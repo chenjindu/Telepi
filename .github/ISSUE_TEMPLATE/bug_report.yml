@@ -6,8 +6,8 @@ body:
     id: version
     attributes:
       label: Telepi OS version
-      description: The image version you downloaded (shown on the download page), e.g. 2.0.1
-      placeholder: "2.0.1"
+      description: The image version you downloaded (shown on the download page), e.g. 2.1.0
+      placeholder: "2.1.0"
     validations:
       required: true
   - type: input
