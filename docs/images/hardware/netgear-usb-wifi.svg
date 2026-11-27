@@ -1,0 +1,992 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-20 -20 1020 982" width="781.1" height="752" role="img" aria-labelledby="fold-wlan-title fold-wlan-desc">
+  <title id="fold-wlan-title">Folding-panel USB Wi-Fi adapter</title>
+  <desc id="fold-wlan-desc">An unmarked graphite housing has three rows of triangular vents. The silver USB-A plug extends left and the upright diamond-faceted folding antenna stands at the right.</desc>
+  <defs>
+    <pattern id="fold-wlan-satin" patternUnits="userSpaceOnUse" width="41" height="39" patternTransform="rotate(-17)">
+      <ellipse cx="4.041" cy="0.093" rx="0.434" ry="0.329" fill="#cdd3d1" opacity="0.123" />
+      <ellipse cx="40.719" cy="23.307" rx="1.023" ry="0.269" fill="#cdd3d1" opacity="0.101" />
+      <ellipse cx="11.433" cy="37.595" rx="0.392" ry="0.236" fill="#cdd3d1" opacity="0.123" />
+      <ellipse cx="21.268" cy="12.305" rx="0.999" ry="0.337" fill="#cdd3d1" opacity="0.114" />
+      <ellipse cx="1.441" cy="23.207" rx="1.125" ry="0.263" fill="#cdd3d1" opacity="0.109" />
+      <ellipse cx="3.92" cy="23.139" rx="0.402" ry="0.239" fill="#cdd3d1" opacity="0.066" />
+      <ellipse cx="29.018" cy="36.01" rx="0.91" ry="0.246" fill="#cdd3d1" opacity="0.102" />
+      <ellipse cx="8.853" cy="31.852" rx="0.534" ry="0.422" fill="#cdd3d1" opacity="0.07" />
+      <ellipse cx="29.769" cy="30.158" rx="0.382" ry="0.386" fill="#cdd3d1" opacity="0.067" />
+      <ellipse cx="32.15" cy="18.39" rx="0.417" ry="0.33" fill="#cdd3d1" opacity="0.08" />
+      <ellipse cx="23.009" cy="0.008" rx="1.163" ry="0.357" fill="#cdd3d1" opacity="0.086" />
+      <ellipse cx="11.763" cy="19.228" rx="0.684" ry="0.381" fill="#cdd3d1" opacity="0.117" />
+      <ellipse cx="0.579" cy="19.599" rx="0.647" ry="0.357" fill="#cdd3d1" opacity="0.086" />
+      <ellipse cx="2.156" cy="0.049" rx="0.62" ry="0.255" fill="#cdd3d1" opacity="0.127" />
+      <ellipse cx="17.002" cy="17.978" rx="0.924" ry="0.371" fill="#cdd3d1" opacity="0.11" />
+      <ellipse cx="38.535" cy="21.917" rx="0.89" ry="0.24" fill="#cdd3d1" opacity="0.096" />
+      <ellipse cx="33.656" cy="8.223" rx="0.518" ry="0.298" fill="#cdd3d1" opacity="0.079" />
+      <ellipse cx="16.241" cy="6.286" rx="1.109" ry="0.381" fill="#cdd3d1" opacity="0.083" />
+      <ellipse cx="35.209" cy="20.589" rx="0.471" ry="0.396" fill="#cdd3d1" opacity="0.121" />
+      <ellipse cx="30.732" cy="15.852" rx="0.412" ry="0.406" fill="#cdd3d1" opacity="0.067" />
+      <ellipse cx="12.511" cy="4.427" rx="0.468" ry="0.416" fill="#cdd3d1" opacity="0.129" />
+      <ellipse cx="20.944" cy="30.59" rx="0.998" ry="0.359" fill="#cdd3d1" opacity="0.079" />
+      <ellipse cx="11.945" cy="8.127" rx="0.371" ry="0.4" fill="#cdd3d1" opacity="0.07" />
+      <ellipse cx="19.628" cy="0.333" rx="0.977" ry="0.374" fill="#cdd3d1" opacity="0.064" />
+      <ellipse cx="35.004" cy="16.689" rx="0.409" ry="0.439" fill="#cdd3d1" opacity="0.077" />
+      <ellipse cx="11.176" cy="5.513" rx="0.661" ry="0.423" fill="#cdd3d1" opacity="0.114" />
+      <ellipse cx="0.819" cy="9.9" rx="1.146" ry="0.289" fill="#cdd3d1" opacity="0.113" />
+      <ellipse cx="11.699" cy="32.268" rx="1.094" ry="0.374" fill="#cdd3d1" opacity="0.066" />
+      <ellipse cx="18.057" cy="20.928" rx="0.721" ry="0.237" fill="#cdd3d1" opacity="0.13" />
+      <ellipse cx="23.367" cy="24.653" rx="1.039" ry="0.284" fill="#cdd3d1" opacity="0.089" />
+      <ellipse cx="33.895" cy="13.466" rx="0.789" ry="0.285" fill="#cdd3d1" opacity="0.072" />
+      <ellipse cx="12.254" cy="1.289" rx="0.575" ry="0.398" fill="#cdd3d1" opacity="0.088" />
+      <ellipse cx="39.648" cy="28.012" rx="0.268" ry="0.447" fill="#0e1418" opacity="0.164" />
+      <ellipse cx="26.407" cy="6.004" rx="0.908" ry="0.331" fill="#0e1418" opacity="0.138" />
+      <ellipse cx="29.915" cy="19.027" rx="1.087" ry="0.261" fill="#0e1418" opacity="0.14" />
+      <ellipse cx="7.249" cy="15.623" rx="0.301" ry="0.268" fill="#0e1418" opacity="0.096" />
+      <ellipse cx="13.003" cy="28.675" rx="1.064" ry="0.307" fill="#0e1418" opacity="0.103" />
+      <ellipse cx="37.93" cy="26.831" rx="0.801" ry="0.392" fill="#0e1418" opacity="0.166" />
+      <ellipse cx="2.701" cy="37.729" rx="0.86" ry="0.393" fill="#0e1418" opacity="0.121" />
+      <ellipse cx="9.764" cy="16.538" rx="1.114" ry="0.426" fill="#0e1418" opacity="0.168" />
+      <ellipse cx="18.149" cy="33.425" rx="0.429" ry="0.267" fill="#0e1418" opacity="0.173" />
+      <ellipse cx="28.496" cy="11.035" rx="0.556" ry="0.314" fill="#0e1418" opacity="0.09" />
+      <ellipse cx="34.144" cy="18.778" rx="0.989" ry="0.337" fill="#0e1418" opacity="0.148" />
+      <ellipse cx="12.764" cy="12.411" rx="0.262" ry="0.312" fill="#0e1418" opacity="0.098" />
+      <ellipse cx="5.966" cy="19.6" rx="0.904" ry="0.267" fill="#0e1418" opacity="0.134" />
+      <ellipse cx="4.627" cy="37.864" rx="0.341" ry="0.41" fill="#0e1418" opacity="0.147" />
+      <ellipse cx="3.75" cy="30.611" rx="0.521" ry="0.448" fill="#0e1418" opacity="0.152" />
+      <ellipse cx="34.048" cy="22.539" rx="0.26" ry="0.269" fill="#0e1418" opacity="0.087" />
+      <ellipse cx="36.396" cy="20.92" rx="0.793" ry="0.416" fill="#0e1418" opacity="0.153" />
+      <ellipse cx="14.592" cy="12.218" rx="0.973" ry="0.321" fill="#0e1418" opacity="0.178" />
+      <ellipse cx="15.255" cy="35.411" rx="0.534" ry="0.42" fill="#0e1418" opacity="0.143" />
+      <ellipse cx="21.672" cy="0.766" rx="0.908" ry="0.273" fill="#0e1418" opacity="0.16" />
+      <ellipse cx="1.743" cy="21.219" rx="0.816" ry="0.244" fill="#0e1418" opacity="0.169" />
+      <ellipse cx="4.056" cy="8.235" rx="0.956" ry="0.348" fill="#0e1418" opacity="0.144" />
+      <ellipse cx="18.606" cy="15.69" rx="1.052" ry="0.371" fill="#0e1418" opacity="0.177" />
+      <ellipse cx="40.341" cy="31.169" rx="0.526" ry="0.389" fill="#0e1418" opacity="0.083" />
+      <ellipse cx="33.049" cy="21.826" rx="0.285" ry="0.277" fill="#0e1418" opacity="0.156" />
+      <ellipse cx="33.127" cy="34.901" rx="0.262" ry="0.352" fill="#0e1418" opacity="0.128" />
+      <ellipse cx="22.624" cy="32.162" rx="0.763" ry="0.284" fill="#0e1418" opacity="0.083" />
+      <ellipse cx="22.252" cy="21.638" rx="0.647" ry="0.298" fill="#0e1418" opacity="0.146" />
+      <ellipse cx="0.067" cy="22.552" rx="0.903" ry="0.398" fill="#0e1418" opacity="0.087" />
+      <ellipse cx="1.696" cy="27.023" rx="0.297" ry="0.266" fill="#0e1418" opacity="0.158" />
+      <ellipse cx="12.472" cy="1.677" rx="0.905" ry="0.387" fill="#0e1418" opacity="0.097" />
+      <ellipse cx="35.898" cy="0.375" rx="1.193" ry="0.297" fill="#0e1418" opacity="0.083" />
+      <ellipse cx="37.802" cy="3.238" rx="0.565" ry="0.42" fill="#0e1418" opacity="0.119" />
+      <ellipse cx="15.71" cy="38.114" rx="0.587" ry="0.361" fill="#0e1418" opacity="0.139" />
+      <ellipse cx="11.099" cy="34.4" rx="0.625" ry="0.422" fill="#0e1418" opacity="0.166" />
+      <ellipse cx="36.761" cy="1.381" rx="0.32" ry="0.289" fill="#0e1418" opacity="0.103" />
+      <ellipse cx="39.315" cy="27.861" rx="1.054" ry="0.33" fill="#0e1418" opacity="0.175" />
+      <ellipse cx="3.806" cy="11.909" rx="1.168" ry="0.431" fill="#0e1418" opacity="0.153" />
+      <ellipse cx="12.98" cy="11.538" rx="0.467" ry="0.237" fill="#0e1418" opacity="0.168" />
+      <ellipse cx="21.748" cy="22.052" rx="0.969" ry="0.256" fill="#0e1418" opacity="0.128" />
+      <ellipse cx="2.575" cy="22.181" rx="0.604" ry="0.417" fill="#0e1418" opacity="0.179" />
+      <ellipse cx="0.571" cy="1.423" rx="0.736" ry="0.384" fill="#0e1418" opacity="0.136" />
+      <ellipse cx="14.199" cy="37.747" rx="0.756" ry="0.286" fill="#0e1418" opacity="0.173" />
+      <ellipse cx="24.161" cy="6.003" rx="0.338" ry="0.33" fill="#0e1418" opacity="0.174" />
+      <ellipse cx="18.046" cy="21.601" rx="0.474" ry="0.393" fill="#0e1418" opacity="0.148" />
+    </pattern>
+    <filter id="fold-wlan-foot-shadow" x="-20" y="824" width="255" height="152" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="5.2" />
+    </filter>
+    <filter id="fold-wlan-edge-shadow" x="178" y="716" width="758" height="176" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="4.8" />
+    </filter>
+    <linearGradient id="fold-wlan-plug-metal-side" gradientUnits="userSpaceOnUse" x1="944" y1="644" x2="949" y2="692">
+      <stop offset="0" stop-color="#747b7e" />
+      <stop offset="0.12" stop-color="#575e62" />
+      <stop offset="0.4" stop-color="#52575b" />
+      <stop offset="0.85" stop-color="#494f52" />
+      <stop offset="1" stop-color="#646b6d" />
+    </linearGradient>
+    <linearGradient id="fold-wlan-plug-metal-top" gradientUnits="userSpaceOnUse" x1="898" y1="620" x2="919" y2="659">
+      <stop offset="0" stop-color="#b0b5b6" />
+      <stop offset="0.29" stop-color="#c5cacb" />
+      <stop offset="0.59" stop-color="#d7d9d8" />
+      <stop offset="0.92" stop-color="#c6cccc" />
+      <stop offset="1" stop-color="#adb6b6" />
+    </linearGradient>
+    <clipPath id="fold-wlan-plug-top-perimeter" clipPathUnits="userSpaceOnUse">
+      <path d="M840.3 629.6 L909.9 617.3 Q911.7 616.9 913.8 617.85 L974.6 643.5 Q976.5 644.3 976.5 645.8 L916.1 656.6 Z" fill="#fff" />
+    </clipPath>
+    <linearGradient id="fold-wlan-case-base" gradientUnits="userSpaceOnUse" x1="258" y1="748" x2="899" y2="767">
+      <stop offset="0" stop-color="#343b3f" />
+      <stop offset="0.4" stop-color="#41474a" />
+      <stop offset="1" stop-color="#292f32" />
+    </linearGradient>
+    <linearGradient id="fold-wlan-swivel-underbody" gradientUnits="userSpaceOnUse" x1="207" y1="805" x2="229" y2="863">
+      <stop offset="0" stop-color="#262d31" />
+      <stop offset="0.43" stop-color="#3c4447" />
+      <stop offset="0.85" stop-color="#5c6265" />
+      <stop offset="1" stop-color="#6e7474" />
+    </linearGradient>
+    <linearGradient id="fold-wlan-charcoal-wall" gradientUnits="userSpaceOnUse" x1="392" y1="736" x2="650" y2="844">
+      <stop offset="0" stop-color="#41484b" />
+      <stop offset="0.38" stop-color="#3a4144" />
+      <stop offset="0.7" stop-color="#343b3e" />
+      <stop offset="1" stop-color="#2c3235" />
+    </linearGradient>
+    <clipPath id="fold-wlan-vent-wall-outline" clipPathUnits="userSpaceOnUse">
+      <path d="M207.1 815.7 C207.8 804.1 212.4 792.8 220.9 782.4 Q231.2 770.1 243.8 766.1 Q250.1 764.1 259.3 762.7 L918.5 655.2 Q920 654.9 919.4 657.9 L905.0 750.8 Q904.8 752.3 903.4 752.9 L232.1 862.4 Q229.6 862.8 228.5 860.9 L212.3 833.9 Q207.2 825.1 207.1 815.7 Z" fill="#fff" />
+    </clipPath>
+    <linearGradient id="fold-wlan-window-rim" gradientUnits="userSpaceOnUse" x1="814" y1="697" x2="844" y2="747">
+      <stop offset="0" stop-color="#3a4246" />
+      <stop offset="0.31" stop-color="#51595b" />
+      <stop offset="0.66" stop-color="#32393c" />
+      <stop offset="1" stop-color="#252b2e" />
+    </linearGradient>
+    <linearGradient id="fold-wlan-smoked-polymer" gradientUnits="userSpaceOnUse" x1="821" y1="698" x2="859" y2="739">
+      <stop offset="0" stop-color="#737a7b" />
+      <stop offset="0.2" stop-color="#52595b" />
+      <stop offset="0.46" stop-color="#41484b" />
+      <stop offset="0.77" stop-color="#484f51" />
+      <stop offset="0.95" stop-color="#3a4245" />
+      <stop offset="1" stop-color="#343a3e" />
+    </linearGradient>
+    <clipPath id="fold-wlan-window-aperture" clipPathUnits="userSpaceOnUse">
+      <path d="M822.35 703.35 Q823.8 700.72 826.3 700.1 L881.0 690.5 Q884.64 689.96 883.15 693.06 L862.32 731.75 Q861.0 734.46 858.1 734.94 L803.55 744.16 Q800.65 744.42 802.03 741.5 Z" fill="#fff" />
+    </clipPath>
+    <linearGradient id="fold-wlan-unmarked-matte-graphite" gradientUnits="userSpaceOnUse" x1="424" y1="774" x2="514" y2="586">
+      <stop offset="0" stop-color="#494f52" />
+      <stop offset="0.27" stop-color="#50575a" />
+      <stop offset="0.59" stop-color="#565c5f" />
+      <stop offset="0.83" stop-color="#5b6063" />
+      <stop offset="1" stop-color="#616568" />
+    </linearGradient>
+    <clipPath id="fold-wlan-top-boundary" clipPathUnits="userSpaceOnUse">
+      <path d="M181 673.2 L752.6 583.2 Q754.65 582.65 756.6 583.56 L917.9 653.5 Q920.3 654.5 917.7 655.75 L259.6 763.8 C241.2 766.2 228.8 774.0 219.4 786.5 Q210.6 797.4 207.6 811.3 L192.8 808.5 Z" fill="#fff" />
+    </clipPath>
+    <linearGradient id="fold-wlan-hinge-pocket" gradientUnits="userSpaceOnUse" x1="204" y1="718" x2="241" y2="737">
+      <stop offset="0" stop-color="#141b20" />
+      <stop offset="0.5" stop-color="#0d1316" />
+      <stop offset="1" stop-color="#252c2f" />
+    </linearGradient>
+    <linearGradient id="fold-wlan-hinge-ambient" gradientUnits="userSpaceOnUse" x1="211" y1="809" x2="231" y2="714">
+      <stop offset="0" stop-color="#11181c" stop-opacity="0.82" />
+      <stop offset="0.34" stop-color="#171e22" stop-opacity="0.56" />
+      <stop offset="0.83" stop-color="#1a2226" stop-opacity="0" />
+      <stop offset="1" stop-color="#1a2226" stop-opacity="0" />
+    </linearGradient>
+    <linearGradient id="fold-wlan-screw-cap" gradientUnits="userSpaceOnUse" x1="-18" y1="-18" x2="21" y2="25">
+      <stop offset="0" stop-color="#7f8585" />
+      <stop offset="0.27" stop-color="#686f70" />
+      <stop offset="0.63" stop-color="#565d5f" />
+      <stop offset="1" stop-color="#3b4347" />
+    </linearGradient>
+    <linearGradient id="fold-wlan-outer-panel-shell" gradientUnits="userSpaceOnUse" x1="35" y1="47" x2="174" y2="922">
+      <stop offset="0" stop-color="#353c40" />
+      <stop offset="0.4" stop-color="#3d4448" />
+      <stop offset="0.72" stop-color="#444b4e" />
+      <stop offset="1" stop-color="#535a5c" />
+    </linearGradient>
+    <linearGradient id="fold-wlan-panel-side" gradientUnits="userSpaceOnUse" x1="173" y1="74" x2="200" y2="916">
+      <stop offset="0" stop-color="#262b2e" />
+      <stop offset="0.28" stop-color="#282e31" />
+      <stop offset="0.7" stop-color="#31373a" />
+      <stop offset="1" stop-color="#393f42" />
+    </linearGradient>
+    <linearGradient id="fold-wlan-panel-bezel" gradientUnits="userSpaceOnUse" x1="3" y1="15" x2="177" y2="921">
+      <stop offset="0" stop-color="#434a4e" />
+      <stop offset="0.38" stop-color="#363d40" />
+      <stop offset="0.72" stop-color="#444b4e" />
+      <stop offset="1" stop-color="#555c60" />
+    </linearGradient>
+    <linearGradient id="fold-wlan-panel-top" gradientUnits="userSpaceOnUse" x1="41" y1="5" x2="178" y2="73">
+      <stop offset="0" stop-color="#5c6365" />
+      <stop offset="0.49" stop-color="#555c5e" />
+      <stop offset="1" stop-color="#4b5255" />
+    </linearGradient>
+    <clipPath id="fold-wlan-panel-inlay" clipPathUnits="userSpaceOnUse">
+      <path d="M6.24 13.54 L163.57 80.21 L167.0 928.31 Q167.02 929.67 165.91 929.02 L12.91 850.16 Q12.27 849.79 12.25 848.87 Z" fill="#fff" />
+    </clipPath>
+  </defs>
+  <g id="fold-wlan-assembly" transform="matrix(-1 0 0 1 980 0)">
+    <g id="fold-wlan-contact-shadow">
+      <path d="M13 852 L169 932 L206 903 Q211 906 207 912 L181 939 Q174 948 165 943 L20 866 Q11 861 13 852 Z" fill="#152025" opacity=".16" filter="url(#fold-wlan-foot-shadow)" />
+      <path d="M212 847 L230 853 L904 746 L907 750 Q905 757 898 758 L240 867 Q230 869 223 863 Z" fill="#172026" opacity=".13" filter="url(#fold-wlan-edge-shadow)" />
+    </g>
+    <g id="fold-wlan-usb-a-plug">
+      <path d="M840.2 629.7 L908.9 617.1 Q911.4 616.4 913.3 617.4 L975 642.9 Q977.2 644 977.1 647 L976.6 686.4 Q976.7 689.5 974.6 689.8 L905.6 701.4 L837.7 670.9 Z" fill="url(#fold-wlan-plug-metal-side)" />
+      <path d="M840.3 629.6 L909.9 617.3 Q911.7 616.9 913.8 617.85 L974.6 643.5 Q976.5 644.3 976.5 645.8 L916.1 656.6 Z" fill="url(#fold-wlan-plug-metal-top)" stroke="#8e979b" stroke-width="1.2" stroke-linejoin="round" />
+      <g clip-path="url(#fold-wlan-plug-top-perimeter)">
+        <path d="M899.607 628.213 l24.979 -3.997" fill="none" stroke="#80888b" stroke-width="0.522" opacity="0.113" stroke-linecap="round" stroke-linejoin="round" />
+        <path d="M865.912 635.538 l26.184 -4.189" fill="none" stroke="#f4f5ee" stroke-width="0.633" opacity="0.124" stroke-linecap="round" stroke-linejoin="round" />
+        <path d="M922.128 620.702 l21.447 -3.432" fill="none" stroke="#f4f5ee" stroke-width="0.784" opacity="0.106" stroke-linecap="round" stroke-linejoin="round" />
+        <path d="M954.576 652.972 l23.644 -3.783" fill="none" stroke="#80888b" stroke-width="0.586" opacity="0.179" stroke-linecap="round" stroke-linejoin="round" />
+        <path d="M950.909 645.424 l15.154 -2.425" fill="none" stroke="#f4f5ee" stroke-width="0.602" opacity="0.125" stroke-linecap="round" stroke-linejoin="round" />
+        <path d="M950.119 635.976 l27.754 -4.441" fill="none" stroke="#f4f5ee" stroke-width="0.752" opacity="0.172" stroke-linecap="round" stroke-linejoin="round" />
+        <path d="M940.884 628.008 l14.382 -2.301" fill="none" stroke="#80888b" stroke-width="0.548" opacity="0.19" stroke-linecap="round" stroke-linejoin="round" />
+        <path d="M937.632 627.985 l22.938 -3.67" fill="none" stroke="#f4f5ee" stroke-width="0.534" opacity="0.162" stroke-linecap="round" stroke-linejoin="round" />
+        <path d="M907.793 640.735 l9.868 -1.579" fill="none" stroke="#f4f5ee" stroke-width="0.796" opacity="0.116" stroke-linecap="round" stroke-linejoin="round" />
+        <path d="M947.874 648.949 l11.463 -1.834" fill="none" stroke="#80888b" stroke-width="0.64" opacity="0.113" stroke-linecap="round" stroke-linejoin="round" />
+        <path d="M899.86 618.169 l17.713 -2.834" fill="none" stroke="#f4f5ee" stroke-width="0.704" opacity="0.147" stroke-linecap="round" stroke-linejoin="round" />
+        <path d="M868.862 628.439 l17.267 -2.763" fill="none" stroke="#f4f5ee" stroke-width="0.655" opacity="0.172" stroke-linecap="round" stroke-linejoin="round" />
+        <path d="M899.284 645.482 l18.153 -2.905" fill="none" stroke="#80888b" stroke-width="0.511" opacity="0.188" stroke-linecap="round" stroke-linejoin="round" />
+        <path d="M936.872 653.989 l13.453 -2.152" fill="none" stroke="#f4f5ee" stroke-width="0.652" opacity="0.161" stroke-linecap="round" stroke-linejoin="round" />
+        <path d="M872.37 653.75 l17.248 -2.76" fill="none" stroke="#f4f5ee" stroke-width="0.823" opacity="0.116" stroke-linecap="round" stroke-linejoin="round" />
+        <path d="M952.689 647.782 l27.897 -4.464" fill="none" stroke="#80888b" stroke-width="0.813" opacity="0.125" stroke-linecap="round" stroke-linejoin="round" />
+        <path d="M901.73 647.003 l31.958 -5.113" fill="none" stroke="#f4f5ee" stroke-width="0.632" opacity="0.134" stroke-linecap="round" stroke-linejoin="round" />
+        <path d="M928.683 645.179 l19.602 -3.136" fill="none" stroke="#f4f5ee" stroke-width="0.488" opacity="0.178" stroke-linecap="round" stroke-linejoin="round" />
+        <path d="M933.609 627.445 l18.655 -2.985" fill="none" stroke="#80888b" stroke-width="0.82" opacity="0.13" stroke-linecap="round" stroke-linejoin="round" />
+        <path d="M929.612 638.486 l26.793 -4.287" fill="none" stroke="#f4f5ee" stroke-width="0.693" opacity="0.162" stroke-linecap="round" stroke-linejoin="round" />
+        <path d="M896.04 629.981 l26.268 -4.203" fill="none" stroke="#f4f5ee" stroke-width="0.542" opacity="0.168" stroke-linecap="round" stroke-linejoin="round" />
+        <path d="M871.238 634.061 l19.583 -3.133" fill="none" stroke="#80888b" stroke-width="0.538" opacity="0.166" stroke-linecap="round" stroke-linejoin="round" />
+        <path d="M920.588 641.856 l17.61 -2.818" fill="none" stroke="#f4f5ee" stroke-width="0.729" opacity="0.158" stroke-linecap="round" stroke-linejoin="round" />
+      </g>
+      <g id="fold-wlan-plug-opening-1" transform="translate(859.0 629.2)">
+        <path d="M0 .5 L15.1 -2.1 Q16.3 -2.3 17.1 -1.8 L28.6 3.5 Q29.1 3.9 27.9 4.25 L13.4 6.55 Z" fill="#a1a9ab" stroke="#d8dcd9" stroke-width=".8" />
+        <path d="M1.8 .8 L15.9 -1.47 L27.3 3.65 L13.6 5.95 Z" fill="#172229" />
+        <path d="M6.75 1.5 L16.1 -.0 L24.9 3.81 L14.1 5.51 Z" fill="#30445c" />
+        <path d="M15.9 -.9 L26.2 3.7" fill="none" stroke="#0c141a" stroke-width="0.95" opacity="1" stroke-linecap="round" stroke-linejoin="round" />
+      </g>
+      <g id="fold-wlan-plug-opening-2" transform="translate(892.8 644.6)">
+        <path d="M0 .5 L15.1 -2.1 Q16.3 -2.3 17.1 -1.8 L28.6 3.5 Q29.1 3.9 27.9 4.25 L13.4 6.55 Z" fill="#a1a9ab" stroke="#d8dcd9" stroke-width=".8" />
+        <path d="M1.8 .8 L15.9 -1.47 L27.3 3.65 L13.6 5.95 Z" fill="#172229" />
+        <path d="M6.75 1.5 L16.1 -.0 L24.9 3.81 L14.1 5.51 Z" fill="#30445c" />
+        <path d="M15.9 -.9 L26.2 3.7" fill="none" stroke="#0c141a" stroke-width="0.95" opacity="1" stroke-linecap="round" stroke-linejoin="round" />
+      </g>
+      <path d="M851.8 627.9 L909.4 617.9 Q911.6 617.5 913.7 618.4" fill="none" stroke="#d6dbd9" stroke-width="1" opacity="0.72" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M917.8 654.9 L975.4 645.2" fill="none" stroke="#eff1ee" stroke-width="2.2" opacity="0.93" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M918.9 657.6 L975.6 648.2" fill="none" stroke="#9fa8ab" stroke-width="1.05" opacity="0.82" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M976.2 648.6 L976 686.9 Q975.8 688.6 974.1 688.9 L914.4 699.1" fill="none" stroke="#828b8e" stroke-width="1.25" opacity="0.65" stroke-linecap="round" stroke-linejoin="round" />
+    </g>
+    <g id="fold-wlan-usb-housing">
+      <path d="M177.7 674.2 L752.6 583.2 Q754.8 582.6 756.7 583.4 L918.7 653.3 Q920 654 919.6 656.4 L905.2 750.4 Q905 752.5 902.9 753 L232.2 862.8 Q230.1 863.1 228.4 862.2 L185.4 839.2 Z" fill="url(#fold-wlan-case-base)" />
+      <path d="M187.1 750.5 L240.6 756.2 L235.7 854.7 L230.6 862.6 Q228 862.5 224.8 860.7 L188.7 841.6 Z" fill="url(#fold-wlan-swivel-underbody)" />
+      <path d="M207.1 815.7 C207.8 804.1 212.4 792.8 220.9 782.4 Q231.2 770.1 243.8 766.1 Q250.1 764.1 259.3 762.7 L918.5 655.2 Q920 654.9 919.4 657.9 L905.0 750.8 Q904.8 752.3 903.4 752.9 L232.1 862.4 Q229.6 862.8 228.5 860.9 L212.3 833.9 Q207.2 825.1 207.1 815.7 Z" fill="url(#fold-wlan-charcoal-wall)" />
+      <g clip-path="url(#fold-wlan-vent-wall-outline)">
+        <path d="M207.1 815.7 C207.8 804.1 212.4 792.8 220.9 782.4 Q231.2 770.1 243.8 766.1 Q250.1 764.1 259.3 762.7 L918.5 655.2 Q920 654.9 919.4 657.9 L905.0 750.8 Q904.8 752.3 903.4 752.9 L232.1 862.4 Q229.6 862.8 228.5 860.9 L212.3 833.9 Q207.2 825.1 207.1 815.7 Z" fill="url(#fold-wlan-satin)" opacity=".69" />
+        <g id="fold-wlan-triangular-vent-grille">
+          <g id="fold-wlan-vent-row-1">
+            <path d="M247.45 774.332 L263.35 771.324 Q265.7 771.114 264.57 773.614 L254.35 789.7 Q252.96 791.85 251.76 789.9 L245.65 776.732 Q244.61 774.652 247.45 774.332 Z" fill="#7a8284" opacity=".50" transform="translate(.31 1.05)" />
+            <path d="M247.45 774.332 L263.35 771.324 Q265.7 771.114 264.57 773.614 L254.35 789.7 Q252.96 791.85 251.76 789.9 L245.65 776.732 Q244.61 774.652 247.45 774.332 Z" fill="#111719" />
+            <path d="M247.3 775.682 L263.05 772.654" fill="none" stroke="#070d10" stroke-width="1.45" opacity="0.94" stroke-linecap="round" stroke-linejoin="round" />
+            <path d="M246.75 776.732 L252.2 789" fill="none" stroke="#343b3e" stroke-width="0.83" opacity="0.72" stroke-linecap="round" stroke-linejoin="round" />
+            <path d="M277.45 769.491 L294.35 766.324 Q296.7 766.114 295.57 768.614 L285.35 784.7 Q283.96 786.85 282.76 784.9 L275.65 771.891 Q274.61 769.811 277.45 769.491 Z" fill="#7a8284" opacity=".50" transform="translate(.31 1.05)" />
+            <path d="M277.45 769.491 L294.35 766.324 Q296.7 766.114 295.57 768.614 L285.35 784.7 Q283.96 786.85 282.76 784.9 L275.65 771.891 Q274.61 769.811 277.45 769.491 Z" fill="#111719" />
+            <path d="M277.3 770.841 L294.05 767.654" fill="none" stroke="#070d10" stroke-width="1.45" opacity="0.94" stroke-linecap="round" stroke-linejoin="round" />
+            <path d="M276.75 771.891 L283.2 784" fill="none" stroke="#343b3e" stroke-width="0.83" opacity="0.72" stroke-linecap="round" stroke-linejoin="round" />
+            <path d="M308.45 764.537 L324.35 761.529 Q326.7 761.319 325.57 763.819 L315.85 779.7 Q314.46 781.85 313.26 779.9 L306.65 766.937 Q305.61 764.857 308.45 764.537 Z" fill="#7a8284" opacity=".50" transform="translate(.31 1.05)" />
+            <path d="M308.45 764.537 L324.35 761.529 Q326.7 761.319 325.57 763.819 L315.85 779.7 Q314.46 781.85 313.26 779.9 L306.65 766.937 Q305.61 764.857 308.45 764.537 Z" fill="#1a2023" />
+            <path d="M308.3 765.887 L324.05 762.859" fill="none" stroke="#070d10" stroke-width="1.45" opacity="0.94" stroke-linecap="round" stroke-linejoin="round" />
+            <path d="M307.75 766.937 L313.7 779" fill="none" stroke="#343b3e" stroke-width="0.83" opacity="0.72" stroke-linecap="round" stroke-linejoin="round" />
+            <path d="M340.45 759.537 L355.35 756.688 Q357.7 756.478 356.57 758.978 L346.35 774.7 Q344.96 776.85 343.76 774.9 L338.65 761.937 Q337.61 759.857 340.45 759.537 Z" fill="#7a8284" opacity=".50" transform="translate(.31 1.05)" />
+            <path d="M340.45 759.537 L355.35 756.688 Q357.7 756.478 356.57 758.978 L346.35 774.7 Q344.96 776.85 343.76 774.9 L338.65 761.937 Q337.61 759.857 340.45 759.537 Z" fill="#111719" />
+            <path d="M340.3 760.887 L355.05 758.018" fill="none" stroke="#070d10" stroke-width="1.45" opacity="0.94" stroke-linecap="round" stroke-linejoin="round" />
+            <path d="M339.75 761.937 L344.2 774" fill="none" stroke="#343b3e" stroke-width="0.83" opacity="0.72" stroke-linecap="round" stroke-linejoin="round" />
+            <path d="M373.45 754.355 L385.35 751.983 Q387.7 751.773 386.57 754.273 L376.85 769.7 Q375.46 771.85 374.26 769.9 L371.65 756.755 Q370.61 754.675 373.45 754.355 Z" fill="#7a8284" opacity=".50" transform="translate(.31 1.05)" />
+            <path d="M373.45 754.355 L385.35 751.983 Q387.7 751.773 386.57 754.273 L376.85 769.7 Q375.46 771.85 374.26 769.9 L371.65 756.755 Q370.61 754.675 373.45 754.355 Z" fill="#1a2023" />
+            <path d="M373.3 755.705 L385.05 753.313" fill="none" stroke="#070d10" stroke-width="1.45" opacity="0.94" stroke-linecap="round" stroke-linejoin="round" />
+            <path d="M372.75 756.755 L374.7 769" fill="none" stroke="#343b3e" stroke-width="0.83" opacity="0.72" stroke-linecap="round" stroke-linejoin="round" />
+            <path d="M403.45 749.673 L415.35 747.301 Q417.7 747.091 416.57 749.591 L407.35 764.7 Q405.96 766.85 404.76 764.9 L401.65 752.073 Q400.61 749.993 403.45 749.673 Z" fill="#7a8284" opacity=".50" transform="translate(.31 1.05)" />
+            <path d="M403.45 749.673 L415.35 747.301 Q417.7 747.091 416.57 749.591 L407.35 764.7 Q405.96 766.85 404.76 764.9 L401.65 752.073 Q400.61 749.993 403.45 749.673 Z" fill="#111719" />
+            <path d="M403.3 751.023 L415.05 748.631" fill="none" stroke="#070d10" stroke-width="1.45" opacity="0.94" stroke-linecap="round" stroke-linejoin="round" />
+            <path d="M402.75 752.073 L405.2 764" fill="none" stroke="#343b3e" stroke-width="0.83" opacity="0.72" stroke-linecap="round" stroke-linejoin="round" />
+            <path d="M430.45 745.083 L446.35 742.075 Q448.7 741.865 447.57 744.365 L437.35 759.7 Q435.96 761.85 434.76 759.9 L428.65 747.483 Q427.61 745.403 430.45 745.083 Z" fill="#7a8284" opacity=".50" transform="translate(.31 1.05)" />
+            <path d="M430.45 745.083 L446.35 742.075 Q448.7 741.865 447.57 744.365 L437.35 759.7 Q435.96 761.85 434.76 759.9 L428.65 747.483 Q427.61 745.403 430.45 745.083 Z" fill="#111719" />
+            <path d="M430.3 746.433 L446.05 743.405" fill="none" stroke="#070d10" stroke-width="1.45" opacity="0.94" stroke-linecap="round" stroke-linejoin="round" />
+            <path d="M429.75 747.483 L435.2 759" fill="none" stroke="#343b3e" stroke-width="0.83" opacity="0.72" stroke-linecap="round" stroke-linejoin="round" />
+            <path d="M460.45 740.275 L476.35 737.268 Q478.7 737.058 477.57 739.558 L467.35 754.7 Q465.96 756.85 464.76 754.9 L458.65 742.675 Q457.61 740.595 460.45 740.275 Z" fill="#7a8284" opacity=".50" transform="translate(.31 1.05)" />
+            <path d="M460.45 740.275 L476.35 737.268 Q478.7 737.058 477.57 739.558 L467.35 754.7 Q465.96 756.85 464.76 754.9 L458.65 742.675 Q457.61 740.595 460.45 740.275 Z" fill="#111719" />
+            <path d="M460.3 741.625 L476.05 738.598" fill="none" stroke="#070d10" stroke-width="1.45" opacity="0.94" stroke-linecap="round" stroke-linejoin="round" />
+            <path d="M459.75 742.675 L465.2 754" fill="none" stroke="#343b3e" stroke-width="0.83" opacity="0.72" stroke-linecap="round" stroke-linejoin="round" />
+            <path d="M490.45 735.355 L506.35 732.347 Q508.7 732.137 507.57 734.637 L497.35 749.7 Q495.96 751.85 494.76 749.9 L488.65 737.755 Q487.61 735.675 490.45 735.355 Z" fill="#7a8284" opacity=".50" transform="translate(.31 1.05)" />
+            <path d="M490.45 735.355 L506.35 732.347 Q508.7 732.137 507.57 734.637 L497.35 749.7 Q495.96 751.85 494.76 749.9 L488.65 737.755 Q487.61 735.675 490.45 735.355 Z" fill="#1a2023" />
+            <path d="M490.3 736.705 L506.05 733.677" fill="none" stroke="#070d10" stroke-width="1.45" opacity="0.94" stroke-linecap="round" stroke-linejoin="round" />
+            <path d="M489.75 737.755 L495.2 749" fill="none" stroke="#343b3e" stroke-width="0.83" opacity="0.72" stroke-linecap="round" stroke-linejoin="round" />
+            <path d="M521.45 730.491 L536.35 727.642 Q538.7 727.432 537.57 729.932 L528.35 745.7 Q526.96 747.85 525.76 745.9 L519.65 732.891 Q518.61 730.811 521.45 730.491 Z" fill="#7a8284" opacity=".50" transform="translate(.31 1.05)" />
+            <path d="M521.45 730.491 L536.35 727.642 Q538.7 727.432 537.57 729.932 L528.35 745.7 Q526.96 747.85 525.76 745.9 L519.65 732.891 Q518.61 730.811 521.45 730.491 Z" fill="#111719" />
+            <path d="M521.3 731.841 L536.05 728.972" fill="none" stroke="#070d10" stroke-width="1.45" opacity="0.94" stroke-linecap="round" stroke-linejoin="round" />
+            <path d="M520.75 732.891 L526.2 745" fill="none" stroke="#343b3e" stroke-width="0.83" opacity="0.72" stroke-linecap="round" stroke-linejoin="round" />
+            <path d="M554.45 725.514 L566.35 723.142 Q568.7 722.932 567.57 725.432 L557.85 740.7 Q556.46 742.85 555.26 740.9 L552.65 727.914 Q551.61 725.834 554.45 725.514 Z" fill="#7a8284" opacity=".50" transform="translate(.31 1.05)" />
+            <path d="M554.45 725.514 L566.35 723.142 Q568.7 722.932 567.57 725.432 L557.85 740.7 Q556.46 742.85 555.26 740.9 L552.65 727.914 Q551.61 725.834 554.45 725.514 Z" fill="#111719" />
+            <path d="M554.3 726.864 L566.05 724.472" fill="none" stroke="#070d10" stroke-width="1.45" opacity="0.94" stroke-linecap="round" stroke-linejoin="round" />
+            <path d="M553.75 727.914 L555.7 740" fill="none" stroke="#343b3e" stroke-width="0.83" opacity="0.72" stroke-linecap="round" stroke-linejoin="round" />
+            <path d="M584.45 720.696 L596.35 718.324 Q598.7 718.114 597.57 720.614 L587.35 735.7 Q585.96 737.85 584.76 735.9 L582.65 723.096 Q581.61 721.016 584.45 720.696 Z" fill="#7a8284" opacity=".50" transform="translate(.31 1.05)" />
+            <path d="M584.45 720.696 L596.35 718.324 Q598.7 718.114 597.57 720.614 L587.35 735.7 Q585.96 737.85 584.76 735.9 L582.65 723.096 Q581.61 721.016 584.45 720.696 Z" fill="#111719" />
+            <path d="M584.3 722.046 L596.05 719.654" fill="none" stroke="#070d10" stroke-width="1.45" opacity="0.94" stroke-linecap="round" stroke-linejoin="round" />
+            <path d="M583.75 723.096 L585.2 735" fill="none" stroke="#343b3e" stroke-width="0.83" opacity="0.72" stroke-linecap="round" stroke-linejoin="round" />
+            <path d="M610.45 716.15 L626.35 713.142 Q628.7 712.932 627.57 715.432 L617.35 730.7 Q615.96 732.85 614.76 730.9 L608.65 718.55 Q607.61 716.47 610.45 716.15 Z" fill="#7a8284" opacity=".50" transform="translate(.31 1.05)" />
+            <path d="M610.45 716.15 L626.35 713.142 Q628.7 712.932 627.57 715.432 L617.35 730.7 Q615.96 732.85 614.76 730.9 L608.65 718.55 Q607.61 716.47 610.45 716.15 Z" fill="#111719" />
+            <path d="M610.3 717.5 L626.05 714.472" fill="none" stroke="#070d10" stroke-width="1.45" opacity="0.94" stroke-linecap="round" stroke-linejoin="round" />
+            <path d="M609.75 718.55 L615.2 730" fill="none" stroke="#343b3e" stroke-width="0.83" opacity="0.72" stroke-linecap="round" stroke-linejoin="round" />
+            <path d="M640.45 711.355 L655.35 708.506 Q657.7 708.296 656.57 710.796 L647.35 725.7 Q645.96 727.85 644.76 725.9 L638.65 713.755 Q637.61 711.675 640.45 711.355 Z" fill="#7a8284" opacity=".50" transform="translate(.31 1.05)" />
+            <path d="M640.45 711.355 L655.35 708.506 Q657.7 708.296 656.57 710.796 L647.35 725.7 Q645.96 727.85 644.76 725.9 L638.65 713.755 Q637.61 711.675 640.45 711.355 Z" fill="#111719" />
+            <path d="M640.3 712.705 L655.05 709.836" fill="none" stroke="#070d10" stroke-width="1.45" opacity="0.94" stroke-linecap="round" stroke-linejoin="round" />
+            <path d="M639.75 713.755 L645.2 725" fill="none" stroke="#343b3e" stroke-width="0.83" opacity="0.72" stroke-linecap="round" stroke-linejoin="round" />
+            <path d="M669.45 706.627 L685.35 703.619 Q687.7 703.409 686.57 705.909 L676.85 721.7 Q675.46 723.85 674.26 721.9 L667.65 709.027 Q666.61 706.947 669.45 706.627 Z" fill="#7a8284" opacity=".50" transform="translate(.31 1.05)" />
+            <path d="M669.45 706.627 L685.35 703.619 Q687.7 703.409 686.57 705.909 L676.85 721.7 Q675.46 723.85 674.26 721.9 L667.65 709.027 Q666.61 706.947 669.45 706.627 Z" fill="#111719" />
+            <path d="M669.3 707.977 L685.05 704.949" fill="none" stroke="#070d10" stroke-width="1.45" opacity="0.94" stroke-linecap="round" stroke-linejoin="round" />
+            <path d="M668.75 709.027 L674.7 721" fill="none" stroke="#343b3e" stroke-width="0.83" opacity="0.72" stroke-linecap="round" stroke-linejoin="round" />
+            <path d="M699.45 701.832 L715.35 698.824 Q717.7 698.614 716.57 701.114 L706.35 716.7 Q704.96 718.85 703.76 716.9 L697.65 704.232 Q696.61 702.152 699.45 701.832 Z" fill="#7a8284" opacity=".50" transform="translate(.31 1.05)" />
+            <path d="M699.45 701.832 L715.35 698.824 Q717.7 698.614 716.57 701.114 L706.35 716.7 Q704.96 718.85 703.76 716.9 L697.65 704.232 Q696.61 702.152 699.45 701.832 Z" fill="#111719" />
+            <path d="M699.3 703.182 L715.05 700.154" fill="none" stroke="#070d10" stroke-width="1.45" opacity="0.94" stroke-linecap="round" stroke-linejoin="round" />
+            <path d="M698.75 704.232 L704.2 716" fill="none" stroke="#343b3e" stroke-width="0.83" opacity="0.72" stroke-linecap="round" stroke-linejoin="round" />
+            <path d="M728.45 697.196 L744.35 694.188 Q746.7 693.978 745.57 696.478 L736.35 711.7 Q734.96 713.85 733.76 711.9 L726.65 699.596 Q725.61 697.516 728.45 697.196 Z" fill="#7a8284" opacity=".50" transform="translate(.31 1.05)" />
+            <path d="M728.45 697.196 L744.35 694.188 Q746.7 693.978 745.57 696.478 L736.35 711.7 Q734.96 713.85 733.76 711.9 L726.65 699.596 Q725.61 697.516 728.45 697.196 Z" fill="#1a2023" />
+            <path d="M728.3 698.546 L744.05 695.518" fill="none" stroke="#070d10" stroke-width="1.45" opacity="0.94" stroke-linecap="round" stroke-linejoin="round" />
+            <path d="M727.75 699.596 L734.2 711" fill="none" stroke="#343b3e" stroke-width="0.83" opacity="0.72" stroke-linecap="round" stroke-linejoin="round" />
+            <path d="M760.45 692.309 L773.35 689.778 Q775.7 689.568 774.57 692.068 L765.35 707.7 Q763.96 709.85 762.76 707.9 L758.65 694.709 Q757.61 692.629 760.45 692.309 Z" fill="#7a8284" opacity=".50" transform="translate(.31 1.05)" />
+            <path d="M760.45 692.309 L773.35 689.778 Q775.7 689.568 774.57 692.068 L765.35 707.7 Q763.96 709.85 762.76 707.9 L758.65 694.709 Q757.61 692.629 760.45 692.309 Z" fill="#111719" />
+            <path d="M760.3 693.659 L773.05 691.108" fill="none" stroke="#070d10" stroke-width="1.45" opacity="0.94" stroke-linecap="round" stroke-linejoin="round" />
+            <path d="M759.75 694.709 L763.2 707" fill="none" stroke="#343b3e" stroke-width="0.83" opacity="0.72" stroke-linecap="round" stroke-linejoin="round" />
+            <path d="M787.45 687.809 L803.35 684.801 Q805.7 684.591 804.57 687.091 L794.85 702.7 Q793.46 704.85 792.26 702.9 L785.65 690.209 Q784.61 688.129 787.45 687.809 Z" fill="#7a8284" opacity=".50" transform="translate(.31 1.05)" />
+            <path d="M787.45 687.809 L803.35 684.801 Q805.7 684.591 804.57 687.091 L794.85 702.7 Q793.46 704.85 792.26 702.9 L785.65 690.209 Q784.61 688.129 787.45 687.809 Z" fill="#111719" />
+            <path d="M787.3 689.159 L803.05 686.131" fill="none" stroke="#070d10" stroke-width="1.45" opacity="0.94" stroke-linecap="round" stroke-linejoin="round" />
+            <path d="M786.75 690.209 L792.7 702" fill="none" stroke="#343b3e" stroke-width="0.83" opacity="0.72" stroke-linecap="round" stroke-linejoin="round" />
+          </g>
+          <g id="fold-wlan-vent-row-2">
+            <path d="M230.45 804.855 L245.35 802.006 Q247.7 801.796 246.57 804.296 L237.35 819.7 Q235.96 821.85 234.76 819.9 L228.65 807.255 Q227.61 805.175 230.45 804.855 Z" fill="#7a8284" opacity=".50" transform="translate(.31 1.05)" />
+            <path d="M230.45 804.855 L245.35 802.006 Q247.7 801.796 246.57 804.296 L237.35 819.7 Q235.96 821.85 234.76 819.9 L228.65 807.255 Q227.61 805.175 230.45 804.855 Z" fill="#111719" />
+            <path d="M230.3 806.205 L245.05 803.336" fill="none" stroke="#070d10" stroke-width="1.45" opacity="0.94" stroke-linecap="round" stroke-linejoin="round" />
+            <path d="M229.75 807.255 L235.2 819" fill="none" stroke="#343b3e" stroke-width="0.83" opacity="0.72" stroke-linecap="round" stroke-linejoin="round" />
+            <path d="M260.45 800.173 L276.35 797.165 Q278.7 796.955 277.57 799.455 L267.35 814.7 Q265.96 816.85 264.76 814.9 L258.65 802.573 Q257.61 800.493 260.45 800.173 Z" fill="#7a8284" opacity=".50" transform="translate(.31 1.05)" />
+            <path d="M260.45 800.173 L276.35 797.165 Q278.7 796.955 277.57 799.455 L267.35 814.7 Q265.96 816.85 264.76 814.9 L258.65 802.573 Q257.61 800.493 260.45 800.173 Z" fill="#111719" />
+            <path d="M260.3 801.523 L276.05 798.495" fill="none" stroke="#070d10" stroke-width="1.45" opacity="0.94" stroke-linecap="round" stroke-linejoin="round" />
+            <path d="M259.75 802.573 L265.2 814" fill="none" stroke="#343b3e" stroke-width="0.83" opacity="0.72" stroke-linecap="round" stroke-linejoin="round" />
+            <path d="M291.45 794.878 L306.35 792.029 Q308.7 791.819 307.57 794.319 L298.35 809.7 Q296.96 811.85 295.76 809.9 L289.65 797.278 Q288.61 795.198 291.45 794.878 Z" fill="#7a8284" opacity=".50" transform="translate(.31 1.05)" />
+            <path d="M291.45 794.878 L306.35 792.029 Q308.7 791.819 307.57 794.319 L298.35 809.7 Q296.96 811.85 295.76 809.9 L289.65 797.278 Q288.61 795.198 291.45 794.878 Z" fill="#111719" />
+            <path d="M291.3 796.228 L306.05 793.359" fill="none" stroke="#070d10" stroke-width="1.45" opacity="0.94" stroke-linecap="round" stroke-linejoin="round" />
+            <path d="M290.75 797.278 L296.2 809" fill="none" stroke="#343b3e" stroke-width="0.83" opacity="0.72" stroke-linecap="round" stroke-linejoin="round" />
+            <path d="M321.45 790.275 L336.35 787.427 Q338.7 787.217 337.57 789.717 L328.85 804.7 Q327.46 806.85 326.26 804.9 L319.65 792.675 Q318.61 790.595 321.45 790.275 Z" fill="#7a8284" opacity=".50" transform="translate(.31 1.05)" />
+            <path d="M321.45 790.275 L336.35 787.427 Q338.7 787.217 337.57 789.717 L328.85 804.7 Q327.46 806.85 326.26 804.9 L319.65 792.675 Q318.61 790.595 321.45 790.275 Z" fill="#111719" />
+            <path d="M321.3 791.625 L336.05 788.757" fill="none" stroke="#070d10" stroke-width="1.45" opacity="0.94" stroke-linecap="round" stroke-linejoin="round" />
+            <path d="M320.75 792.675 L326.7 804" fill="none" stroke="#343b3e" stroke-width="0.83" opacity="0.72" stroke-linecap="round" stroke-linejoin="round" />
+            <path d="M352.45 785.06 L367.35 782.211 Q369.7 782.001 368.57 784.501 L359.35 798.7 Q357.96 800.85 356.76 798.9 L350.65 787.46 Q349.61 785.38 352.45 785.06 Z" fill="#7a8284" opacity=".50" transform="translate(.31 1.05)" />
+            <path d="M352.45 785.06 L367.35 782.211 Q369.7 782.001 368.57 784.501 L359.35 798.7 Q357.96 800.85 356.76 798.9 L350.65 787.46 Q349.61 785.38 352.45 785.06 Z" fill="#111719" />
+            <path d="M352.3 786.41 L367.05 783.541" fill="none" stroke="#070d10" stroke-width="1.45" opacity="0.94" stroke-linecap="round" stroke-linejoin="round" />
+            <path d="M351.75 787.46 L357.2 798" fill="none" stroke="#343b3e" stroke-width="0.83" opacity="0.72" stroke-linecap="round" stroke-linejoin="round" />
+            <path d="M382.45 780.275 L397.35 777.427 Q399.7 777.217 398.57 779.717 L389.35 794.7 Q387.96 796.85 386.76 794.9 L380.65 782.675 Q379.61 780.595 382.45 780.275 Z" fill="#7a8284" opacity=".50" transform="translate(.31 1.05)" />
+            <path d="M382.45 780.275 L397.35 777.427 Q399.7 777.217 398.57 779.717 L389.35 794.7 Q387.96 796.85 386.76 794.9 L380.65 782.675 Q379.61 780.595 382.45 780.275 Z" fill="#111719" />
+            <path d="M382.3 781.625 L397.05 778.757" fill="none" stroke="#070d10" stroke-width="1.45" opacity="0.94" stroke-linecap="round" stroke-linejoin="round" />
+            <path d="M381.75 782.675 L387.2 794" fill="none" stroke="#343b3e" stroke-width="0.83" opacity="0.72" stroke-linecap="round" stroke-linejoin="round" />
+            <path d="M413.45 775.275 L428.35 772.427 Q430.7 772.217 429.57 774.717 L419.35 789.7 Q417.96 791.85 416.76 789.9 L411.65 777.675 Q410.61 775.595 413.45 775.275 Z" fill="#7a8284" opacity=".50" transform="translate(.31 1.05)" />
+            <path d="M413.45 775.275 L428.35 772.427 Q430.7 772.217 429.57 774.717 L419.35 789.7 Q417.96 791.85 416.76 789.9 L411.65 777.675 Q410.61 775.595 413.45 775.275 Z" fill="#111719" />
+            <path d="M413.3 776.625 L428.05 773.757" fill="none" stroke="#070d10" stroke-width="1.45" opacity="0.94" stroke-linecap="round" stroke-linejoin="round" />
+            <path d="M412.75 777.675 L417.2 789" fill="none" stroke="#343b3e" stroke-width="0.83" opacity="0.72" stroke-linecap="round" stroke-linejoin="round" />
+            <path d="M443.45 770.378 L458.35 767.529 Q460.7 767.319 459.57 769.819 L450.35 784.7 Q448.96 786.85 447.76 784.9 L441.65 772.778 Q440.61 770.698 443.45 770.378 Z" fill="#7a8284" opacity=".50" transform="translate(.31 1.05)" />
+            <path d="M443.45 770.378 L458.35 767.529 Q460.7 767.319 459.57 769.819 L450.35 784.7 Q448.96 786.85 447.76 784.9 L441.65 772.778 Q440.61 770.698 443.45 770.378 Z" fill="#111719" />
+            <path d="M443.3 771.728 L458.05 768.859" fill="none" stroke="#070d10" stroke-width="1.45" opacity="0.94" stroke-linecap="round" stroke-linejoin="round" />
+            <path d="M442.75 772.778 L448.2 784" fill="none" stroke="#343b3e" stroke-width="0.83" opacity="0.72" stroke-linecap="round" stroke-linejoin="round" />
+            <path d="M473.45 765.537 L488.35 762.688 Q490.7 762.478 489.57 764.978 L480.35 779.7 Q478.96 781.85 477.76 779.9 L471.65 767.937 Q470.61 765.857 473.45 765.537 Z" fill="#7a8284" opacity=".50" transform="translate(.31 1.05)" />
+            <path d="M473.45 765.537 L488.35 762.688 Q490.7 762.478 489.57 764.978 L480.35 779.7 Q478.96 781.85 477.76 779.9 L471.65 767.937 Q470.61 765.857 473.45 765.537 Z" fill="#111719" />
+            <path d="M473.3 766.887 L488.05 764.018" fill="none" stroke="#070d10" stroke-width="1.45" opacity="0.94" stroke-linecap="round" stroke-linejoin="round" />
+            <path d="M472.75 767.937 L478.2 779" fill="none" stroke="#343b3e" stroke-width="0.83" opacity="0.72" stroke-linecap="round" stroke-linejoin="round" />
+            <path d="M503.45 760.593 L518.35 757.745 Q520.7 757.535 519.57 760.035 L510.35 774.7 Q508.96 776.85 507.76 774.9 L501.65 762.993 Q500.61 760.913 503.45 760.593 Z" fill="#7a8284" opacity=".50" transform="translate(.31 1.05)" />
+            <path d="M503.45 760.593 L518.35 757.745 Q520.7 757.535 519.57 760.035 L510.35 774.7 Q508.96 776.85 507.76 774.9 L501.65 762.993 Q500.61 760.913 503.45 760.593 Z" fill="#111719" />
+            <path d="M503.3 761.943 L518.05 759.075" fill="none" stroke="#070d10" stroke-width="1.45" opacity="0.94" stroke-linecap="round" stroke-linejoin="round" />
+            <path d="M502.75 762.993 L508.2 774" fill="none" stroke="#343b3e" stroke-width="0.83" opacity="0.72" stroke-linecap="round" stroke-linejoin="round" />
+            <path d="M534.45 755.775 L548.35 753.086 Q550.7 752.876 549.57 755.376 L540.35 769.7 Q538.96 771.85 537.76 769.9 L532.65 758.175 Q531.61 756.095 534.45 755.775 Z" fill="#7a8284" opacity=".50" transform="translate(.31 1.05)" />
+            <path d="M534.45 755.775 L548.35 753.086 Q550.7 752.876 549.57 755.376 L540.35 769.7 Q538.96 771.85 537.76 769.9 L532.65 758.175 Q531.61 756.095 534.45 755.775 Z" fill="#111719" />
+            <path d="M534.3 757.125 L548.05 754.416" fill="none" stroke="#070d10" stroke-width="1.45" opacity="0.94" stroke-linecap="round" stroke-linejoin="round" />
+            <path d="M533.75 758.175 L538.2 769" fill="none" stroke="#343b3e" stroke-width="0.83" opacity="0.72" stroke-linecap="round" stroke-linejoin="round" />
+            <path d="M563.45 751.173 L578.35 748.324 Q580.7 748.114 579.57 750.614 L569.35 765.7 Q567.96 767.85 566.76 765.9 L561.65 753.573 Q560.61 751.493 563.45 751.173 Z" fill="#7a8284" opacity=".50" transform="translate(.31 1.05)" />
+            <path d="M563.45 751.173 L578.35 748.324 Q580.7 748.114 579.57 750.614 L569.35 765.7 Q567.96 767.85 566.76 765.9 L561.65 753.573 Q560.61 751.493 563.45 751.173 Z" fill="#111719" />
+            <path d="M563.3 752.523 L578.05 749.654" fill="none" stroke="#070d10" stroke-width="1.45" opacity="0.94" stroke-linecap="round" stroke-linejoin="round" />
+            <path d="M562.75 753.573 L567.2 765" fill="none" stroke="#343b3e" stroke-width="0.83" opacity="0.72" stroke-linecap="round" stroke-linejoin="round" />
+            <path d="M593.45 746.219 L607.35 743.529 Q609.7 743.319 608.57 745.819 L599.85 760.7 Q598.46 762.85 597.26 760.9 L591.65 748.619 Q590.61 746.539 593.45 746.219 Z" fill="#7a8284" opacity=".50" transform="translate(.31 1.05)" />
+            <path d="M593.45 746.219 L607.35 743.529 Q609.7 743.319 608.57 745.819 L599.85 760.7 Q598.46 762.85 597.26 760.9 L591.65 748.619 Q590.61 746.539 593.45 746.219 Z" fill="#111719" />
+            <path d="M593.3 747.569 L607.05 744.859" fill="none" stroke="#070d10" stroke-width="1.45" opacity="0.94" stroke-linecap="round" stroke-linejoin="round" />
+            <path d="M592.75 748.619 L597.7 760" fill="none" stroke="#343b3e" stroke-width="0.83" opacity="0.72" stroke-linecap="round" stroke-linejoin="round" />
+            <path d="M623.45 741.401 L637.35 738.711 Q639.7 738.501 638.57 741.001 L629.35 755.7 Q627.96 757.85 626.76 755.9 L621.65 743.801 Q620.61 741.721 623.45 741.401 Z" fill="#7a8284" opacity=".50" transform="translate(.31 1.05)" />
+            <path d="M623.45 741.401 L637.35 738.711 Q639.7 738.501 638.57 741.001 L629.35 755.7 Q627.96 757.85 626.76 755.9 L621.65 743.801 Q620.61 741.721 623.45 741.401 Z" fill="#111719" />
+            <path d="M623.3 742.751 L637.05 740.041" fill="none" stroke="#070d10" stroke-width="1.45" opacity="0.94" stroke-linecap="round" stroke-linejoin="round" />
+            <path d="M622.75 743.801 L627.2 755" fill="none" stroke="#343b3e" stroke-width="0.83" opacity="0.72" stroke-linecap="round" stroke-linejoin="round" />
+            <path d="M652.45 736.491 L667.35 733.642 Q669.7 733.432 668.57 735.932 L659.35 750.7 Q657.96 752.85 656.76 750.9 L650.65 738.891 Q649.61 736.811 652.45 736.491 Z" fill="#7a8284" opacity=".50" transform="translate(.31 1.05)" />
+            <path d="M652.45 736.491 L667.35 733.642 Q669.7 733.432 668.57 735.932 L659.35 750.7 Q657.96 752.85 656.76 750.9 L650.65 738.891 Q649.61 736.811 652.45 736.491 Z" fill="#111719" />
+            <path d="M652.3 737.841 L667.05 734.972" fill="none" stroke="#070d10" stroke-width="1.45" opacity="0.94" stroke-linecap="round" stroke-linejoin="round" />
+            <path d="M651.75 738.891 L657.2 750" fill="none" stroke="#343b3e" stroke-width="0.83" opacity="0.72" stroke-linecap="round" stroke-linejoin="round" />
+            <path d="M682.45 731.696 L696.35 729.006 Q698.7 728.796 697.57 731.296 L688.85 745.7 Q687.46 747.85 686.26 745.9 L680.65 734.096 Q679.61 732.016 682.45 731.696 Z" fill="#7a8284" opacity=".50" transform="translate(.31 1.05)" />
+            <path d="M682.45 731.696 L696.35 729.006 Q698.7 728.796 697.57 731.296 L688.85 745.7 Q687.46 747.85 686.26 745.9 L680.65 734.096 Q679.61 732.016 682.45 731.696 Z" fill="#111719" />
+            <path d="M682.3 733.046 L696.05 730.336" fill="none" stroke="#070d10" stroke-width="1.45" opacity="0.94" stroke-linecap="round" stroke-linejoin="round" />
+            <path d="M681.75 734.096 L686.7 745" fill="none" stroke="#343b3e" stroke-width="0.83" opacity="0.72" stroke-linecap="round" stroke-linejoin="round" />
+            <path d="M711.45 727.116 L726.35 724.268 Q728.7 724.058 727.57 726.558 L718.35 741.7 Q716.96 743.85 715.76 741.9 L709.65 729.516 Q708.61 727.436 711.45 727.116 Z" fill="#7a8284" opacity=".50" transform="translate(.31 1.05)" />
+            <path d="M711.45 727.116 L726.35 724.268 Q728.7 724.058 727.57 726.558 L718.35 741.7 Q716.96 743.85 715.76 741.9 L709.65 729.516 Q708.61 727.436 711.45 727.116 Z" fill="#111719" />
+            <path d="M711.3 728.466 L726.05 725.598" fill="none" stroke="#070d10" stroke-width="1.45" opacity="0.94" stroke-linecap="round" stroke-linejoin="round" />
+            <path d="M710.75 729.516 L716.2 741" fill="none" stroke="#343b3e" stroke-width="0.83" opacity="0.72" stroke-linecap="round" stroke-linejoin="round" />
+            <path d="M741.45 722.219 L755.35 719.529 Q757.7 719.319 756.57 721.819 L748.35 736.7 Q746.96 738.85 745.76 736.9 L739.65 724.619 Q738.61 722.539 741.45 722.219 Z" fill="#7a8284" opacity=".50" transform="translate(.31 1.05)" />
+            <path d="M741.45 722.219 L755.35 719.529 Q757.7 719.319 756.57 721.819 L748.35 736.7 Q746.96 738.85 745.76 736.9 L739.65 724.619 Q738.61 722.539 741.45 722.219 Z" fill="#111719" />
+            <path d="M741.3 723.569 L755.05 720.859" fill="none" stroke="#070d10" stroke-width="1.45" opacity="0.94" stroke-linecap="round" stroke-linejoin="round" />
+            <path d="M740.75 724.619 L746.2 736" fill="none" stroke="#343b3e" stroke-width="0.83" opacity="0.72" stroke-linecap="round" stroke-linejoin="round" />
+            <path d="M770.45 717.514 L785.35 714.665 Q787.7 714.455 786.57 716.955 L777.35 731.7 Q775.96 733.85 774.76 731.9 L768.65 719.914 Q767.61 717.834 770.45 717.514 Z" fill="#7a8284" opacity=".50" transform="translate(.31 1.05)" />
+            <path d="M770.45 717.514 L785.35 714.665 Q787.7 714.455 786.57 716.955 L777.35 731.7 Q775.96 733.85 774.76 731.9 L768.65 719.914 Q767.61 717.834 770.45 717.514 Z" fill="#1a2023" />
+            <path d="M770.3 718.864 L785.05 715.995" fill="none" stroke="#070d10" stroke-width="1.45" opacity="0.94" stroke-linecap="round" stroke-linejoin="round" />
+            <path d="M769.75 719.914 L775.2 731" fill="none" stroke="#343b3e" stroke-width="0.83" opacity="0.72" stroke-linecap="round" stroke-linejoin="round" />
+          </g>
+          <g id="fold-wlan-vent-row-3">
+            <path d="M242.45 830.434 L257.35 827.586 Q259.7 827.376 258.57 829.876 L249.85 843.7 Q248.46 845.85 247.26 843.9 L240.65 832.834 Q239.61 830.754 242.45 830.434 Z" fill="#7a8284" opacity=".50" transform="translate(.31 1.05)" />
+            <path d="M242.45 830.434 L257.35 827.586 Q259.7 827.376 258.57 829.876 L249.85 843.7 Q248.46 845.85 247.26 843.9 L240.65 832.834 Q239.61 830.754 242.45 830.434 Z" fill="#111719" />
+            <path d="M242.3 831.784 L257.05 828.916" fill="none" stroke="#070d10" stroke-width="1.45" opacity="0.94" stroke-linecap="round" stroke-linejoin="round" />
+            <path d="M241.75 832.834 L247.7 843" fill="none" stroke="#343b3e" stroke-width="0.83" opacity="0.72" stroke-linecap="round" stroke-linejoin="round" />
+            <path d="M273.45 825.468 L288.35 822.619 Q290.7 822.409 289.57 824.909 L280.35 838.7 Q278.96 840.85 277.76 838.9 L271.65 827.868 Q270.61 825.788 273.45 825.468 Z" fill="#7a8284" opacity=".50" transform="translate(.31 1.05)" />
+            <path d="M273.45 825.468 L288.35 822.619 Q290.7 822.409 289.57 824.909 L280.35 838.7 Q278.96 840.85 277.76 838.9 L271.65 827.868 Q270.61 825.788 273.45 825.468 Z" fill="#1a2023" />
+            <path d="M273.3 826.818 L288.05 823.949" fill="none" stroke="#070d10" stroke-width="1.45" opacity="0.94" stroke-linecap="round" stroke-linejoin="round" />
+            <path d="M272.75 827.868 L278.2 838" fill="none" stroke="#343b3e" stroke-width="0.83" opacity="0.72" stroke-linecap="round" stroke-linejoin="round" />
+            <path d="M304.45 820.401 L318.35 817.711 Q320.7 817.501 319.57 820.001 L311.35 833.7 Q309.96 835.85 308.76 833.9 L302.65 822.801 Q301.61 820.721 304.45 820.401 Z" fill="#7a8284" opacity=".50" transform="translate(.31 1.05)" />
+            <path d="M304.45 820.401 L318.35 817.711 Q320.7 817.501 319.57 820.001 L311.35 833.7 Q309.96 835.85 308.76 833.9 L302.65 822.801 Q301.61 820.721 304.45 820.401 Z" fill="#111719" />
+            <path d="M304.3 821.751 L318.05 819.041" fill="none" stroke="#070d10" stroke-width="1.45" opacity="0.94" stroke-linecap="round" stroke-linejoin="round" />
+            <path d="M303.75 822.801 L309.2 833" fill="none" stroke="#343b3e" stroke-width="0.83" opacity="0.72" stroke-linecap="round" stroke-linejoin="round" />
+            <path d="M334.45 815.56 L349.35 812.711 Q351.7 812.501 350.57 815.001 L341.35 829.7 Q339.96 831.85 338.76 829.9 L332.65 817.96 Q331.61 815.88 334.45 815.56 Z" fill="#7a8284" opacity=".50" transform="translate(.31 1.05)" />
+            <path d="M334.45 815.56 L349.35 812.711 Q351.7 812.501 350.57 815.001 L341.35 829.7 Q339.96 831.85 338.76 829.9 L332.65 817.96 Q331.61 815.88 334.45 815.56 Z" fill="#111719" />
+            <path d="M334.3 816.91 L349.05 814.041" fill="none" stroke="#070d10" stroke-width="1.45" opacity="0.94" stroke-linecap="round" stroke-linejoin="round" />
+            <path d="M333.75 817.96 L339.2 829" fill="none" stroke="#343b3e" stroke-width="0.83" opacity="0.72" stroke-linecap="round" stroke-linejoin="round" />
+            <path d="M365.45 810.468 L379.35 807.778 Q381.7 807.568 380.57 810.068 L371.85 823.7 Q370.46 825.85 369.26 823.9 L363.65 812.868 Q362.61 810.788 365.45 810.468 Z" fill="#7a8284" opacity=".50" transform="translate(.31 1.05)" />
+            <path d="M365.45 810.468 L379.35 807.778 Q381.7 807.568 380.57 810.068 L371.85 823.7 Q370.46 825.85 369.26 823.9 L363.65 812.868 Q362.61 810.788 365.45 810.468 Z" fill="#1a2023" />
+            <path d="M365.3 811.818 L379.05 809.108" fill="none" stroke="#070d10" stroke-width="1.45" opacity="0.94" stroke-linecap="round" stroke-linejoin="round" />
+            <path d="M364.75 812.868 L369.7 823" fill="none" stroke="#343b3e" stroke-width="0.83" opacity="0.72" stroke-linecap="round" stroke-linejoin="round" />
+            <path d="M395.45 805.696 L410.35 802.847 Q412.7 802.637 411.57 805.137 L402.35 818.7 Q400.96 820.85 399.76 818.9 L393.65 808.096 Q392.61 806.016 395.45 805.696 Z" fill="#7a8284" opacity=".50" transform="translate(.31 1.05)" />
+            <path d="M395.45 805.696 L410.35 802.847 Q412.7 802.637 411.57 805.137 L402.35 818.7 Q400.96 820.85 399.76 818.9 L393.65 808.096 Q392.61 806.016 395.45 805.696 Z" fill="#111719" />
+            <path d="M395.3 807.046 L410.05 804.177" fill="none" stroke="#070d10" stroke-width="1.45" opacity="0.94" stroke-linecap="round" stroke-linejoin="round" />
+            <path d="M394.75 808.096 L400.2 818" fill="none" stroke="#343b3e" stroke-width="0.83" opacity="0.72" stroke-linecap="round" stroke-linejoin="round" />
+            <path d="M425.45 800.719 L440.35 797.87 Q442.7 797.66 441.57 800.16 L432.35 813.7 Q430.96 815.85 429.76 813.9 L423.65 803.119 Q422.61 801.039 425.45 800.719 Z" fill="#7a8284" opacity=".50" transform="translate(.31 1.05)" />
+            <path d="M425.45 800.719 L440.35 797.87 Q442.7 797.66 441.57 800.16 L432.35 813.7 Q430.96 815.85 429.76 813.9 L423.65 803.119 Q422.61 801.039 425.45 800.719 Z" fill="#111719" />
+            <path d="M425.3 802.069 L440.05 799.2" fill="none" stroke="#070d10" stroke-width="1.45" opacity="0.94" stroke-linecap="round" stroke-linejoin="round" />
+            <path d="M424.75 803.119 L430.2 813" fill="none" stroke="#343b3e" stroke-width="0.83" opacity="0.72" stroke-linecap="round" stroke-linejoin="round" />
+            <path d="M456.45 795.924 L470.35 793.234 Q472.7 793.024 471.57 795.524 L462.35 809.7 Q460.96 811.85 459.76 809.9 L454.65 798.324 Q453.61 796.244 456.45 795.924 Z" fill="#7a8284" opacity=".50" transform="translate(.31 1.05)" />
+            <path d="M456.45 795.924 L470.35 793.234 Q472.7 793.024 471.57 795.524 L462.35 809.7 Q460.96 811.85 459.76 809.9 L454.65 798.324 Q453.61 796.244 456.45 795.924 Z" fill="#1a2023" />
+            <path d="M456.3 797.274 L470.05 794.564" fill="none" stroke="#070d10" stroke-width="1.45" opacity="0.94" stroke-linecap="round" stroke-linejoin="round" />
+            <path d="M455.75 798.324 L460.2 809" fill="none" stroke="#343b3e" stroke-width="0.83" opacity="0.72" stroke-linecap="round" stroke-linejoin="round" />
+            <path d="M486.45 790.901 L500.35 788.211 Q502.7 788.001 501.57 790.501 L492.35 804.7 Q490.96 806.85 489.76 804.9 L484.65 793.301 Q483.61 791.221 486.45 790.901 Z" fill="#7a8284" opacity=".50" transform="translate(.31 1.05)" />
+            <path d="M486.45 790.901 L500.35 788.211 Q502.7 788.001 501.57 790.501 L492.35 804.7 Q490.96 806.85 489.76 804.9 L484.65 793.301 Q483.61 791.221 486.45 790.901 Z" fill="#111719" />
+            <path d="M486.3 792.251 L500.05 789.541" fill="none" stroke="#070d10" stroke-width="1.45" opacity="0.94" stroke-linecap="round" stroke-linejoin="round" />
+            <path d="M485.75 793.301 L490.2 804" fill="none" stroke="#343b3e" stroke-width="0.83" opacity="0.72" stroke-linecap="round" stroke-linejoin="round" />
+            <path d="M516.45 786.014 L530.35 783.324 Q532.7 783.114 531.57 785.614 L522.35 799.7 Q520.96 801.85 519.76 799.9 L514.65 788.414 Q513.61 786.334 516.45 786.014 Z" fill="#7a8284" opacity=".50" transform="translate(.31 1.05)" />
+            <path d="M516.45 786.014 L530.35 783.324 Q532.7 783.114 531.57 785.614 L522.35 799.7 Q520.96 801.85 519.76 799.9 L514.65 788.414 Q513.61 786.334 516.45 786.014 Z" fill="#111719" />
+            <path d="M516.3 787.364 L530.05 784.654" fill="none" stroke="#070d10" stroke-width="1.45" opacity="0.94" stroke-linecap="round" stroke-linejoin="round" />
+            <path d="M515.75 788.414 L520.2 799" fill="none" stroke="#343b3e" stroke-width="0.83" opacity="0.72" stroke-linecap="round" stroke-linejoin="round" />
+            <path d="M546.45 781.173 L559.35 778.642 Q561.7 778.432 560.57 780.932 L552.35 794.7 Q550.96 796.85 549.76 794.9 L544.65 783.573 Q543.61 781.493 546.45 781.173 Z" fill="#7a8284" opacity=".50" transform="translate(.31 1.05)" />
+            <path d="M546.45 781.173 L559.35 778.642 Q561.7 778.432 560.57 780.932 L552.35 794.7 Q550.96 796.85 549.76 794.9 L544.65 783.573 Q543.61 781.493 546.45 781.173 Z" fill="#111719" />
+            <path d="M546.3 782.523 L559.05 779.972" fill="none" stroke="#070d10" stroke-width="1.45" opacity="0.94" stroke-linecap="round" stroke-linejoin="round" />
+            <path d="M545.75 783.573 L550.2 794" fill="none" stroke="#343b3e" stroke-width="0.83" opacity="0.72" stroke-linecap="round" stroke-linejoin="round" />
+            <path d="M576.45 776.173 L590.35 773.483 Q592.7 773.273 591.57 775.773 L582.35 789.7 Q580.96 791.85 579.76 789.9 L574.65 778.573 Q573.61 776.493 576.45 776.173 Z" fill="#7a8284" opacity=".50" transform="translate(.31 1.05)" />
+            <path d="M576.45 776.173 L590.35 773.483 Q592.7 773.273 591.57 775.773 L582.35 789.7 Q580.96 791.85 579.76 789.9 L574.65 778.573 Q573.61 776.493 576.45 776.173 Z" fill="#111719" />
+            <path d="M576.3 777.523 L590.05 774.813" fill="none" stroke="#070d10" stroke-width="1.45" opacity="0.94" stroke-linecap="round" stroke-linejoin="round" />
+            <path d="M575.75 778.573 L580.2 789" fill="none" stroke="#343b3e" stroke-width="0.83" opacity="0.72" stroke-linecap="round" stroke-linejoin="round" />
+            <path d="M605.45 771.434 L619.35 768.745 Q621.7 768.535 620.57 771.035 L612.35 784.7 Q610.96 786.85 609.76 784.9 L603.65 773.834 Q602.61 771.754 605.45 771.434 Z" fill="#7a8284" opacity=".50" transform="translate(.31 1.05)" />
+            <path d="M605.45 771.434 L619.35 768.745 Q621.7 768.535 620.57 771.035 L612.35 784.7 Q610.96 786.85 609.76 784.9 L603.65 773.834 Q602.61 771.754 605.45 771.434 Z" fill="#111719" />
+            <path d="M605.3 772.784 L619.05 770.075" fill="none" stroke="#070d10" stroke-width="1.45" opacity="0.94" stroke-linecap="round" stroke-linejoin="round" />
+            <path d="M604.75 773.834 L610.2 784" fill="none" stroke="#343b3e" stroke-width="0.83" opacity="0.72" stroke-linecap="round" stroke-linejoin="round" />
+            <path d="M635.45 766.537 L649.35 763.847 Q651.7 763.637 650.57 766.137 L641.35 779.7 Q639.96 781.85 638.76 779.9 L633.65 768.937 Q632.61 766.857 635.45 766.537 Z" fill="#7a8284" opacity=".50" transform="translate(.31 1.05)" />
+            <path d="M635.45 766.537 L649.35 763.847 Q651.7 763.637 650.57 766.137 L641.35 779.7 Q639.96 781.85 638.76 779.9 L633.65 768.937 Q632.61 766.857 635.45 766.537 Z" fill="#111719" />
+            <path d="M635.3 767.887 L649.05 765.177" fill="none" stroke="#070d10" stroke-width="1.45" opacity="0.94" stroke-linecap="round" stroke-linejoin="round" />
+            <path d="M634.75 768.937 L639.2 779" fill="none" stroke="#343b3e" stroke-width="0.83" opacity="0.72" stroke-linecap="round" stroke-linejoin="round" />
+            <path d="M665.45 761.775 L678.35 759.245 Q680.7 759.035 679.57 761.535 L671.35 774.7 Q669.96 776.85 668.76 774.9 L663.65 764.175 Q662.61 762.095 665.45 761.775 Z" fill="#7a8284" opacity=".50" transform="translate(.31 1.05)" />
+            <path d="M665.45 761.775 L678.35 759.245 Q680.7 759.035 679.57 761.535 L671.35 774.7 Q669.96 776.85 668.76 774.9 L663.65 764.175 Q662.61 762.095 665.45 761.775 Z" fill="#111719" />
+            <path d="M665.3 763.125 L678.05 760.575" fill="none" stroke="#070d10" stroke-width="1.45" opacity="0.94" stroke-linecap="round" stroke-linejoin="round" />
+            <path d="M664.75 764.175 L669.2 774" fill="none" stroke="#343b3e" stroke-width="0.83" opacity="0.72" stroke-linecap="round" stroke-linejoin="round" />
+            <path d="M694.45 757.06 L708.35 754.37 Q710.7 754.16 709.57 756.66 L700.85 770.7 Q699.46 772.85 698.26 770.9 L692.65 759.46 Q691.61 757.38 694.45 757.06 Z" fill="#7a8284" opacity=".50" transform="translate(.31 1.05)" />
+            <path d="M694.45 757.06 L708.35 754.37 Q710.7 754.16 709.57 756.66 L700.85 770.7 Q699.46 772.85 698.26 770.9 L692.65 759.46 Q691.61 757.38 694.45 757.06 Z" fill="#1a2023" />
+            <path d="M694.3 758.41 L708.05 755.7" fill="none" stroke="#070d10" stroke-width="1.45" opacity="0.94" stroke-linecap="round" stroke-linejoin="round" />
+            <path d="M693.75 759.46 L698.7 770" fill="none" stroke="#343b3e" stroke-width="0.83" opacity="0.72" stroke-linecap="round" stroke-linejoin="round" />
+            <path d="M724.45 752.116 L738.35 749.427 Q740.7 749.217 739.57 751.717 L730.35 765.7 Q728.96 767.85 727.76 765.9 L722.65 754.516 Q721.61 752.436 724.45 752.116 Z" fill="#7a8284" opacity=".50" transform="translate(.31 1.05)" />
+            <path d="M724.45 752.116 L738.35 749.427 Q740.7 749.217 739.57 751.717 L730.35 765.7 Q728.96 767.85 727.76 765.9 L722.65 754.516 Q721.61 752.436 724.45 752.116 Z" fill="#111719" />
+            <path d="M724.3 753.466 L738.05 750.757" fill="none" stroke="#070d10" stroke-width="1.45" opacity="0.94" stroke-linecap="round" stroke-linejoin="round" />
+            <path d="M723.75 754.516 L728.2 765" fill="none" stroke="#343b3e" stroke-width="0.83" opacity="0.72" stroke-linecap="round" stroke-linejoin="round" />
+            <path d="M753.45 747.332 L767.35 744.642 Q769.7 744.432 768.57 746.932 L759.35 760.7 Q757.96 762.85 756.76 760.9 L751.65 749.732 Q750.61 747.652 753.45 747.332 Z" fill="#7a8284" opacity=".50" transform="translate(.31 1.05)" />
+            <path d="M753.45 747.332 L767.35 744.642 Q769.7 744.432 768.57 746.932 L759.35 760.7 Q757.96 762.85 756.76 760.9 L751.65 749.732 Q750.61 747.652 753.45 747.332 Z" fill="#111719" />
+            <path d="M753.3 748.682 L767.05 745.972" fill="none" stroke="#070d10" stroke-width="1.45" opacity="0.94" stroke-linecap="round" stroke-linejoin="round" />
+            <path d="M752.75 749.732 L757.2 760" fill="none" stroke="#343b3e" stroke-width="0.83" opacity="0.72" stroke-linecap="round" stroke-linejoin="round" />
+          </g>
+        </g>
+      </g>
+      <path d="M231 861.9 L903.1 752.2" fill="none" stroke="#727b7e" stroke-width="1.3" opacity="0.54" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M905.3 748.5 L918.8 657.9" fill="none" stroke="#20282c" stroke-width="1.35" opacity="0.92" stroke-linecap="round" stroke-linejoin="round" />
+      <g id="fold-wlan-side-window">
+        <path d="M818.1 700.7 Q819.1 698.15 822.8 697.45 L884.6 686.75 Q890.4 685.7 890.1 689.6 Q890 691.4 888.6 694.0 L865.8 737.2 Q864.4 740.7 860.4 741.5 L795.6 752.25 Q791.2 753 791.2 750.6 Q791.1 749.4 792.3 747.2 Z" fill="url(#fold-wlan-window-rim)" stroke="#252c2f" stroke-width="1.35" />
+        <path d="M796.8 751.3 L859.7 740.7 Q864.2 740 865.7 736.1 L888.1 693.3" fill="none" stroke="#12191c" stroke-width="2" opacity="0.88" stroke-linecap="round" stroke-linejoin="round" />
+        <path d="M819.2 702.6 Q820.7 699.2 825 698.7 L882.5 688.6" fill="none" stroke="#81898b" stroke-width="1.25" opacity="0.73" stroke-linecap="round" stroke-linejoin="round" />
+        <path d="M822.35 703.35 Q823.8 700.72 826.3 700.1 L881.0 690.5 Q884.64 689.96 883.15 693.06 L862.32 731.75 Q861.0 734.46 858.1 734.94 L803.55 744.16 Q800.65 744.42 802.03 741.5 Z" fill="url(#fold-wlan-smoked-polymer)" stroke="#41484b" stroke-width="1.2" />
+        <g clip-path="url(#fold-wlan-window-aperture)">
+          <path d="M809 735 L824.7 705.3 Q830.1 702.4 835.8 704.9 L838.3 710.8 L822.1 735.6 Z" fill="#657073" opacity=".28" />
+          <path d="M820 736.3 L838.2 708.1 L864 703.1 L852.8 728.2 Z" fill="#242c30" opacity=".22" />
+          <path d="M814.8 738.9 L859.3 731.9 L879.4 695.7 L860.9 734.2 L804.2 743.8 Z" fill="#859092" opacity=".31" />
+          <path d="M824 703.25 Q827.9 698.9 832.1 701.0 L833.6 704.2" fill="none" stroke="#a9b2b1" stroke-width="1.5" opacity="0.72" stroke-linecap="round" stroke-linejoin="round" />
+          <path d="M873 692.6 L879.1 691.4 Q881 691 881.7 692.9" fill="none" stroke="#b1b9b8" stroke-width="1.5" opacity="0.67" stroke-linecap="round" stroke-linejoin="round" />
+        </g>
+        <path d="M801.5 739.7 L818.9 706.0" fill="none" stroke="#9aa2a3" stroke-width="1.05" opacity="0.53" stroke-linecap="round" stroke-linejoin="round" />
+      </g>
+      <g id="fold-wlan-unprinted-lid">
+        <path d="M181 673.2 L752.6 583.2 Q754.65 582.65 756.6 583.56 L917.9 653.5 Q920.3 654.5 917.7 655.75 L259.6 763.8 C241.2 766.2 228.8 774.0 219.4 786.5 Q210.6 797.4 207.6 811.3 L192.8 808.5 Z" fill="url(#fold-wlan-unmarked-matte-graphite)" />
+        <g clip-path="url(#fold-wlan-top-boundary)">
+          <path d="M181 673.2 L752.6 583.2 Q754.65 582.65 756.6 583.56 L917.9 653.5 Q920.3 654.5 917.7 655.75 L259.6 763.8 C241.2 766.2 228.8 774.0 219.4 786.5 Q210.6 797.4 207.6 811.3 L192.8 808.5 Z" fill="url(#fold-wlan-satin)" opacity=".33" />
+          <path d="M179.8 700 L205.2 711 L244.6 730.5 L204.9 736.9 L180.5 724.7 Z" fill="url(#fold-wlan-hinge-pocket)" />
+          <path d="M204.8 737 L243.8 730.9" fill="none" stroke="#a0a6a6" stroke-width="1" opacity="0.58" stroke-linecap="round" stroke-linejoin="round" />
+          <path d="M185 694 L275 719 L320 766 L220 799 L197 839 Z" fill="url(#fold-wlan-hinge-ambient)" />
+        </g>
+        <path d="M205.9 668.2 L751.1 584.3 Q754.7 583.8 757.2 584.9 L914.6 653.3" fill="none" stroke="#343c40" stroke-width="2" opacity="0.91" stroke-linecap="round" stroke-linejoin="round" />
+        <path d="M208.7 669.9 L750.6 586.1 Q754.2 585.5 756.5 586.75 L909.0 652.4" fill="none" stroke="#92999a" stroke-width="1.1" opacity="0.51" stroke-linecap="round" stroke-linejoin="round" />
+        <path d="M209.0 806.2 Q216.9 779.1 238.6 769.4 Q247.3 765.3 259.5 763.6 L917.8 655.2" fill="none" stroke="#20282d" stroke-width="2.25" opacity="0.9" stroke-linecap="round" stroke-linejoin="round" />
+        <path d="M225.2 781.5 Q237.9 768.8 259.7 765.6 L914.5 658.0" fill="none" stroke="#778083" stroke-width="1.35" opacity="0.61" stroke-linecap="round" stroke-linejoin="round" />
+        <g id="fold-wlan-swivel-screw" transform="matrix(1 -.008 .005 .265 246.15 743.6)">
+          <ellipse cx="0" cy="0" rx="27.05" ry="26.1" fill="#252c2f" />
+          <ellipse cx="0" cy="2.3" rx="25.3" ry="24.5" fill="#919697" />
+          <ellipse cx="0" cy="-0.15" rx="24.7" ry="23.2" fill="#171e21" />
+          <ellipse cx="0.3" cy="1.1" rx="22.8" ry="20.4" fill="url(#fold-wlan-screw-cap)" />
+          <path d="M12.757 -0.591 Q14.484 0.642 12.641 1.716 L9.501 3.547 Q7.658 4.621 7.386 6.644 L6.922 10.089 Q6.65 12.112 4.739 11.149 L1.483 9.508 Q-0.429 8.545 -2.428 9.334 L-5.834 10.68 Q-7.833 11.47 -7.902 9.432 L-8.018 5.961 Q-8.086 3.923 -9.814 2.691 L-12.757 0.591 Q-14.484 -0.642 -12.641 -1.716 L-9.501 -3.547 Q-7.658 -4.621 -7.386 -6.644 L-6.922 -10.089 Q-6.65 -12.112 -4.739 -11.149 L-1.483 -9.508 Q0.429 -8.545 2.428 -9.334 L5.834 -10.68 Q7.833 -11.47 7.902 -9.432 L8.018 -5.961 Q8.086 -3.923 9.814 -2.691 Z" fill="#12191d" stroke="#383f42" stroke-width="1.5" />
+          <path d="M-17.1 12.8 Q-3.6 23.5 13.8 15.8" fill="none" stroke="#b4b9b7" stroke-width="1.7" opacity="0.6" stroke-linecap="round" stroke-linejoin="round" />
+        </g>
+      </g>
+    </g>
+    <g id="fold-wlan-folding-antenna">
+      <path d="M3.05 6.1 Q3.0 4.35 4.85 3.84 L43.4 2.18 Q45.0 1.94 46.6 2.57 L201.7 66.54 Q203.05 67.12 203.12 68.62 L208.10 907.33 Q208.27 909.15 207.15 910.16 L178.4 936.24 Q174.8 939.6 170.64 939.7 L12.80 857.27 Q10.86 856.14 10.77 853.7 Z" fill="url(#fold-wlan-outer-panel-shell)" />
+      <path d="M165.12 71.26 L202.62 67.89 L207.82 907.65 Q208.01 908.98 206.85 910.06 L178.35 935.84 Q175.0 938.85 171.81 938.56 L169.26 516.5 Z" fill="url(#fold-wlan-panel-side)" />
+      <path d="M165.12 71.26 L202.62 67.89 L207.82 907.65 Q208.01 908.98 206.85 910.06 L178.35 935.84 Q175.0 938.85 171.81 938.56 L169.26 516.5 Z" fill="url(#fold-wlan-satin)" opacity=".24" />
+      <path d="M3.45 6.6 Q3.31 5.48 4.62 5.94 L165.27 71.39 Q166.56 72.17 166.57 74.28 L171.7 936.13 Q171.85 939.75 169.41 938.26 L13.10 856.88 Q11.83 856.17 11.67 853.87 Z" fill="url(#fold-wlan-panel-bezel)" />
+      <path d="M3.6 4.96 Q3.75 4.10 5.3 3.75 L43.8 2.41 Q45.05 2.16 46.6 2.85 L201.55 66.47 L202.53 67.62 L167.66 71.4 Q165.83 71.59 164.32 70.88 Z" fill="url(#fold-wlan-panel-top)" />
+      <path d="M6.2 4.55 L43.3 3.3 Q45.3 3.1 47.3 4.05 L198.5 66.35" fill="none" stroke="#929a9b" stroke-width="1.05" opacity="0.6" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M5.1 6.12 L163.8 71.44 Q166.5 72.2 166.7 75.4 L171.55 935.55" fill="none" stroke="#21282d" stroke-width="1.85" opacity="0.96" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M168.55 73.2 L172.94 935.4" fill="none" stroke="#687276" stroke-width="1.2" opacity="0.55" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M202.1 69.38 L207.2 906.9 Q207.43 909.08 205.72 910.45 L179.8 934.13" fill="none" stroke="#475054" stroke-width="1.22" opacity="0.8" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M167.8 71.48 L200.67 68.0" fill="none" stroke="#b2b9b8" stroke-width="1" opacity="0.35" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M4.1 8.3 L11.89 850.28 Q11.88 854.93 14.69 856.47 L167.6 935.8" fill="none" stroke="#798184" stroke-width="1.5" opacity="0.55" stroke-linecap="round" stroke-linejoin="round" />
+      <g id="fold-wlan-diamond-relief">
+        <path d="M6.24 13.54 L163.57 80.21 L167.0 928.31 Q167.02 929.67 165.91 929.02 L12.91 850.16 Q12.27 849.79 12.25 848.87 Z" fill="#454b4e" />
+        <g clip-path="url(#fold-wlan-panel-inlay)">
+          <g id="fold-wlan-diamond-band-01">
+            <path d="M8.25 14.327 L24.122 21.059 L25.258 24.014 L8.3 15.178 Z" fill="#575c5f" stroke="#575c5f" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M25.258 24.014 L6.624 57.96 L6.6 54.653 L8.3 15.178 Z" fill="#4f5457" stroke="#4f5457" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M6.6 54.653 L6.307 14.486 L8.3 15.178 Z" fill="#565b5e" stroke="#565b5e" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M6.307 14.486 L6.3 13.5 L8.25 14.327 L8.3 15.178 Z" fill="#5a5f62" stroke="#5a5f62" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M46.596 30.591 L62.601 37.379 L63.743 40.348 L46.646 31.445 Z" fill="#53585b" stroke="#53585b" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M63.743 40.348 L44.733 74.715 L46.646 31.445 Z" fill="#4b5053" stroke="#4b5053" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M44.733 74.715 L25.258 24.014 L46.646 31.445 Z" fill="#4b5053" stroke="#4b5053" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M25.258 24.014 L26.359 22.008 L46.596 30.591 L46.646 31.445 Z" fill="#5a5f62" stroke="#5a5f62" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M85.263 46.99 L101.402 53.835 L102.552 56.818 L85.312 47.848 Z" fill="#5b6063" stroke="#5b6063" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M102.552 56.818 L83.343 91.278 L85.312 47.848 Z" fill="#4b5053" stroke="#4b5053" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M83.343 91.278 L63.743 40.348 L85.312 47.848 Z" fill="#4b5053" stroke="#4b5053" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M63.743 40.348 L64.856 38.335 L85.263 46.99 L85.312 47.848 Z" fill="#565b5e" stroke="#565b5e" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M124.254 63.527 L140.529 70.43 L141.686 73.426 L124.303 64.389 Z" fill="#575c5f" stroke="#575c5f" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M141.686 73.426 L122.276 107.979 L124.303 64.389 Z" fill="#4b5053" stroke="#4b5053" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M122.276 107.979 L102.552 56.818 L124.303 64.389 Z" fill="#4b5053" stroke="#4b5053" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M102.552 56.818 L103.676 54.8 L124.254 63.527 L124.303 64.389 Z" fill="#565b5e" stroke="#565b5e" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M163.574 80.204 L163.8 80.3 L163.803 81.162 L163.623 81.069 Z" fill="#4f5457" stroke="#4f5457" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M163.803 81.162 L163.947 120.564 L161.537 124.821 L163.623 81.069 Z" fill="#4b5053" stroke="#4b5053" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M161.537 124.821 L141.686 73.426 L163.623 81.069 Z" fill="#4d5255" stroke="#4d5255" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M141.686 73.426 L142.823 71.403 L163.574 80.204 L163.623 81.069 Z" fill="#53585b" stroke="#53585b" stroke-width=".59" stroke-linejoin="round" />
+          </g>
+          <g id="fold-wlan-diamond-band-02">
+            <path d="M25.258 24.014 L44.733 74.715 L27.722 65.778 Z" fill="#64696c" stroke="#64696c" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M44.733 74.715 L25.839 108.872 L27.722 65.778 Z" fill="#565b5e" stroke="#565b5e" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M25.839 108.872 L6.63 58.776 L6.627 58.354 L27.722 65.778 Z" fill="#34393c" stroke="#34393c" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M6.627 58.354 L6.624 57.96 L25.258 24.014 L27.722 65.778 Z" fill="#494e51" stroke="#494e51" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M63.743 40.348 L83.343 91.278 L66.191 82.273 Z" fill="#62676a" stroke="#62676a" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M83.343 91.278 L64.252 125.526 L66.191 82.273 Z" fill="#585d60" stroke="#585d60" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M64.252 125.526 L44.733 74.715 L66.191 82.273 Z" fill="#2f3437" stroke="#2f3437" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M44.733 74.715 L63.743 40.348 L66.191 82.273 Z" fill="#34393c" stroke="#34393c" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M102.552 56.818 L122.276 107.979 L104.982 98.907 Z" fill="#64696c" stroke="#64696c" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M122.276 107.979 L102.985 142.319 L104.982 98.907 Z" fill="#585d60" stroke="#585d60" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M102.985 142.319 L83.343 91.278 L104.982 98.907 Z" fill="#2c3134" stroke="#2c3134" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M83.343 91.278 L102.552 56.818 L104.982 98.907 Z" fill="#313639" stroke="#313639" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M141.686 73.426 L161.537 124.821 L144.098 115.68 Z" fill="#575c5f" stroke="#575c5f" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M161.537 124.821 L142.044 159.254 L144.098 115.68 Z" fill="#4c5154" stroke="#4c5154" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M142.044 159.254 L122.276 107.979 L144.098 115.68 Z" fill="#2a2f32" stroke="#2a2f32" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M122.276 107.979 L141.686 73.426 L144.098 115.68 Z" fill="#2e3336" stroke="#2e3336" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M163.986 131.163 L161.537 124.821 L163.966 125.679 Z" fill="#464b4e" stroke="#464b4e" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M163.966 125.679 L161.537 124.821 L163.947 120.564 Z" fill="#4b5053" stroke="#4b5053" stroke-width=".59" stroke-linejoin="round" />
+          </g>
+          <g id="fold-wlan-diamond-band-03">
+            <path d="M6.652 61.805 L6.63 58.776 L25.839 108.872 L8.914 99.901 Z" fill="#595e61" stroke="#595e61" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M25.839 108.872 L7.241 142.495 L7.217 139.201 L8.914 99.901 Z" fill="#575c5f" stroke="#575c5f" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M7.217 139.201 L6.925 99.192 L8.914 99.901 Z" fill="#63686b" stroke="#63686b" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M6.925 99.192 L6.652 61.805 L8.914 99.901 Z" fill="#5e6366" stroke="#5e6366" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M44.733 74.715 L64.252 125.526 L47.187 116.488 Z" fill="#6a6f72" stroke="#6a6f72" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M64.252 125.526 L45.278 159.565 L47.187 116.488 Z" fill="#595e61" stroke="#595e61" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M45.278 159.565 L25.839 108.872 L47.187 116.488 Z" fill="#292e31" stroke="#292e31" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M25.839 108.872 L44.733 74.715 L47.187 116.488 Z" fill="#3f4447" stroke="#3f4447" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M83.343 91.278 L102.985 142.319 L85.779 133.213 Z" fill="#666b6e" stroke="#666b6e" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M102.985 142.319 L83.813 176.449 L85.779 133.213 Z" fill="#5a5f62" stroke="#5a5f62" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M83.813 176.449 L64.252 125.526 L85.779 133.213 Z" fill="#262b2e" stroke="#262b2e" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M64.252 125.526 L83.343 91.278 L85.779 133.213 Z" fill="#3c4144" stroke="#3c4144" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M122.276 107.979 L142.044 159.254 L124.695 150.078 Z" fill="#666b6e" stroke="#666b6e" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M142.044 159.254 L122.671 193.474 L124.695 150.078 Z" fill="#5a5f62" stroke="#5a5f62" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M122.671 193.474 L102.985 142.319 L124.695 150.078 Z" fill="#24292c" stroke="#24292c" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M102.985 142.319 L122.276 107.979 L124.695 150.078 Z" fill="#3b4043" stroke="#3b4043" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M161.537 124.821 L163.986 131.163 L164.117 167.181 L163.937 167.086 Z" fill="#464b4e" stroke="#464b4e" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M164.117 167.181 L164.261 206.425 L161.855 210.641 L163.937 167.086 Z" fill="#454a4d" stroke="#454a4d" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M161.855 210.641 L142.044 159.254 L163.937 167.086 Z" fill="#3e4346" stroke="#3e4346" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M142.044 159.254 L161.537 124.821 L163.937 167.086 Z" fill="#3c4144" stroke="#3c4144" stroke-width=".59" stroke-linejoin="round" />
+          </g>
+          <g id="fold-wlan-diamond-band-04">
+            <path d="M25.839 108.872 L45.278 159.565 L28.299 150.493 Z" fill="#676c6f" stroke="#676c6f" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M45.278 159.565 L26.419 193.397 L28.299 150.493 Z" fill="#5c6164" stroke="#5c6164" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M26.419 193.397 L7.247 143.308 L7.244 142.887 L28.299 150.493 Z" fill="#34393c" stroke="#34393c" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M7.244 142.887 L7.241 142.495 L25.839 108.872 L28.299 150.493 Z" fill="#4d5255" stroke="#4d5255" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M64.252 125.526 L83.813 176.449 L66.694 167.309 Z" fill="#686d70" stroke="#686d70" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M83.813 176.449 L64.758 210.369 L66.694 167.309 Z" fill="#5c6164" stroke="#5c6164" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M64.758 210.369 L45.278 159.565 L66.694 167.309 Z" fill="#22272a" stroke="#22272a" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M45.278 159.565 L64.252 125.526 L66.694 167.309 Z" fill="#3f4447" stroke="#3f4447" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M102.985 142.319 L122.671 193.474 L105.41 184.264 Z" fill="#676c6f" stroke="#676c6f" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M122.671 193.474 L103.417 227.483 L105.41 184.264 Z" fill="#5a5f62" stroke="#5a5f62" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M103.417 227.483 L83.813 176.449 L105.41 184.264 Z" fill="#212629" stroke="#212629" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M83.813 176.449 L102.985 142.319 L105.41 184.264 Z" fill="#3d4245" stroke="#3d4245" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M142.044 159.254 L161.855 210.641 L144.451 201.362 Z" fill="#5b6063" stroke="#5b6063" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M161.855 210.641 L142.4 244.74 L144.451 201.362 Z" fill="#505558" stroke="#505558" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M142.4 244.74 L122.671 193.474 L144.451 201.362 Z" fill="#202528" stroke="#202528" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M122.671 193.474 L142.044 159.254 L144.451 201.362 Z" fill="#3b4043" stroke="#3b4043" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M164.299 216.981 L161.855 210.641 L164.279 211.52 Z" fill="#42474a" stroke="#42474a" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M164.279 211.52 L161.855 210.641 L164.261 206.425 Z" fill="#464b4e" stroke="#464b4e" stroke-width=".59" stroke-linejoin="round" />
+          </g>
+          <g id="fold-wlan-diamond-band-05">
+            <path d="M7.269 146.325 L7.247 143.308 L26.419 193.397 L9.526 184.292 Z" fill="#585d60" stroke="#585d60" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M26.419 193.397 L7.855 226.699 L7.832 223.418 L9.526 184.292 Z" fill="#575c5f" stroke="#575c5f" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M7.832 223.418 L7.541 183.566 L9.526 184.292 Z" fill="#565b5e" stroke="#565b5e" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M7.541 183.566 L7.269 146.325 L9.526 184.292 Z" fill="#5a5f62" stroke="#5a5f62" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M45.278 159.565 L64.758 210.369 L47.726 201.196 Z" fill="#686d70" stroke="#686d70" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M64.758 210.369 L45.82 244.082 L47.726 201.196 Z" fill="#5c6164" stroke="#5c6164" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M45.82 244.082 L26.419 193.397 L47.726 201.196 Z" fill="#202528" stroke="#202528" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M26.419 193.397 L45.278 159.565 L47.726 201.196 Z" fill="#404548" stroke="#404548" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M83.813 176.449 L103.417 227.483 L86.244 218.241 Z" fill="#686d70" stroke="#686d70" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M103.417 227.483 L84.281 261.284 L86.244 218.241 Z" fill="#5b6063" stroke="#5b6063" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M84.281 261.284 L64.758 210.369 L86.244 218.241 Z" fill="#1d2225" stroke="#1d2225" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M64.758 210.369 L83.813 176.449 L86.244 218.241 Z" fill="#3f4447" stroke="#3f4447" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M122.671 193.474 L142.4 244.74 L125.084 235.428 Z" fill="#696e71" stroke="#696e71" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M142.4 244.74 L123.064 278.629 L125.084 235.428 Z" fill="#5c6164" stroke="#5c6164" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M123.064 278.629 L103.417 227.483 L125.084 235.428 Z" fill="#1d2225" stroke="#1d2225" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M103.417 227.483 L122.671 193.474 L125.084 235.428 Z" fill="#3e4346" stroke="#3e4346" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M161.855 210.641 L164.299 216.981 L164.43 252.856 L164.251 252.76 Z" fill="#454a4d" stroke="#454a4d" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M164.43 252.856 L164.573 291.944 L162.172 296.12 L164.251 252.76 Z" fill="#474c4f" stroke="#474c4f" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M162.172 296.12 L142.4 244.74 L164.251 252.76 Z" fill="#3e4346" stroke="#3e4346" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M142.4 244.74 L161.855 210.641 L164.251 252.76 Z" fill="#3d4245" stroke="#3d4245" stroke-width=".59" stroke-linejoin="round" />
+          </g>
+          <g id="fold-wlan-diamond-band-06">
+            <path d="M26.419 193.397 L45.82 244.082 L28.874 234.877 Z" fill="#686d70" stroke="#686d70" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M45.82 244.082 L26.997 277.59 L28.874 234.877 Z" fill="#5d6265" stroke="#5d6265" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M26.997 277.59 L7.861 227.509 L7.858 227.09 L28.874 234.877 Z" fill="#34393c" stroke="#34393c" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M7.858 227.09 L7.855 226.699 L26.419 193.397 L28.874 234.877 Z" fill="#4c5154" stroke="#4c5154" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M64.758 210.369 L84.281 261.284 L67.196 252.009 Z" fill="#6b7073" stroke="#6b7073" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M84.281 261.284 L65.263 294.878 L67.196 252.009 Z" fill="#5d6265" stroke="#5d6265" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M65.263 294.878 L45.82 244.082 L67.196 252.009 Z" fill="#1d2225" stroke="#1d2225" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M45.82 244.082 L64.758 210.369 L67.196 252.009 Z" fill="#414649" stroke="#414649" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M103.417 227.483 L123.064 278.629 L105.837 269.284 Z" fill="#696e71" stroke="#696e71" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M123.064 278.629 L103.847 312.31 L105.837 269.284 Z" fill="#5c6164" stroke="#5c6164" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M103.847 312.31 L84.281 261.284 L105.837 269.284 Z" fill="#1b2023" stroke="#1b2023" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M84.281 261.284 L103.417 227.483 L105.837 269.284 Z" fill="#3f4447" stroke="#3f4447" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M142.4 244.74 L162.172 296.12 L144.802 286.704 Z" fill="#5c6164" stroke="#5c6164" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M162.172 296.12 L142.754 329.888 L144.802 286.704 Z" fill="#53585b" stroke="#53585b" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M142.754 329.888 L123.064 278.629 L144.802 286.704 Z" fill="#1a1f22" stroke="#1a1f22" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M123.064 278.629 L142.4 244.74 L144.802 286.704 Z" fill="#3e4346" stroke="#3e4346" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M164.611 302.459 L162.172 296.12 L164.592 297.019 Z" fill="#4b5053" stroke="#4b5053" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M164.592 297.019 L162.172 296.12 L164.573 291.944 Z" fill="#484d50" stroke="#484d50" stroke-width=".59" stroke-linejoin="round" />
+          </g>
+          <g id="fold-wlan-diamond-band-07">
+            <path d="M7.883 230.515 L7.861 227.509 L26.997 277.59 L10.136 268.353 Z" fill="#585d60" stroke="#585d60" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M26.997 277.59 L8.467 310.575 L8.444 307.306 L10.136 268.353 Z" fill="#585d60" stroke="#585d60" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M8.444 307.306 L8.154 267.61 L10.136 268.353 Z" fill="#5e6366" stroke="#5e6366" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M8.154 267.61 L7.883 230.515 L10.136 268.353 Z" fill="#5e6366" stroke="#5e6366" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M45.82 244.082 L65.263 294.878 L48.263 285.571 Z" fill="#6b7073" stroke="#6b7073" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M65.263 294.878 L46.36 328.268 L48.263 285.571 Z" fill="#5c6164" stroke="#5c6164" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M46.36 328.268 L26.997 277.59 L48.263 285.571 Z" fill="#1c2124" stroke="#1c2124" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M26.997 277.59 L45.82 244.082 L48.263 285.571 Z" fill="#414649" stroke="#414649" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M84.281 261.284 L103.847 312.31 L86.707 302.933 Z" fill="#6a6f72" stroke="#6a6f72" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M103.847 312.31 L84.748 345.785 L86.707 302.933 Z" fill="#5c6164" stroke="#5c6164" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M84.748 345.785 L65.263 294.878 L86.707 302.933 Z" fill="#1b2023" stroke="#1b2023" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M65.263 294.878 L84.281 261.284 L86.707 302.933 Z" fill="#414649" stroke="#414649" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M123.064 278.629 L142.754 329.888 L125.473 320.44 Z" fill="#686d70" stroke="#686d70" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M142.754 329.888 L123.456 363.448 L125.473 320.44 Z" fill="#5b6063" stroke="#5b6063" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M123.456 363.448 L103.847 312.31 L125.473 320.44 Z" fill="#1a1f22" stroke="#1a1f22" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M103.847 312.31 L123.064 278.629 L125.473 320.44 Z" fill="#3f4447" stroke="#3f4447" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M162.172 296.12 L164.611 302.459 L164.742 338.191 L164.563 338.093 Z" fill="#494e51" stroke="#494e51" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M164.742 338.191 L164.884 377.124 L162.488 381.259 L164.563 338.093 Z" fill="#494e51" stroke="#494e51" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M162.488 381.259 L142.754 329.888 L164.563 338.093 Z" fill="#404548" stroke="#404548" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M142.754 329.888 L162.172 296.12 L164.563 338.093 Z" fill="#3f4447" stroke="#3f4447" stroke-width=".59" stroke-linejoin="round" />
+          </g>
+          <g id="fold-wlan-diamond-band-08">
+            <path d="M26.997 277.59 L46.36 328.268 L29.446 318.929 Z" fill="#6b7073" stroke="#6b7073" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M46.36 328.268 L27.572 361.454 L29.446 318.929 Z" fill="#5e6366" stroke="#5e6366" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M27.572 361.454 L8.473 311.381 L8.47 310.964 L29.446 318.929 Z" fill="#393e41" stroke="#393e41" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M8.47 310.964 L8.467 310.575 L26.997 277.59 L29.446 318.929 Z" fill="#4d5255" stroke="#4d5255" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M65.263 294.878 L84.748 345.785 L67.695 336.376 Z" fill="#696e71" stroke="#696e71" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M84.748 345.785 L65.765 379.055 L67.695 336.376 Z" fill="#5c6164" stroke="#5c6164" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M65.765 379.055 L46.36 328.268 L67.695 336.376 Z" fill="#1b2023" stroke="#1b2023" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M46.36 328.268 L65.263 294.878 L67.695 336.376 Z" fill="#44494c" stroke="#44494c" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M103.847 312.31 L123.456 363.448 L106.262 353.969 Z" fill="#6d7275" stroke="#6d7275" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M123.456 363.448 L104.276 396.803 L106.262 353.969 Z" fill="#5b6063" stroke="#5b6063" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M104.276 396.803 L84.748 345.785 L106.262 353.969 Z" fill="#1a1f22" stroke="#1a1f22" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M84.748 345.785 L103.847 312.31 L106.262 353.969 Z" fill="#42474a" stroke="#42474a" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M142.754 329.888 L162.488 381.259 L145.151 371.708 Z" fill="#616669" stroke="#616669" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M162.488 381.259 L143.107 414.698 L145.151 371.708 Z" fill="#53585b" stroke="#53585b" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M143.107 414.698 L123.456 363.448 L145.151 371.708 Z" fill="#1a1f22" stroke="#1a1f22" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M123.456 363.448 L142.754 329.888 L145.151 371.708 Z" fill="#3f4447" stroke="#3f4447" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M164.922 387.597 L162.488 381.259 L164.903 382.179 Z" fill="#4a4f52" stroke="#4a4f52" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M164.903 382.179 L162.488 381.259 L164.884 377.124 Z" fill="#4a4f52" stroke="#4a4f52" stroke-width=".59" stroke-linejoin="round" />
+          </g>
+          <g id="fold-wlan-diamond-band-09">
+            <path d="M8.495 314.375 L8.473 311.381 L27.572 361.454 L10.743 352.085 Z" fill="#575c5f" stroke="#575c5f" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M27.572 361.454 L9.077 394.123 L9.053 390.868 L10.743 352.085 Z" fill="#575c5f" stroke="#575c5f" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M9.053 390.868 L8.765 351.325 L10.743 352.085 Z" fill="#5f6467" stroke="#5f6467" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M8.765 351.325 L8.495 314.375 L10.743 352.085 Z" fill="#595e61" stroke="#595e61" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M46.36 328.268 L65.765 379.055 L48.798 369.616 Z" fill="#6c7174" stroke="#6c7174" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M65.765 379.055 L46.898 412.124 L48.798 369.616 Z" fill="#5c6164" stroke="#5c6164" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M46.898 412.124 L27.572 361.454 L48.798 369.616 Z" fill="#1f2427" stroke="#1f2427" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M27.572 361.454 L46.36 328.268 L48.798 369.616 Z" fill="#464b4e" stroke="#464b4e" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M84.748 345.785 L104.276 396.803 L87.169 387.292 Z" fill="#6a6f72" stroke="#6a6f72" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M104.276 396.803 L85.212 429.954 L87.169 387.292 Z" fill="#5d6265" stroke="#5d6265" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M85.212 429.954 L65.765 379.055 L87.169 387.292 Z" fill="#1d2225" stroke="#1d2225" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M65.765 379.055 L84.748 345.785 L87.169 387.292 Z" fill="#44494c" stroke="#44494c" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M123.456 363.448 L143.107 414.698 L125.859 405.116 Z" fill="#6b7073" stroke="#6b7073" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M143.107 414.698 L123.846 447.932 L125.859 405.116 Z" fill="#5c6164" stroke="#5c6164" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M123.846 447.932 L104.276 396.803 L125.859 405.116 Z" fill="#1a1f22" stroke="#1a1f22" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M104.276 396.803 L123.456 363.448 L125.859 405.116 Z" fill="#43484b" stroke="#43484b" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M162.488 381.259 L164.922 387.597 L165.052 423.187 L164.873 423.088 Z" fill="#4c5154" stroke="#4c5154" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M165.052 423.187 L165.194 461.966 L162.802 466.06 L164.873 423.088 Z" fill="#54595c" stroke="#54595c" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M162.802 466.06 L143.107 414.698 L164.873 423.088 Z" fill="#414649" stroke="#414649" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M143.107 414.698 L162.488 381.259 L164.873 423.088 Z" fill="#414649" stroke="#414649" stroke-width=".59" stroke-linejoin="round" />
+          </g>
+          <g id="fold-wlan-diamond-band-10">
+            <path d="M27.572 361.454 L46.898 412.124 L30.016 402.654 Z" fill="#6c7174" stroke="#6c7174" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M46.898 412.124 L28.145 444.991 L30.016 402.654 Z" fill="#5d6265" stroke="#5d6265" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M28.145 444.991 L9.083 394.927 L9.08 394.511 L30.016 402.654 Z" fill="#3b4043" stroke="#3b4043" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M9.08 394.511 L9.077 394.123 L27.572 361.454 L30.016 402.654 Z" fill="#505558" stroke="#505558" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M65.765 379.055 L85.212 429.954 L68.192 420.413 Z" fill="#6d7275" stroke="#6d7275" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M85.212 429.954 L66.265 462.903 L68.192 420.413 Z" fill="#5d6265" stroke="#5d6265" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M66.265 462.903 L46.898 412.124 L68.192 420.413 Z" fill="#1f2427" stroke="#1f2427" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M46.898 412.124 L65.765 379.055 L68.192 420.413 Z" fill="#44494c" stroke="#44494c" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M104.276 396.803 L123.846 447.932 L106.685 438.319 Z" fill="#6d7275" stroke="#6d7275" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M123.846 447.932 L104.702 480.963 L106.685 438.319 Z" fill="#5c6164" stroke="#5c6164" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M104.702 480.963 L85.212 429.954 L106.685 438.319 Z" fill="#1d2225" stroke="#1d2225" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M85.212 429.954 L104.276 396.803 L106.685 438.319 Z" fill="#454a4d" stroke="#454a4d" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M143.107 414.698 L162.802 466.06 L145.5 456.375 Z" fill="#616669" stroke="#616669" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M162.802 466.06 L143.459 499.173 L145.5 456.375 Z" fill="#52575a" stroke="#52575a" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M143.459 499.173 L123.846 447.932 L145.5 456.375 Z" fill="#1b2023" stroke="#1b2023" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M123.846 447.932 L143.107 414.698 L145.5 456.375 Z" fill="#42474a" stroke="#42474a" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M165.232 472.397 L162.802 466.06 L165.212 467.001 Z" fill="#515659" stroke="#515659" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M165.212 467.001 L162.802 466.06 L165.194 461.966 Z" fill="#555a5d" stroke="#555a5d" stroke-width=".59" stroke-linejoin="round" />
+          </g>
+          <g id="fold-wlan-diamond-band-11">
+            <path d="M9.105 397.909 L9.083 394.927 L28.145 444.991 L11.347 435.492 Z" fill="#585d60" stroke="#585d60" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M28.145 444.991 L9.684 477.347 L9.66 474.104 L11.347 435.492 Z" fill="#595e61" stroke="#595e61" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M9.66 474.104 L9.373 434.715 L11.347 435.492 Z" fill="#5a5f62" stroke="#5a5f62" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M9.373 434.715 L9.105 397.909 L11.347 435.492 Z" fill="#5c6164" stroke="#5c6164" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M46.898 412.124 L66.265 462.903 L49.331 453.332 Z" fill="#6d7275" stroke="#6d7275" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M66.265 462.903 L47.433 495.652 L49.331 453.332 Z" fill="#5b6063" stroke="#5b6063" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M47.433 495.652 L28.145 444.991 L49.331 453.332 Z" fill="#24292c" stroke="#24292c" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M28.145 444.991 L46.898 412.124 L49.331 453.332 Z" fill="#484d50" stroke="#484d50" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M85.212 429.954 L104.702 480.963 L87.628 471.32 Z" fill="#6e7376" stroke="#6e7376" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M104.702 480.963 L85.675 513.792 L87.628 471.32 Z" fill="#5d6265" stroke="#5d6265" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M85.675 513.792 L66.265 462.903 L87.628 471.32 Z" fill="#212629" stroke="#212629" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M66.265 462.903 L85.212 429.954 L87.628 471.32 Z" fill="#474c4f" stroke="#474c4f" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M123.846 447.932 L143.459 499.173 L126.245 489.457 Z" fill="#6b7073" stroke="#6b7073" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M143.459 499.173 L124.235 532.083 L126.245 489.457 Z" fill="#5b6063" stroke="#5b6063" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M124.235 532.083 L104.702 480.963 L126.245 489.457 Z" fill="#1e2326" stroke="#1e2326" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M104.702 480.963 L123.846 447.932 L126.245 489.457 Z" fill="#454a4d" stroke="#454a4d" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M162.802 466.06 L165.232 472.397 L165.361 507.847 L165.183 507.746 Z" fill="#54595c" stroke="#54595c" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M165.361 507.847 L165.503 546.472 L163.115 550.526 L165.183 507.746 Z" fill="#515659" stroke="#515659" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M163.115 550.526 L143.459 499.173 L165.183 507.746 Z" fill="#44494c" stroke="#44494c" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M143.459 499.173 L162.802 466.06 L165.183 507.746 Z" fill="#43484b" stroke="#43484b" stroke-width=".59" stroke-linejoin="round" />
+          </g>
+          <g id="fold-wlan-diamond-band-12">
+            <path d="M28.145 444.991 L47.433 495.652 L30.584 486.052 Z" fill="#6b7073" stroke="#6b7073" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M47.433 495.652 L28.715 528.203 L30.584 486.052 Z" fill="#5e6366" stroke="#5e6366" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M28.715 528.203 L9.69 478.147 L9.687 477.733 L30.584 486.052 Z" fill="#3f4447" stroke="#3f4447" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M9.687 477.733 L9.684 477.347 L28.145 444.991 L30.584 486.052 Z" fill="#515659" stroke="#515659" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M66.265 462.903 L85.675 513.792 L68.687 504.12 Z" fill="#6b7073" stroke="#6b7073" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M85.675 513.792 L66.764 546.422 L68.687 504.12 Z" fill="#5b6063" stroke="#5b6063" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M66.764 546.422 L47.433 495.652 L68.687 504.12 Z" fill="#262b2e" stroke="#262b2e" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M47.433 495.652 L66.265 462.903 L68.687 504.12 Z" fill="#494e51" stroke="#494e51" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M104.702 480.963 L124.235 532.083 L107.107 522.338 Z" fill="#6e7376" stroke="#6e7376" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M124.235 532.083 L105.127 564.792 L107.107 522.338 Z" fill="#5c6164" stroke="#5c6164" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M105.127 564.792 L85.675 513.792 L107.107 522.338 Z" fill="#23282b" stroke="#23282b" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M85.675 513.792 L104.702 480.963 L107.107 522.338 Z" fill="#484d50" stroke="#484d50" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M143.459 499.173 L163.115 550.526 L145.846 540.707 Z" fill="#62676a" stroke="#62676a" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M163.115 550.526 L143.81 583.315 L145.846 540.707 Z" fill="#52575a" stroke="#52575a" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M143.81 583.315 L124.235 532.083 L145.846 540.707 Z" fill="#202528" stroke="#202528" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M124.235 532.083 L143.459 499.173 L145.846 540.707 Z" fill="#454a4d" stroke="#454a4d" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M165.541 556.862 L163.115 550.526 L165.521 551.487 Z" fill="#515659" stroke="#515659" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M165.521 551.487 L163.115 550.526 L165.503 546.472 Z" fill="#454a4d" stroke="#454a4d" stroke-width=".59" stroke-linejoin="round" />
+          </g>
+          <g id="fold-wlan-diamond-band-13">
+            <path d="M9.712 481.118 L9.69 478.147 L28.715 528.203 L11.95 518.574 Z" fill="#5b6063" stroke="#5b6063" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M28.715 528.203 L10.289 560.247 L10.265 557.016 L11.95 518.574 Z" fill="#5b6063" stroke="#5b6063" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M10.265 557.016 L9.979 517.781 L11.95 518.574 Z" fill="#5a5f62" stroke="#5a5f62" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M9.979 517.781 L9.712 481.118 L11.95 518.574 Z" fill="#585d60" stroke="#585d60" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M47.433 495.652 L66.764 546.422 L49.861 536.721 Z" fill="#707578" stroke="#707578" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M66.764 546.422 L47.967 578.855 L49.861 536.721 Z" fill="#5d6265" stroke="#5d6265" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M47.967 578.855 L28.715 528.203 L49.861 536.721 Z" fill="#292e31" stroke="#292e31" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M28.715 528.203 L47.433 495.652 L49.861 536.721 Z" fill="#4b5053" stroke="#4b5053" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M85.675 513.792 L105.127 564.792 L88.086 555.018 Z" fill="#6f7477" stroke="#6f7477" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M105.127 564.792 L86.136 597.303 L88.086 555.018 Z" fill="#5c6164" stroke="#5c6164" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M86.136 597.303 L66.764 546.422 L88.086 555.018 Z" fill="#282d30" stroke="#282d30" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M66.764 546.422 L85.675 513.792 L88.086 555.018 Z" fill="#4a4f52" stroke="#4a4f52" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M124.235 532.083 L143.81 583.315 L126.628 573.467 Z" fill="#6f7477" stroke="#6f7477" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M143.81 583.315 L124.622 615.903 L126.628 573.467 Z" fill="#5e6366" stroke="#5e6366" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M124.622 615.903 L105.127 564.792 L126.628 573.467 Z" fill="#252a2d" stroke="#252a2d" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M105.127 564.792 L124.235 532.083 L126.628 573.467 Z" fill="#494e51" stroke="#494e51" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M163.115 550.526 L165.541 556.862 L165.669 592.172 L165.491 592.07 Z" fill="#4f5457" stroke="#4f5457" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M165.669 592.172 L165.81 630.645 L163.427 634.659 L165.491 592.07 Z" fill="#53585b" stroke="#53585b" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M163.427 634.659 L143.81 583.315 L165.491 592.07 Z" fill="#474c4f" stroke="#474c4f" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M143.81 583.315 L163.115 550.526 L165.491 592.07 Z" fill="#464b4e" stroke="#464b4e" stroke-width=".59" stroke-linejoin="round" />
+          </g>
+          <g id="fold-wlan-diamond-band-14">
+            <path d="M28.715 528.203 L47.967 578.855 L31.149 569.125 Z" fill="#6e7376" stroke="#6e7376" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M47.967 578.855 L29.284 611.091 L31.149 569.125 Z" fill="#5e6366" stroke="#5e6366" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M29.284 611.091 L10.295 561.044 L10.292 560.631 L31.149 569.125 Z" fill="#414649" stroke="#414649" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M10.292 560.631 L10.289 560.247 L28.715 528.203 L31.149 569.125 Z" fill="#54595c" stroke="#54595c" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M66.764 546.422 L86.136 597.303 L69.181 587.5 Z" fill="#707578" stroke="#707578" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M86.136 597.303 L67.26 629.616 L69.181 587.5 Z" fill="#5d6265" stroke="#5d6265" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M67.26 629.616 L47.967 578.855 L69.181 587.5 Z" fill="#2c3134" stroke="#2c3134" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M47.967 578.855 L66.764 546.422 L69.181 587.5 Z" fill="#4a4f52" stroke="#4a4f52" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M105.127 564.792 L124.622 615.903 L107.527 606.027 Z" fill="#717679" stroke="#717679" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M124.622 615.903 L105.551 648.293 L107.527 606.027 Z" fill="#5e6366" stroke="#5e6366" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M105.551 648.293 L86.136 597.303 L107.527 606.027 Z" fill="#282d30" stroke="#282d30" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M86.136 597.303 L105.127 564.792 L107.527 606.027 Z" fill="#4a4f52" stroke="#4a4f52" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M143.81 583.315 L163.427 634.659 L146.192 624.708 Z" fill="#63686b" stroke="#63686b" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M163.427 634.659 L144.159 667.126 L146.192 624.708 Z" fill="#53585b" stroke="#53585b" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M144.159 667.126 L124.622 615.903 L146.192 624.708 Z" fill="#252a2d" stroke="#252a2d" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M124.622 615.903 L143.81 583.315 L146.192 624.708 Z" fill="#494e51" stroke="#494e51" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M165.848 640.994 L163.427 634.659 L165.828 635.64 Z" fill="#575c5f" stroke="#575c5f" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M165.828 635.64 L163.427 634.659 L165.81 630.645 Z" fill="#54595c" stroke="#54595c" stroke-width=".59" stroke-linejoin="round" />
+          </g>
+          <g id="fold-wlan-diamond-band-15">
+            <path d="M10.316 564.003 L10.295 561.044 L29.284 611.091 L12.55 601.334 Z" fill="#5c6164" stroke="#5c6164" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M29.284 611.091 L10.891 642.826 L10.868 639.608 L12.55 601.334 Z" fill="#5e6366" stroke="#5e6366" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M10.868 639.608 L10.583 600.524 L12.55 601.334 Z" fill="#5d6265" stroke="#5d6265" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M10.583 600.524 L10.316 564.003 L12.55 601.334 Z" fill="#5b6063" stroke="#5b6063" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M47.967 578.855 L67.26 629.616 L50.39 619.785 Z" fill="#73787b" stroke="#73787b" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M67.26 629.616 L48.499 661.733 L50.39 619.785 Z" fill="#5f6467" stroke="#5f6467" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M48.499 661.733 L29.284 611.091 L50.39 619.785 Z" fill="#313639" stroke="#313639" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M29.284 611.091 L47.967 578.855 L50.39 619.785 Z" fill="#4c5154" stroke="#4c5154" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M86.136 597.303 L105.551 648.293 L88.542 638.389 Z" fill="#72777a" stroke="#72777a" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M105.551 648.293 L86.596 680.487 L88.542 638.389 Z" fill="#5e6366" stroke="#5e6366" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M86.596 680.487 L67.26 629.616 L88.542 638.389 Z" fill="#2e3336" stroke="#2e3336" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M67.26 629.616 L86.136 597.303 L88.542 638.389 Z" fill="#4b5053" stroke="#4b5053" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M124.622 615.903 L144.159 667.126 L127.01 657.147 Z" fill="#6e7376" stroke="#6e7376" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M144.159 667.126 L125.007 699.395 L127.01 657.147 Z" fill="#5e6366" stroke="#5e6366" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M125.007 699.395 L105.551 648.293 L127.01 657.147 Z" fill="#2a2f32" stroke="#2a2f32" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M105.551 648.293 L124.622 615.903 L127.01 657.147 Z" fill="#4a4f52" stroke="#4a4f52" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M163.427 634.659 L165.848 640.994 L165.976 676.164 L165.798 676.061 Z" fill="#5a5f62" stroke="#5a5f62" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M165.976 676.164 L166.116 714.485 L163.738 718.46 L165.798 676.061 Z" fill="#5f6467" stroke="#5f6467" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M163.738 718.46 L144.159 667.126 L165.798 676.061 Z" fill="#4a4f52" stroke="#4a4f52" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M144.159 667.126 L163.427 634.659 L165.798 676.061 Z" fill="#494e51" stroke="#494e51" stroke-width=".59" stroke-linejoin="round" />
+          </g>
+          <g id="fold-wlan-diamond-band-16">
+            <path d="M29.284 611.091 L48.499 661.733 L31.712 651.876 Z" fill="#6f7477" stroke="#6f7477" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M48.499 661.733 L29.85 693.658 L31.712 651.876 Z" fill="#5f6467" stroke="#5f6467" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M29.85 693.658 L10.897 643.62 L10.894 643.209 L31.712 651.876 Z" fill="#42474a" stroke="#42474a" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M10.894 643.209 L10.891 642.826 L29.284 611.091 L31.712 651.876 Z" fill="#54595c" stroke="#54595c" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M67.26 629.616 L86.596 680.487 L69.672 670.555 Z" fill="#707578" stroke="#707578" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M86.596 680.487 L67.755 712.485 L69.672 670.555 Z" fill="#5f6467" stroke="#5f6467" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M67.755 712.485 L48.499 661.733 L69.672 670.555 Z" fill="#33383b" stroke="#33383b" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M48.499 661.733 L67.26 629.616 L69.672 670.555 Z" fill="#4d5255" stroke="#4d5255" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M105.551 648.293 L125.007 699.395 L107.946 689.388 Z" fill="#74797c" stroke="#74797c" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M125.007 699.395 L105.973 731.468 L107.946 689.388 Z" fill="#606568" stroke="#606568" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M105.973 731.468 L86.596 680.487 L107.946 689.388 Z" fill="#303538" stroke="#303538" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M86.596 680.487 L105.551 648.293 L107.946 689.388 Z" fill="#4b5053" stroke="#4b5053" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M144.159 667.126 L163.738 718.46 L146.536 708.378 Z" fill="#686d70" stroke="#686d70" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M163.738 718.46 L144.506 750.608 L146.536 708.378 Z" fill="#565b5e" stroke="#565b5e" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M144.506 750.608 L125.007 699.395 L146.536 708.378 Z" fill="#2d3235" stroke="#2d3235" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M125.007 699.395 L144.159 667.126 L146.536 708.378 Z" fill="#4b5053" stroke="#4b5053" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M166.154 724.794 L163.738 718.46 L166.134 719.461 Z" fill="#616669" stroke="#616669" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M166.134 719.461 L163.738 718.46 L166.116 714.485 Z" fill="#5e6366" stroke="#5e6366" stroke-width=".59" stroke-linejoin="round" />
+          </g>
+          <g id="fold-wlan-diamond-band-17">
+            <path d="M10.919 646.567 L10.897 643.62 L29.85 693.658 L13.147 683.773 Z" fill="#5f6467" stroke="#5f6467" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M29.85 693.658 L11.492 725.085 L11.468 721.88 L13.147 683.773 Z" fill="#606568" stroke="#606568" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M11.468 721.88 L11.184 682.947 L13.147 683.773 Z" fill="#5e6366" stroke="#5e6366" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M11.184 682.947 L10.919 646.567 L13.147 683.773 Z" fill="#5d6265" stroke="#5d6265" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M48.499 661.733 L67.755 712.485 L50.916 702.527 Z" fill="#73787b" stroke="#73787b" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M67.755 712.485 L49.028 744.29 L50.916 702.527 Z" fill="#62676a" stroke="#62676a" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M49.028 744.29 L29.85 693.658 L50.916 702.527 Z" fill="#373c3f" stroke="#373c3f" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M29.85 693.658 L48.499 661.733 L50.916 702.527 Z" fill="#4e5356" stroke="#4e5356" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M86.596 680.487 L105.973 731.468 L88.996 721.434 Z" fill="#74797c" stroke="#74797c" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M105.973 731.468 L87.053 763.346 L88.996 721.434 Z" fill="#616669" stroke="#616669" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M87.053 763.346 L67.755 712.485 L88.996 721.434 Z" fill="#34393c" stroke="#34393c" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M67.755 712.485 L86.596 680.487 L88.996 721.434 Z" fill="#4c5154" stroke="#4c5154" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M125.007 699.395 L144.506 750.608 L127.391 740.499 Z" fill="#73787b" stroke="#73787b" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M144.506 750.608 L125.392 782.56 L127.391 740.499 Z" fill="#62676a" stroke="#62676a" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M125.392 782.56 L105.973 731.468 L127.391 740.499 Z" fill="#34393c" stroke="#34393c" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M105.973 731.468 L125.007 699.395 L127.391 740.499 Z" fill="#4d5255" stroke="#4d5255" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M163.738 718.46 L166.154 724.794 L166.282 759.826 L166.104 759.721 Z" fill="#5b6063" stroke="#5b6063" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M166.282 759.826 L166.421 797.996 L164.048 801.932 L166.104 759.721 Z" fill="#575c5f" stroke="#575c5f" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M164.048 801.932 L144.506 750.608 L166.104 759.721 Z" fill="#4c5154" stroke="#4c5154" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M144.506 750.608 L163.738 718.46 L166.104 759.721 Z" fill="#4b5053" stroke="#4b5053" stroke-width=".59" stroke-linejoin="round" />
+          </g>
+          <g id="fold-wlan-diamond-band-18">
+            <path d="M29.85 693.658 L49.028 744.29 L32.274 734.306 Z" fill="#73787b" stroke="#73787b" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M49.028 744.29 L30.414 775.904 L32.274 734.306 Z" fill="#62676a" stroke="#62676a" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M30.414 775.904 L11.497 725.876 L11.494 725.467 L32.274 734.306 Z" fill="#454a4d" stroke="#454a4d" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M11.494 725.467 L11.492 725.085 L29.85 693.658 L32.274 734.306 Z" fill="#565b5e" stroke="#565b5e" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M67.755 712.485 L87.053 763.346 L70.162 753.287 Z" fill="#72777a" stroke="#72777a" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M87.053 763.346 L68.248 795.032 L70.162 753.287 Z" fill="#62676a" stroke="#62676a" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M68.248 795.032 L49.028 744.29 L70.162 753.287 Z" fill="#3b4043" stroke="#3b4043" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M49.028 744.29 L67.755 712.485 L70.162 753.287 Z" fill="#4f5457" stroke="#4f5457" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M105.973 731.468 L125.392 782.56 L108.362 772.424 Z" fill="#73787b" stroke="#73787b" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M125.392 782.56 L106.393 814.318 L108.362 772.424 Z" fill="#62676a" stroke="#62676a" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M106.393 814.318 L87.053 763.346 L108.362 772.424 Z" fill="#383d40" stroke="#383d40" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M87.053 763.346 L105.973 731.468 L108.362 772.424 Z" fill="#4e5356" stroke="#4e5356" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M144.506 750.608 L164.048 801.932 L146.879 791.72 Z" fill="#686d70" stroke="#686d70" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M164.048 801.932 L144.853 833.762 L146.879 791.72 Z" fill="#585d60" stroke="#585d60" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M144.853 833.762 L125.392 782.56 L146.879 791.72 Z" fill="#353a3d" stroke="#353a3d" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M125.392 782.56 L144.506 750.608 L146.879 791.72 Z" fill="#4d5255" stroke="#4d5255" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M166.459 808.264 L164.048 801.932 L166.439 802.952 Z" fill="#565b5e" stroke="#565b5e" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M166.439 802.952 L164.048 801.932 L166.421 797.996 Z" fill="#565b5e" stroke="#565b5e" stroke-width=".59" stroke-linejoin="round" />
+          </g>
+          <g id="fold-wlan-diamond-band-19">
+            <path d="M11.519 728.812 L11.497 725.876 L30.414 775.904 L13.743 765.894 Z" fill="#606568" stroke="#606568" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M30.414 775.904 L12.089 807.027 L12.066 803.834 L13.743 765.894 Z" fill="#62676a" stroke="#62676a" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M12.066 803.834 L11.783 765.052 L13.743 765.894 Z" fill="#62676a" stroke="#62676a" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M11.783 765.052 L11.519 728.812 L13.743 765.894 Z" fill="#5f6467" stroke="#5f6467" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M49.028 744.29 L68.248 795.032 L51.441 784.947 Z" fill="#777c7f" stroke="#777c7f" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M68.248 795.032 L49.556 826.527 L51.441 784.947 Z" fill="#64696c" stroke="#64696c" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M49.556 826.527 L30.414 775.904 L51.441 784.947 Z" fill="#3f4447" stroke="#3f4447" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M30.414 775.904 L49.028 744.29 L51.441 784.947 Z" fill="#505558" stroke="#505558" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M87.053 763.346 L106.393 814.318 L89.449 804.156 Z" fill="#767b7e" stroke="#767b7e" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M106.393 814.318 L87.509 845.883 L89.449 804.156 Z" fill="#62676a" stroke="#62676a" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M87.509 845.883 L68.248 795.032 L89.449 804.156 Z" fill="#3e4346" stroke="#3e4346" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M68.248 795.032 L87.053 763.346 L89.449 804.156 Z" fill="#505558" stroke="#505558" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M125.392 782.56 L144.853 833.762 L127.77 823.524 Z" fill="#757a7d" stroke="#757a7d" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M144.853 833.762 L125.774 865.399 L127.77 823.524 Z" fill="#62676a" stroke="#62676a" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M125.774 865.399 L106.393 814.318 L127.77 823.524 Z" fill="#3b4043" stroke="#3b4043" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M106.393 814.318 L125.392 782.56 L127.77 823.524 Z" fill="#4e5356" stroke="#4e5356" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M164.048 801.932 L166.459 808.264 L166.586 843.158 L166.409 843.052 Z" fill="#575c5f" stroke="#575c5f" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M166.586 843.158 L166.725 881.179 L164.356 885.076 L166.409 843.052 Z" fill="#5d6265" stroke="#5d6265" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M164.356 885.076 L144.853 833.762 L166.409 843.052 Z" fill="#4f5457" stroke="#4f5457" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M144.853 833.762 L164.048 801.932 L166.409 843.052 Z" fill="#4e5356" stroke="#4e5356" stroke-width=".59" stroke-linejoin="round" />
+          </g>
+          <g id="fold-wlan-diamond-band-20">
+            <path d="M30.414 775.904 L49.556 826.527 L32.833 816.416 Z" fill="#757a7d" stroke="#757a7d" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M49.556 826.527 L30.976 857.833 L32.833 816.416 Z" fill="#696e71" stroke="#696e71" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M30.976 857.833 L12.095 807.815 L12.092 807.407 L32.833 816.416 Z" fill="#4f5457" stroke="#4f5457" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M12.092 807.407 L12.089 807.027 L30.414 775.904 L32.833 816.416 Z" fill="#575c5f" stroke="#575c5f" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M68.248 795.032 L87.509 845.883 L70.65 835.697 Z" fill="#767b7e" stroke="#767b7e" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M87.509 845.883 L68.739 877.259 L70.65 835.697 Z" fill="#696e71" stroke="#696e71" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M68.739 877.259 L49.556 826.527 L70.65 835.697 Z" fill="#474c4f" stroke="#474c4f" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M49.556 826.527 L68.248 795.032 L70.65 835.697 Z" fill="#4f5457" stroke="#4f5457" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M106.393 814.318 L125.774 865.399 L108.778 855.136 Z" fill="#767b7e" stroke="#767b7e" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M125.774 865.399 L106.811 896.844 L108.778 855.136 Z" fill="#696e71" stroke="#696e71" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M106.811 896.844 L87.509 845.883 L108.778 855.136 Z" fill="#464b4e" stroke="#464b4e" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M87.509 845.883 L106.393 814.318 L108.778 855.136 Z" fill="#4f5457" stroke="#4f5457" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M144.853 833.762 L164.356 885.076 L147.22 874.735 Z" fill="#6b7073" stroke="#6b7073" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M164.356 885.076 L145.198 916.591 L147.22 874.735 Z" fill="#5e6366" stroke="#5e6366" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M145.198 916.591 L125.774 865.399 L147.22 874.735 Z" fill="#44494c" stroke="#44494c" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M125.774 865.399 L144.853 833.762 L147.22 874.735 Z" fill="#4f5457" stroke="#4f5457" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M166.762 891.407 L164.356 885.076 L166.743 886.116 Z" fill="#5f6467" stroke="#5f6467" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M166.743 886.116 L164.356 885.076 L166.725 881.179 Z" fill="#606568" stroke="#606568" stroke-width=".59" stroke-linejoin="round" />
+          </g>
+          <g id="fold-wlan-diamond-band-21">
+            <path d="M12.116 810.74 L12.095 807.815 L30.976 857.833 L14.336 847.697 Z" fill="#5a5f62" stroke="#5a5f62" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M30.976 857.833 L30.374 858.849 L14.21 850.531 L14.336 847.697 Z" fill="#62676a" stroke="#62676a" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M14.21 850.531 L12.4 849.6 L12.38 846.839 L14.336 847.697 Z" fill="#686d70" stroke="#686d70" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M12.38 846.839 L12.116 810.74 L14.336 847.697 Z" fill="#5a5f62" stroke="#5a5f62" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M49.556 826.527 L68.739 877.259 L51.963 867.047 Z" fill="#5e6366" stroke="#5e6366" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M68.739 877.259 L68.13 878.277 L51.834 869.891 L51.963 867.047 Z" fill="#585d60" stroke="#585d60" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M51.834 869.891 L31.597 859.478 L30.976 857.833 L51.963 867.047 Z" fill="#5e6366" stroke="#5e6366" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M30.976 857.833 L49.556 826.527 L51.963 867.047 Z" fill="#5d6265" stroke="#5d6265" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M87.509 845.883 L106.811 896.844 L89.9 886.556 Z" fill="#5d6265" stroke="#5d6265" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M106.811 896.844 L106.196 897.864 L89.767 889.41 L89.9 886.556 Z" fill="#5f6467" stroke="#5f6467" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M89.767 889.41 L69.363 878.911 L68.739 877.259 L89.9 886.556 Z" fill="#595e61" stroke="#595e61" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M68.739 877.259 L87.509 845.883 L89.9 886.556 Z" fill="#5b6063" stroke="#5b6063" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M125.774 865.399 L145.198 916.591 L128.148 906.225 Z" fill="#5d6265" stroke="#5d6265" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M145.198 916.591 L144.576 917.613 L128.011 909.089 L128.148 906.225 Z" fill="#5f6467" stroke="#5f6467" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M128.011 909.089 L107.44 898.504 L106.811 896.844 L128.148 906.225 Z" fill="#5b6063" stroke="#5b6063" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M106.811 896.844 L125.774 865.399 L128.148 906.225 Z" fill="#5c6164" stroke="#5c6164" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M164.356 885.076 L166.762 891.407 L166.889 926.164 L166.712 926.057 Z" fill="#676c6f" stroke="#676c6f" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M166.889 926.164 L166.9 929.1 L166.572 928.931 L166.712 926.057 Z" fill="#666b6e" stroke="#666b6e" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M166.572 928.931 L145.83 918.258 L145.198 916.591 L166.712 926.057 Z" fill="#595e61" stroke="#595e61" stroke-width=".59" stroke-linejoin="round" />
+            <path d="M145.198 916.591 L164.356 885.076 L166.712 926.057 Z" fill="#585d60" stroke="#585d60" stroke-width=".59" stroke-linejoin="round" />
+          </g>
+          <path d="M6.24 13.54 L163.57 80.21 L167.0 928.31 Q167.02 929.67 165.91 929.02 L12.91 850.16 Q12.27 849.79 12.25 848.87 Z" fill="url(#fold-wlan-satin)" opacity=".24" />
+        </g>
+        <path d="M6.23 14.1 L163.4 80.8 L166.78 927.8" fill="none" stroke="#1a2125" stroke-width="2.05" opacity="0.96" stroke-linecap="round" stroke-linejoin="round" />
+        <path d="M6.68 16.6 L12.65 848.6 Q12.7 849.8 13.8 850.3 L165.2 928.35" fill="none" stroke="#242b2f" stroke-width="1.44" opacity="0.9" stroke-linecap="round" stroke-linejoin="round" />
+        <path d="M9.03 20.3 L14.06 846.35" fill="none" stroke="#8a9294" stroke-width="0.88" opacity="0.39" stroke-linecap="round" stroke-linejoin="round" />
+        <path d="M16.0 854.6 L164.2 931.46" fill="none" stroke="#b0b7b8" stroke-width="1.05" opacity="0.6" stroke-linecap="round" stroke-linejoin="round" />
+      </g>
+    </g>
+  </g>
+</svg>

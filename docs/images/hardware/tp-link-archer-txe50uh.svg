@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="98 1 660 1072" width="346.00746" height="562" role="img" aria-labelledby="txe50uh-title txe50uh-desc">
+  <title id="txe50uh-title">TP-Link Archer TXE50UH</title>
+  <desc id="txe50uh-desc">The freestanding graphite USB Wi-Fi adapter leans about 25 degrees to the right, viewed from the front and slightly from the right. Its curved antenna cover carries a small silver tp-link mark. A blue indicator sits above the exposed USB-A connector.</desc>
+  <defs>
+    <linearGradient id="txe50uh-upper-graphite" gradientUnits="userSpaceOnUse" x1="-2" y1="0" x2="221" y2="0">
+      <stop offset="0" stop-color="#434b54" />
+      <stop offset="0.014" stop-color="#53606b" />
+      <stop offset="0.045" stop-color="#5b626b" />
+      <stop offset="0.088" stop-color="#535962" />
+      <stop offset="0.162" stop-color="#4b4f58" />
+      <stop offset="0.267" stop-color="#494e57" />
+      <stop offset="0.43" stop-color="#4d525c" />
+      <stop offset="0.523" stop-color="#4d525d" />
+      <stop offset="0.581" stop-color="#565b67" />
+      <stop offset="0.638" stop-color="#60646f" />
+      <stop offset="0.67" stop-color="#575c67" />
+      <stop offset="0.705" stop-color="#474d58" />
+      <stop offset="0.752" stop-color="#383e48" />
+      <stop offset="0.804" stop-color="#2a2e36" />
+      <stop offset="0.859" stop-color="#22262e" />
+      <stop offset="0.922" stop-color="#1f232a" />
+      <stop offset="0.964" stop-color="#21252c" />
+      <stop offset="0.985" stop-color="#303740" />
+      <stop offset="1" stop-color="#171c22" />
+    </linearGradient>
+    <linearGradient id="txe50uh-lower-graphite" gradientUnits="userSpaceOnUse" x1="-3" y1="0" x2="218" y2="0">
+      <stop offset="0" stop-color="#39434c" />
+      <stop offset="0.015" stop-color="#434e58" />
+      <stop offset="0.047" stop-color="#4b545e" />
+      <stop offset="0.085" stop-color="#414952" />
+      <stop offset="0.165" stop-color="#343b43" />
+      <stop offset="0.274" stop-color="#313941" />
+      <stop offset="0.437" stop-color="#343b45" />
+      <stop offset="0.527" stop-color="#363d47" />
+      <stop offset="0.59" stop-color="#3c434f" />
+      <stop offset="0.634" stop-color="#454b56" />
+      <stop offset="0.672" stop-color="#3c4450" />
+      <stop offset="0.71" stop-color="#2b333e" />
+      <stop offset="0.757" stop-color="#1e252d" />
+      <stop offset="0.807" stop-color="#151a20" />
+      <stop offset="0.871" stop-color="#101419" />
+      <stop offset="0.927" stop-color="#101419" />
+      <stop offset="0.969" stop-color="#14181e" />
+      <stop offset="0.986" stop-color="#252c33" />
+      <stop offset="1" stop-color="#11151a" />
+    </linearGradient>
+    <linearGradient id="txe50uh-face-falloff" gradientUnits="userSpaceOnUse" x1="0" y1="-18" x2="0" y2="727">
+      <stop offset="0" stop-color="#fff" stop-opacity="0" />
+      <stop offset="0.19" stop-color="#fff" stop-opacity="0.23" />
+      <stop offset="0.57" stop-color="#fff" stop-opacity="0.63" />
+      <stop offset="0.84" stop-color="#fff" stop-opacity="0.91" />
+      <stop offset="1" stop-color="#fff" stop-opacity="1" />
+    </linearGradient>
+    <mask id="txe50uh-blend-on-face" maskUnits="userSpaceOnUse" maskContentUnits="userSpaceOnUse" x="-9" y="-30" width="245" height="772">
+      <rect x="-9" y="-30" width="245" height="772" fill="url(#txe50uh-face-falloff)" />
+    </mask>
+    <linearGradient id="txe50uh-collar-graphite" gradientUnits="userSpaceOnUse" x1="-4" y1="0" x2="255" y2="0">
+      <stop offset="0" stop-color="#303b45" />
+      <stop offset="0.011" stop-color="#45505c" />
+      <stop offset="0.032" stop-color="#606b78" />
+      <stop offset="0.067" stop-color="#818b99" />
+      <stop offset="0.102" stop-color="#8b95a2" />
+      <stop offset="0.19" stop-color="#848e9b" />
+      <stop offset="0.31" stop-color="#818b98" />
+      <stop offset="0.424" stop-color="#838d9a" />
+      <stop offset="0.505" stop-color="#838b99" />
+      <stop offset="0.558" stop-color="#707b89" />
+      <stop offset="0.596" stop-color="#5b6774" />
+      <stop offset="0.63" stop-color="#4a5562" />
+      <stop offset="0.686" stop-color="#36404b" />
+      <stop offset="0.749" stop-color="#2c343d" />
+      <stop offset="0.791" stop-color="#323b44" />
+      <stop offset="0.86" stop-color="#424d57" />
+      <stop offset="0.918" stop-color="#444e58" />
+      <stop offset="0.952" stop-color="#3a444e" />
+      <stop offset="1" stop-color="#283139" />
+    </linearGradient>
+    <linearGradient id="txe50uh-collar-foot-shade" gradientUnits="userSpaceOnUse" x1="0" y1="724" x2="0" y2="944">
+      <stop offset="0" stop-color="#111820" stop-opacity="0" />
+      <stop offset="0.32" stop-color="#111820" stop-opacity="0.025" />
+      <stop offset="0.83" stop-color="#111820" stop-opacity="0.145" />
+      <stop offset="0.975" stop-color="#111820" stop-opacity="0.18" />
+      <stop offset="1" stop-color="#111820" stop-opacity="0.21" />
+    </linearGradient>
+    <linearGradient id="txe50uh-right-spine" gradientUnits="userSpaceOnUse" x1="217" y1="0" x2="256" y2="0">
+      <stop offset="0" stop-color="#20272e" />
+      <stop offset="0.066" stop-color="#343d46" />
+      <stop offset="0.15" stop-color="#4a545f" />
+      <stop offset="0.27" stop-color="#4e5862" />
+      <stop offset="0.42" stop-color="#49525d" />
+      <stop offset="0.55" stop-color="#48525d" />
+      <stop offset="0.66" stop-color="#424b56" />
+      <stop offset="0.72" stop-color="#353e49" />
+      <stop offset="0.84" stop-color="#303944" />
+      <stop offset="0.935" stop-color="#2f3640" />
+      <stop offset="0.98" stop-color="#242a32" />
+      <stop offset="1" stop-color="#192027" />
+    </linearGradient>
+    <linearGradient id="txe50uh-side-relief" gradientUnits="userSpaceOnUse" x1="0" y1="-14" x2="0" y2="945">
+      <stop offset="0" stop-color="#adb5be" stop-opacity="0.28" />
+      <stop offset="0.12" stop-color="#a9b3bd" stop-opacity="0.11" />
+      <stop offset="0.5" stop-color="#b1bcc4" stop-opacity="0.11" />
+      <stop offset="0.83" stop-color="#b4bec6" stop-opacity="0.15" />
+      <stop offset="1" stop-color="#767f86" stop-opacity="0.14" />
+    </linearGradient>
+    <linearGradient id="txe50uh-crown" gradientUnits="userSpaceOnUse" x1="0" y1="-24" x2="4" y2="9">
+      <stop offset="0" stop-color="#a2a5aa" />
+      <stop offset="0.1" stop-color="#8c9298" />
+      <stop offset="0.28" stop-color="#6b727b" />
+      <stop offset="0.52" stop-color="#535b64" />
+      <stop offset="0.76" stop-color="#525a64" />
+      <stop offset="1" stop-color="#48515b" />
+    </linearGradient>
+    <linearGradient id="txe50uh-crown-rim" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="221" y2="0">
+      <stop offset="0" stop-color="#62707b" stop-opacity="0.26" />
+      <stop offset="0.08" stop-color="#9da5ad" stop-opacity="0.8" />
+      <stop offset="0.37" stop-color="#888f99" stop-opacity="0.65" />
+      <stop offset="0.64" stop-color="#c6c9cf" stop-opacity="0.94" />
+      <stop offset="0.84" stop-color="#acb0b7" stop-opacity="0.84" />
+      <stop offset="0.98" stop-color="#727984" stop-opacity="0.69" />
+    </linearGradient>
+    <linearGradient id="txe50uh-silhouette-rim" gradientUnits="userSpaceOnUse" x1="0" y1="-18" x2="0" y2="945">
+      <stop offset="0" stop-color="#a0a7ad" stop-opacity="0.72" />
+      <stop offset="0.09" stop-color="#67737b" stop-opacity="0.6" />
+      <stop offset="0.55" stop-color="#68737d" stop-opacity="0.55" />
+      <stop offset="0.87" stop-color="#6c7882" stop-opacity="0.57" />
+      <stop offset="1" stop-color="#76808a" stop-opacity="0.74" />
+    </linearGradient>
+    <linearGradient id="txe50uh-silver-joint" gradientUnits="userSpaceOnUse" x1="-3" y1="0" x2="220" y2="0">
+      <stop offset="0" stop-color="#616e79" />
+      <stop offset="0.045" stop-color="#aebac0" />
+      <stop offset="0.12" stop-color="#e1e5e6" />
+      <stop offset="0.24" stop-color="#e0e6e8" />
+      <stop offset="0.4" stop-color="#b6c1c9" />
+      <stop offset="0.53" stop-color="#eef0ee" />
+      <stop offset="0.69" stop-color="#ccd5db" />
+      <stop offset="0.79" stop-color="#abb5be" />
+      <stop offset="0.86" stop-color="#87929b" />
+      <stop offset="0.929" stop-color="#56636e" />
+      <stop offset="0.973" stop-color="#343e48" />
+      <stop offset="1" stop-color="#313942" />
+    </linearGradient>
+    <linearGradient id="txe50uh-collar-joint-edge" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="220" y2="0">
+      <stop offset="0" stop-color="#707d8a" />
+      <stop offset="0.09" stop-color="#a2afb9" />
+      <stop offset="0.36" stop-color="#abb6c1" />
+      <stop offset="0.6" stop-color="#a3afba" />
+      <stop offset="0.76" stop-color="#84909b" />
+      <stop offset="0.93" stop-color="#4f5c69" />
+      <stop offset="1" stop-color="#424d57" />
+    </linearGradient>
+    <linearGradient id="txe50uh-lower-bevel" gradientUnits="userSpaceOnUse" x1="-4" y1="0" x2="254" y2="0">
+      <stop offset="0" stop-color="#47535f" />
+      <stop offset="0.087" stop-color="#a4afb7" />
+      <stop offset="0.29" stop-color="#959fa8" />
+      <stop offset="0.5" stop-color="#909ba6" />
+      <stop offset="0.68" stop-color="#62707a" />
+      <stop offset="0.86" stop-color="#414c56" />
+      <stop offset="1" stop-color="#39434d" />
+    </linearGradient>
+    <linearGradient id="txe50uh-nickel-face" gradientUnits="userSpaceOnUse" x1="76" y1="936" x2="168" y2="1057">
+      <stop offset="0" stop-color="#d4d7d6" />
+      <stop offset="0.13" stop-color="#e7e9e6" />
+      <stop offset="0.36" stop-color="#f4f4ee" />
+      <stop offset="0.49" stop-color="#ebede8" />
+      <stop offset="0.62" stop-color="#e2e6e3" />
+      <stop offset="0.79" stop-color="#e9eae4" />
+      <stop offset="0.91" stop-color="#e4e7e4" />
+      <stop offset="1" stop-color="#d1d6d5" />
+    </linearGradient>
+    <linearGradient id="txe50uh-nickel-return" gradientUnits="userSpaceOnUse" x1="164" y1="0" x2="194" y2="0">
+      <stop offset="0" stop-color="#667076" />
+      <stop offset="0.05" stop-color="#6a7278" />
+      <stop offset="0.12" stop-color="#a7aeb0" />
+      <stop offset="0.17" stop-color="#959c9f" />
+      <stop offset="0.27" stop-color="#777e84" />
+      <stop offset="0.64" stop-color="#777d82" />
+      <stop offset="0.88" stop-color="#71787d" />
+      <stop offset="0.98" stop-color="#5e666b" />
+      <stop offset="1" stop-color="#495258" />
+    </linearGradient>
+    <linearGradient id="txe50uh-socket-occlusion" gradientUnits="userSpaceOnUse" x1="0" y1="941" x2="0" y2="953">
+      <stop offset="0" stop-color="#26333b" stop-opacity="0.45" />
+      <stop offset="0.33" stop-color="#3c4850" stop-opacity="0.17" />
+      <stop offset="1" stop-color="#667275" stop-opacity="0" />
+    </linearGradient>
+    <linearGradient id="txe50uh-usb-hole-interior" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="0" y2="19">
+      <stop offset="0" stop-color="#0a1217" />
+      <stop offset="0.2" stop-color="#111c26" />
+      <stop offset="0.6" stop-color="#142332" />
+      <stop offset="1" stop-color="#23394a" />
+    </linearGradient>
+    <linearGradient id="txe50uh-silver-ink" gradientUnits="userSpaceOnUse" x1="32" y1="626" x2="119" y2="662">
+      <stop offset="0" stop-color="#bcc0c3" />
+      <stop offset="0.25" stop-color="#b0b5b9" />
+      <stop offset="0.48" stop-color="#adb2b6" />
+      <stop offset="0.71" stop-color="#a5abb1" />
+      <stop offset="1" stop-color="#9da5ab" />
+    </linearGradient>
+    <linearGradient id="txe50uh-wordmark-ink" gradientUnits="userSpaceOnUse" x1="1" y1="0" x2="50" y2="2">
+      <stop offset="0" stop-color="#abb1b6" />
+      <stop offset="0.45" stop-color="#a1a9af" />
+      <stop offset="1" stop-color="#969fa5" />
+    </linearGradient>
+    <linearGradient id="txe50uh-led-bezel" gradientUnits="userSpaceOnUse" x1="66.5" y1="0" x2="83.4" y2="0">
+      <stop offset="0" stop-color="#a9b1b8" />
+      <stop offset="0.07" stop-color="#93a3ae" />
+      <stop offset="0.18" stop-color="#434e5a" />
+      <stop offset="0.33" stop-color="#283845" />
+      <stop offset="0.76" stop-color="#364c59" />
+      <stop offset="0.89" stop-color="#9baab4" />
+      <stop offset="1" stop-color="#bdc5c7" />
+    </linearGradient>
+    <linearGradient id="txe50uh-cyan-lens" gradientUnits="userSpaceOnUse" x1="69" y1="0" x2="81.7" y2="0">
+      <stop offset="0" stop-color="#317a95" />
+      <stop offset="0.13" stop-color="#389ebd" />
+      <stop offset="0.34" stop-color="#49c3e5" />
+      <stop offset="0.54" stop-color="#61d6f6" />
+      <stop offset="0.74" stop-color="#48c5eb" />
+      <stop offset="0.91" stop-color="#27acd7" />
+      <stop offset="1" stop-color="#348aad" />
+    </linearGradient>
+    <linearGradient id="txe50uh-indicator-glint" gradientUnits="userSpaceOnUse" x1="0" y1="784" x2="0" y2="901">
+      <stop offset="0" stop-color="#e1faff" stop-opacity="0.95" />
+      <stop offset="0.18" stop-color="#b8f1ff" stop-opacity="0.53" />
+      <stop offset="0.53" stop-color="#b0effc" stop-opacity="0.27" />
+      <stop offset="0.94" stop-color="#acf3ff" stop-opacity="0.4" />
+      <stop offset="1" stop-color="#d9fcff" stop-opacity="0.84" />
+    </linearGradient>
+    <pattern id="txe50uh-micrograin" patternUnits="userSpaceOnUse" width="43" height="41" patternTransform="rotate(-13)">
+      <path d="M14.94 39.36a0.30 0.26 0 1 0 0.61 0a0.30 0.26 0 1 0 -0.61 0Z M32.16 27.00a0.42 0.38 0 1 0 0.85 0a0.42 0.38 0 1 0 -0.85 0Z M35.52 36.59a0.63 0.48 0 1 0 1.27 0a0.63 0.48 0 1 0 -1.27 0Z M11.50 15.42a0.58 0.40 0 1 0 1.16 0a0.58 0.40 0 1 0 -1.16 0Z M40.68 3.90a0.69 0.36 0 1 0 1.38 0a0.69 0.36 0 1 0 -1.38 0Z M10.24 35.07a0.41 0.31 0 1 0 0.81 0a0.41 0.31 0 1 0 -0.81 0Z M12.21 16.74a0.66 0.32 0 1 0 1.31 0a0.66 0.32 0 1 0 -1.31 0Z M31.73 13.40a0.56 0.30 0 1 0 1.11 0a0.56 0.30 0 1 0 -1.11 0Z M21.36 14.70a0.37 0.46 0 1 0 0.74 0a0.37 0.46 0 1 0 -0.74 0Z M8.53 14.28a0.56 0.48 0 1 0 1.13 0a0.56 0.48 0 1 0 -1.13 0Z M32.79 15.65a0.48 0.31 0 1 0 0.95 0a0.48 0.31 0 1 0 -0.95 0Z M39.80 16.91a0.73 0.50 0 1 0 1.46 0a0.73 0.50 0 1 0 -1.46 0Z M18.29 37.63a0.64 0.41 0 1 0 1.28 0a0.64 0.41 0 1 0 -1.28 0Z M6.81 21.08a0.47 0.50 0 1 0 0.94 0a0.47 0.50 0 1 0 -0.94 0Z M9.66 12.03a0.43 0.34 0 1 0 0.86 0a0.43 0.34 0 1 0 -0.86 0Z M21.34 14.35a0.61 0.48 0 1 0 1.21 0a0.61 0.48 0 1 0 -1.21 0Z M20.84 27.04a0.63 0.24 0 1 0 1.25 0a0.63 0.24 0 1 0 -1.25 0Z M11.28 8.00a0.37 0.32 0 1 0 0.74 0a0.37 0.32 0 1 0 -0.74 0Z M21.64 30.21a0.54 0.33 0 1 0 1.07 0a0.54 0.33 0 1 0 -1.07 0Z M4.40 37.68a0.61 0.33 0 1 0 1.23 0a0.61 0.33 0 1 0 -1.23 0Z M9.30 36.93a0.31 0.44 0 1 0 0.63 0a0.31 0.44 0 1 0 -0.63 0Z M15.13 1.27a0.68 0.53 0 1 0 1.36 0a0.68 0.53 0 1 0 -1.36 0Z M7.13 37.36a0.33 0.27 0 1 0 0.66 0a0.33 0.27 0 1 0 -0.66 0Z M24.64 34.45a0.61 0.27 0 1 0 1.22 0a0.61 0.27 0 1 0 -1.22 0Z M20.44 7.79a0.63 0.47 0 1 0 1.26 0a0.63 0.47 0 1 0 -1.26 0Z M10.56 19.16a0.58 0.28 0 1 0 1.16 0a0.58 0.28 0 1 0 -1.16 0Z M1.12 13.58a0.40 0.45 0 1 0 0.80 0a0.40 0.45 0 1 0 -0.80 0Z M19.01 31.28a0.58 0.50 0 1 0 1.15 0a0.58 0.50 0 1 0 -1.15 0Z M28.64 33.23a0.36 0.46 0 1 0 0.71 0a0.36 0.46 0 1 0 -0.71 0Z M32.78 12.80a0.34 0.51 0 1 0 0.69 0a0.34 0.51 0 1 0 -0.69 0Z M35.71 3.10a0.59 0.31 0 1 0 1.17 0a0.59 0.31 0 1 0 -1.17 0Z M16.21 22.40a0.40 0.46 0 1 0 0.81 0a0.40 0.46 0 1 0 -0.81 0Z M2.78 6.26a0.62 0.49 0 1 0 1.24 0a0.62 0.49 0 1 0 -1.24 0Z M29.15 27.48a0.50 0.28 0 1 0 0.99 0a0.50 0.28 0 1 0 -0.99 0Z M16.19 0.97a0.39 0.34 0 1 0 0.79 0a0.39 0.34 0 1 0 -0.79 0Z M26.30 0.59a0.67 0.28 0 1 0 1.34 0a0.67 0.28 0 1 0 -1.34 0Z M17.08 3.97a0.66 0.30 0 1 0 1.31 0a0.66 0.30 0 1 0 -1.31 0Z M33.11 38.76a0.64 0.50 0 1 0 1.28 0a0.64 0.50 0 1 0 -1.28 0Z M1.52 15.54a0.43 0.32 0 1 0 0.87 0a0.43 0.32 0 1 0 -0.87 0Z M0.43 18.05a0.61 0.35 0 1 0 1.22 0a0.61 0.35 0 1 0 -1.22 0Z M8.76 37.01a0.53 0.41 0 1 0 1.07 0a0.53 0.41 0 1 0 -1.07 0Z M19.06 11.38a0.68 0.31 0 1 0 1.36 0a0.68 0.31 0 1 0 -1.36 0Z M37.64 21.58a0.59 0.43 0 1 0 1.17 0a0.59 0.43 0 1 0 -1.17 0Z M16.33 20.36a0.30 0.32 0 1 0 0.60 0a0.30 0.32 0 1 0 -0.60 0Z M24.85 27.37a0.40 0.45 0 1 0 0.80 0a0.40 0.45 0 1 0 -0.80 0Z M32.88 23.32a0.38 0.36 0 1 0 0.75 0a0.38 0.36 0 1 0 -0.75 0Z M27.71 5.63a0.49 0.28 0 1 0 0.98 0a0.49 0.28 0 1 0 -0.98 0Z M37.22 19.96a0.38 0.41 0 1 0 0.76 0a0.38 0.41 0 1 0 -0.76 0Z M42.16 34.38a0.32 0.42 0 1 0 0.64 0a0.32 0.42 0 1 0 -0.64 0Z M0.23 7.39a0.32 0.29 0 1 0 0.63 0a0.32 0.29 0 1 0 -0.63 0Z M4.73 35.70a0.60 0.30 0 1 0 1.20 0a0.60 0.30 0 1 0 -1.20 0Z M30.01 11.88a0.44 0.37 0 1 0 0.87 0a0.44 0.37 0 1 0 -0.87 0Z M9.36 19.30a0.44 0.52 0 1 0 0.89 0a0.44 0.52 0 1 0 -0.89 0Z M20.81 31.85a0.65 0.49 0 1 0 1.30 0a0.65 0.49 0 1 0 -1.30 0Z M16.30 7.75a0.52 0.25 0 1 0 1.03 0a0.52 0.25 0 1 0 -1.03 0Z M10.43 9.61a0.69 0.30 0 1 0 1.39 0a0.69 0.30 0 1 0 -1.39 0Z M26.34 9.93a0.68 0.35 0 1 0 1.36 0a0.68 0.35 0 1 0 -1.36 0Z M39.87 15.99a0.72 0.27 0 1 0 1.44 0a0.72 0.27 0 1 0 -1.44 0Z M3.75 36.68a0.32 0.39 0 1 0 0.63 0a0.32 0.39 0 1 0 -0.63 0Z M8.38 4.78a0.49 0.29 0 1 0 0.98 0a0.49 0.29 0 1 0 -0.98 0Z M31.69 22.78a0.64 0.28 0 1 0 1.27 0a0.64 0.28 0 1 0 -1.27 0Z M40.82 19.89a0.45 0.25 0 1 0 0.90 0a0.45 0.25 0 1 0 -0.90 0Z M10.99 29.83a0.73 0.35 0 1 0 1.45 0a0.73 0.35 0 1 0 -1.45 0Z M23.61 21.13a0.62 0.41 0 1 0 1.24 0a0.62 0.41 0 1 0 -1.24 0Z" fill="#e2e8ec" opacity="0.22" />
+      <path d="M38.27 4.75a0.63 0.49 0 1 0 1.27 0a0.63 0.49 0 1 0 -1.27 0Z M20.24 11.88a0.70 0.25 0 1 0 1.40 0a0.70 0.25 0 1 0 -1.40 0Z M30.73 36.58a0.71 0.51 0 1 0 1.41 0a0.71 0.51 0 1 0 -1.41 0Z M28.72 21.25a0.56 0.32 0 1 0 1.12 0a0.56 0.32 0 1 0 -1.12 0Z M21.39 32.20a0.51 0.47 0 1 0 1.02 0a0.51 0.47 0 1 0 -1.02 0Z M21.04 21.86a0.70 0.28 0 1 0 1.40 0a0.70 0.28 0 1 0 -1.40 0Z M3.09 3.48a0.54 0.49 0 1 0 1.09 0a0.54 0.49 0 1 0 -1.09 0Z M7.63 19.17a0.55 0.51 0 1 0 1.11 0a0.55 0.51 0 1 0 -1.11 0Z M31.73 2.31a0.35 0.52 0 1 0 0.71 0a0.35 0.52 0 1 0 -0.71 0Z M15.77 23.95a0.57 0.48 0 1 0 1.15 0a0.57 0.48 0 1 0 -1.15 0Z M38.54 39.89a0.70 0.43 0 1 0 1.41 0a0.70 0.43 0 1 0 -1.41 0Z M24.68 27.50a0.59 0.44 0 1 0 1.17 0a0.59 0.44 0 1 0 -1.17 0Z M4.51 19.84a0.32 0.52 0 1 0 0.64 0a0.32 0.52 0 1 0 -0.64 0Z M32.07 10.41a0.63 0.37 0 1 0 1.25 0a0.63 0.37 0 1 0 -1.25 0Z M31.72 16.42a0.49 0.46 0 1 0 0.98 0a0.49 0.46 0 1 0 -0.98 0Z M19.78 24.00a0.66 0.42 0 1 0 1.31 0a0.66 0.42 0 1 0 -1.31 0Z M32.74 25.76a0.46 0.45 0 1 0 0.92 0a0.46 0.45 0 1 0 -0.92 0Z M40.67 25.69a0.47 0.47 0 1 0 0.95 0a0.47 0.47 0 1 0 -0.95 0Z M13.73 2.33a0.52 0.52 0 1 0 1.05 0a0.52 0.52 0 1 0 -1.05 0Z M11.96 4.49a0.59 0.44 0 1 0 1.17 0a0.59 0.44 0 1 0 -1.17 0Z M41.42 7.93a0.35 0.48 0 1 0 0.70 0a0.35 0.48 0 1 0 -0.70 0Z M14.13 16.12a0.51 0.31 0 1 0 1.03 0a0.51 0.31 0 1 0 -1.03 0Z M16.07 34.18a0.52 0.46 0 1 0 1.05 0a0.52 0.46 0 1 0 -1.05 0Z M40.36 26.16a0.61 0.34 0 1 0 1.21 0a0.61 0.34 0 1 0 -1.21 0Z M27.34 31.13a0.51 0.50 0 1 0 1.01 0a0.51 0.50 0 1 0 -1.01 0Z M35.51 4.73a0.53 0.46 0 1 0 1.06 0a0.53 0.46 0 1 0 -1.06 0Z M2.19 35.28a0.51 0.28 0 1 0 1.03 0a0.51 0.28 0 1 0 -1.03 0Z M12.69 28.89a0.48 0.29 0 1 0 0.96 0a0.48 0.29 0 1 0 -0.96 0Z M14.25 23.81a0.44 0.31 0 1 0 0.88 0a0.44 0.31 0 1 0 -0.88 0Z M26.39 1.27a0.59 0.25 0 1 0 1.19 0a0.59 0.25 0 1 0 -1.19 0Z M19.05 31.55a0.68 0.49 0 1 0 1.36 0a0.68 0.49 0 1 0 -1.36 0Z M35.40 34.80a0.44 0.30 0 1 0 0.89 0a0.44 0.30 0 1 0 -0.89 0Z M13.98 28.51a0.53 0.44 0 1 0 1.06 0a0.53 0.44 0 1 0 -1.06 0Z M22.58 37.36a0.43 0.51 0 1 0 0.85 0a0.43 0.51 0 1 0 -0.85 0Z M16.81 19.89a0.71 0.40 0 1 0 1.42 0a0.71 0.40 0 1 0 -1.42 0Z M12.25 4.90a0.68 0.42 0 1 0 1.36 0a0.68 0.42 0 1 0 -1.36 0Z M21.84 25.74a0.40 0.51 0 1 0 0.80 0a0.40 0.51 0 1 0 -0.80 0Z M20.18 40.47a0.44 0.49 0 1 0 0.87 0a0.44 0.49 0 1 0 -0.87 0Z M36.83 19.95a0.37 0.44 0 1 0 0.73 0a0.37 0.44 0 1 0 -0.73 0Z M23.60 24.15a0.53 0.47 0 1 0 1.05 0a0.53 0.47 0 1 0 -1.05 0Z M1.16 21.88a0.59 0.32 0 1 0 1.17 0a0.59 0.32 0 1 0 -1.17 0Z M21.62 14.31a0.40 0.25 0 1 0 0.79 0a0.40 0.25 0 1 0 -0.79 0Z M6.04 20.39a0.54 0.51 0 1 0 1.07 0a0.54 0.51 0 1 0 -1.07 0Z M9.17 17.19a0.60 0.50 0 1 0 1.21 0a0.60 0.50 0 1 0 -1.21 0Z M34.70 30.71a0.54 0.34 0 1 0 1.08 0a0.54 0.34 0 1 0 -1.08 0Z M38.13 25.56a0.60 0.50 0 1 0 1.20 0a0.60 0.50 0 1 0 -1.20 0Z M39.91 36.42a0.61 0.44 0 1 0 1.21 0a0.61 0.44 0 1 0 -1.21 0Z M6.84 2.75a0.53 0.53 0 1 0 1.07 0a0.53 0.53 0 1 0 -1.07 0Z M38.66 30.48a0.48 0.49 0 1 0 0.96 0a0.48 0.49 0 1 0 -0.96 0Z M12.23 17.36a0.63 0.51 0 1 0 1.26 0a0.63 0.51 0 1 0 -1.26 0Z M4.57 12.51a0.68 0.36 0 1 0 1.36 0a0.68 0.36 0 1 0 -1.36 0Z M21.65 30.24a0.46 0.36 0 1 0 0.92 0a0.46 0.36 0 1 0 -0.92 0Z M1.11 35.73a0.52 0.48 0 1 0 1.04 0a0.52 0.48 0 1 0 -1.04 0Z M28.64 4.80a0.56 0.28 0 1 0 1.11 0a0.56 0.28 0 1 0 -1.11 0Z M29.87 16.51a0.32 0.33 0 1 0 0.65 0a0.32 0.33 0 1 0 -0.65 0Z M29.88 12.85a0.53 0.24 0 1 0 1.06 0a0.53 0.24 0 1 0 -1.06 0Z M35.19 6.90a0.54 0.37 0 1 0 1.08 0a0.54 0.37 0 1 0 -1.08 0Z M5.54 33.52a0.43 0.42 0 1 0 0.87 0a0.43 0.42 0 1 0 -0.87 0Z M1.76 27.34a0.71 0.39 0 1 0 1.43 0a0.71 0.39 0 1 0 -1.43 0Z M21.67 13.56a0.32 0.50 0 1 0 0.64 0a0.32 0.50 0 1 0 -0.64 0Z M39.88 5.52a0.52 0.34 0 1 0 1.04 0a0.52 0.34 0 1 0 -1.04 0Z M33.22 22.55a0.43 0.24 0 1 0 0.86 0a0.43 0.24 0 1 0 -0.86 0Z M7.14 29.69a0.55 0.38 0 1 0 1.10 0a0.55 0.38 0 1 0 -1.10 0Z M30.13 18.05a0.59 0.47 0 1 0 1.19 0a0.59 0.47 0 1 0 -1.19 0Z M4.74 3.28a0.70 0.53 0 1 0 1.41 0a0.70 0.53 0 1 0 -1.41 0Z M25.65 4.50a0.39 0.46 0 1 0 0.78 0a0.39 0.46 0 1 0 -0.78 0Z M12.98 20.20a0.64 0.40 0 1 0 1.28 0a0.64 0.40 0 1 0 -1.28 0Z M18.86 14.16a0.63 0.33 0 1 0 1.27 0a0.63 0.33 0 1 0 -1.27 0Z M21.70 35.91a0.54 0.36 0 1 0 1.08 0a0.54 0.36 0 1 0 -1.08 0Z M34.71 7.94a0.46 0.45 0 1 0 0.91 0a0.46 0.45 0 1 0 -0.91 0Z M26.43 27.62a0.52 0.24 0 1 0 1.05 0a0.52 0.24 0 1 0 -1.05 0Z M2.39 22.03a0.37 0.39 0 1 0 0.75 0a0.37 0.39 0 1 0 -0.75 0Z" fill="#070b11" opacity="0.3" />
+    </pattern>
+    <pattern id="txe50uh-metal-brush" patternUnits="userSpaceOnUse" width="32" height="23" patternTransform="rotate(-3)">
+      <path d="M16.24 19.27h9.56 M2.37 17.50h8.82 M14.51 17.64h5.15 M9.59 10.60h8.72 M7.68 1.30h3.88 M3.03 8.60h5.92 M5.44 16.58h9.15 M12.99 5.82h3.86 M13.46 19.04h7.08 M16.63 16.11h2.27 M0.49 2.27h4.95 M12.40 7.81h4.50 M11.24 20.20h3.42 M5.99 20.63h6.83 M16.05 9.86h6.40 M24.52 1.40h5.36 M13.41 11.88h2.86 M13.05 12.39h7.62 M12.53 22.56h9.62 M9.49 9.62h5.37 M6.93 18.94h5.32 M7.90 5.85h7.56 M13.41 22.13h7.07 M3.91 10.46h6.86 M8.92 11.57h3.21 M0.52 6.04h4.89" fill="none" stroke="#b4b9b8" stroke-width=".36" opacity="0.2" />
+      <path d="M17.03 14.49h6.41 M1.74 20.79h5.98 M24.32 13.35h7.91 M21.58 11.43h3.48 M12.05 22.50h8.15 M16.59 4.01h3.08 M3.31 1.61h7.84 M24.99 10.57h9.55 M1.64 10.62h7.74 M15.94 20.73h5.93 M24.84 15.27h8.28 M4.80 15.62h6.55 M11.80 13.19h5.68 M1.68 5.86h9.23 M20.98 17.35h3.81 M10.94 2.89h8.02 M4.05 4.12h9.09 M9.96 16.94h9.72 M19.92 14.84h3.87 M19.22 1.20h6.92 M6.27 1.52h7.11 M20.66 10.39h5.84 M18.39 11.37h6.60 M15.07 3.46h8.80 M1.05 0.91h7.37 M5.44 16.98h8.45" fill="none" stroke="#ffffff" stroke-width=".36" opacity="0.42" />
+    </pattern>
+  </defs>
+  <g id="txe50uh-adapter" transform="rotate(15 413 545) matrix(1 .161 -.168 1 365 0)">
+    <g id="txe50uh-usb-a-plug">
+      <path d="M165.8 937.5L193.7 939.5 191.9 1056.2Q191.8 1057.5 190.6 1057.8L164.0 1056.5 163.0 1054.9Z" fill="url(#txe50uh-nickel-return)" />
+      <path d="M80.1 938.9L166.9 939.3 164.8 1055.4Q164.7 1056.4 163.6 1056.4L77.7 1053.2Q76.8 1053.1 76.8 1052.2Z" fill="url(#txe50uh-nickel-face)" />
+      <path d="M80.1 938.9L166.9 939.3 164.8 1055.4Q164.7 1056.4 163.6 1056.4L77.7 1053.2Q76.8 1053.1 76.8 1052.2Z" fill="url(#txe50uh-metal-brush)" opacity=".52" />
+      <path d="M80.2 944.3L77.4 1052.2 162.5 1055.6" fill="none" stroke="#f9faf4" stroke-width="0.96" opacity="0.86" stroke-linejoin="round" stroke-linecap="round" />
+      <path d="M166.65 941.9L164.7 1055.4" fill="none" stroke="#6b7173" stroke-width="1.25" opacity="1" stroke-linejoin="round" stroke-linecap="round" />
+      <path d="M168.5 941.4L166.8 1054.9" fill="none" stroke="#c9cecd" stroke-width="0.88" opacity="0.85" stroke-linejoin="round" stroke-linecap="round" />
+      <path d="M192.9 944.3L191.05 1056.6 167 1055.8" fill="none" stroke="#556066" stroke-width="0.9" opacity="0.79" stroke-linejoin="round" stroke-linecap="round" />
+      <path d="M79.7 1053.2L163.5 1056.3" fill="none" stroke="#bec6c6" stroke-width="0.85" opacity="0.69" stroke-linejoin="round" stroke-linecap="round" />
+      <g transform="translate(89.0 983.3)">
+        <path d="M-.7 -1.1L19.75 -.8 19.32 20.12 -.9 19.4Z" fill="#f9faf7" />
+        <path d="M0 0L18.85 .18 18.67 19.02 -.22 18.79Z" fill="#7c898d" />
+        <path d="M1.05 1.25L17.96 1.44 17.770000000000003 18.04 .86 17.919999999999998Z" fill="url(#txe50uh-usb-hole-interior)" />
+        <path d="M1.05 1.3L17.950000000000003 1.46 17.830000000000002 4.15 2.52 3.73 2.3 17.919999999999998 .87 17.919999999999998Z" fill="#0b1218" />
+        <path d="M2.38 15.82Q9.048 15.42 17.75 16.32L17.770000000000003 18.0 2.3 17.919999999999998Z" fill="#203444" opacity=".32" />
+        <path d="M.15 19.22L18.69 19.47" fill="none" stroke="#fcfcf5" stroke-width="0.74" opacity="0.92" stroke-linejoin="round" stroke-linecap="round" />
+      </g>
+      <g transform="translate(135.15 985.25)">
+        <path d="M-.7 -1.1L18.7 -.8 18.27 20.040000000000003 -.9 19.32Z" fill="#f9faf7" />
+        <path d="M0 0L17.8 .18 17.62 18.94 -.22 18.71Z" fill="#7c898d" />
+        <path d="M1.05 1.25L16.91 1.44 16.72 17.96 .86 17.84Z" fill="url(#txe50uh-usb-hole-interior)" />
+        <path d="M1.05 1.3L16.900000000000002 1.46 16.78 4.15 2.52 3.73 2.3 17.84 .87 17.84Z" fill="#0b1218" />
+        <path d="M2.38 15.740000000000002Q8.544 15.340000000000002 16.7 16.240000000000002L16.72 17.92 2.3 17.84Z" fill="#203444" opacity=".32" />
+        <path d="M.15 19.14L17.64 19.39" fill="none" stroke="#fcfcf5" stroke-width="0.74" opacity="0.92" stroke-linejoin="round" stroke-linecap="round" />
+      </g>
+      <g transform="translate(96.7 952.4)">
+        <path d="M-.65 -.4L14.3 -.08 14.1 5.12 -.7 4.79Z" fill="#faf9f2" />
+        <path d="M0 0L13.52 .37 13.4 3.82 -.1 3.54Z" fill="#9fa5a5" />
+        <path d="M.12 .14L2.9 .18 2.83 3.37 0 3.31Z" fill="#424e53" />
+        <path d="M4.25 3.28L12.8 3.55" fill="none" stroke="#dce1dd" stroke-width="0.62" opacity="1" stroke-linejoin="round" stroke-linecap="round" />
+      </g>
+      <g transform="translate(130.7 953.9)">
+        <path d="M-.65 -.4L14.3 -.08 14.1 5.12 -.7 4.79Z" fill="#faf9f2" />
+        <path d="M0 0L13.52 .37 13.4 3.82 -.1 3.54Z" fill="#9fa5a5" />
+        <path d="M.12 .14L2.9 .18 2.83 3.37 0 3.31Z" fill="#424e53" />
+        <path d="M4.25 3.28L12.8 3.55" fill="none" stroke="#dce1dd" stroke-width="0.62" opacity="1" stroke-linejoin="round" stroke-linecap="round" />
+      </g>
+      <path d="M79.8 939.1L193.2 940.2 193 952.7Q136 950.5 79.6 951.4Z" fill="url(#txe50uh-socket-occlusion)" />
+    </g>
+    <g id="txe50uh-shell-and-collar">
+      <path d="M1.1 14.7Q2.1 5.9 14.5 1.6C62.8 -7.8 135 -18.9 162.8 -22C184.8 -25 209.8 -22 218.2 -18.1Q219.3 -17.4 219.9 -15.4Q220.2 -19.6 224.3 -19.8C235 -20.2 248.1 -15.9 253.4 -9.1Q256.3 -5.4 255.45 .7L253.2 940.9Q253.18 943.0 251.65 943.12L.4 940.2Q-2.40 940.08 -3.45 938.12L-3.1 736.6Q-3.3 727.25 -1.64 722.8Z" fill="url(#txe50uh-collar-graphite)" />
+      <path d="M1.1 14.7Q2.1 5.9 14.5 1.6C62.8 -7.8 135 -18.9 162.8 -22C184.8 -25 209.8 -22 218.2 -18.1Q219.3 -17.4 219.9 -15.4Q220.2 -19.6 224.3 -19.8C235 -20.2 248.1 -15.9 253.4 -9.1Q256.3 -5.4 255.45 .7L253.2 940.9Q253.18 943.0 251.65 943.12L.4 940.2Q-2.40 940.08 -3.45 938.12L-3.1 736.6Q-3.3 727.25 -1.64 722.8Z" fill="url(#txe50uh-collar-foot-shade)" />
+      <path d="M1.1 14.7Q2.1 5.9 14.5 1.6C62.8 -7.8 135 -18.9 162.8 -22C184.8 -25 209.8 -22 218.2 -18.1Q219.3 -17.4 219.9 -15.4Q220.2 -19.6 224.3 -19.8C235 -20.2 248.1 -15.9 253.4 -9.1Q256.3 -5.4 255.45 .7L253.2 940.9Q253.18 943.0 251.65 943.12L.4 940.2Q-2.40 940.08 -3.45 938.12L-3.1 736.6Q-3.3 727.25 -1.64 722.8Z" fill="url(#txe50uh-micrograin)" opacity=".29" />
+      <path d="M219.95 -14.25Q219.89 -19.55 224.4 -19.58C237.98 -19.65 249.35 -15.35 253.83 -8.60Q256.01 -4.8 255.44 1.6L253.17 940.95Q253.16 942.9 251.62 943.02L235.5 942.83C236.65 779.4 236.23 597.6 236.71 411.5L237.2 39.7C236.6 23.8 233.5 9.5 227.4 10.6Q221.1 13.0 219.69 52Z" fill="url(#txe50uh-right-spine)" />
+      <path d="M225.3 -18.7C237.7 -18.9 249.2 -14.7 253.0 -9.0Q254.7 -6.5 254.9 -3.3C250.2 -10.95 240.2 -13.95 230.9 -13.35Q224.75 -13.1 221.2 -9.8Q220.2 -18.22 225.3 -18.7Z" fill="#75808b" opacity=".38" />
+      <path d="M250.9 -10.9C243.2 -11.1 238.1 7.1 237.89 31.4L236.0 941.1" fill="none" stroke="#182029" stroke-width="1.6" opacity="0.78" stroke-linejoin="round" stroke-linecap="round" />
+      <path d="M249.3 -9.25C242.6 -6.8 239.6 9.3 239.36 30.8L237.74 940.7" fill="none" stroke="url(#txe50uh-side-relief)" stroke-width="1.33" opacity="1" stroke-linejoin="round" stroke-linecap="round" />
+      <path d="M253.98 -6.2Q255.14 -3.65 254.85 2.05L252.53 940.77" fill="none" stroke="url(#txe50uh-silhouette-rim)" stroke-width="1.12" opacity="1" stroke-linejoin="round" stroke-linecap="round" />
+      <path d="M221.0 -16.65Q221.85 -18.85 226.1 -18.85Q239.11 -18.73 246.94 -14.51" fill="none" stroke="#a4abb3" stroke-width="1.05" opacity="0.54" stroke-linejoin="round" stroke-linecap="round" />
+      <path d="M-3.1 936.52Q-2.5 938.25 .8 938.68L251.85 941.45Q252.62 941.40 253.11 941.0L252.82 942.28Q252.45 943.15 251.47 943.14L.40 940.27Q-2.4 940.06 -3.45 938.13Z" fill="url(#txe50uh-lower-bevel)" />
+      <path d="M1.1 940.15L251.05 942.98" fill="none" stroke="#26313a" stroke-width="0.78" opacity="0.85" stroke-linejoin="round" stroke-linecap="round" />
+      <path d="M-2.3 738L-2.9 937.7" fill="none" stroke="url(#txe50uh-silhouette-rim)" stroke-width="0.89" opacity="0.82" stroke-linejoin="round" stroke-linecap="round" />
+    </g>
+    <g id="txe50uh-folding-antenna-face">
+      <path d="M1.2 14.4Q1.5 5.9 15 1.3C55.9 -5.4 139.9 -19.8 165.4 -21.3Q205.9 -24.7 220.22 -14.0L221.43 650.6C221.15 677.5 220.4 696.1 208.05 711.81C197.00 725.97 181.0 730.0 151.6 730.88L10.7 734.33Q1.63 734.54 -2.21 730.02Q-2.82 725.90 -1.6 720.4Z" fill="#242c34" />
+      <path d="M-2.3 729.34Q-.5 733.76 10.2 734.04L146.7 730.83C178.6 730.6 196.32 726.4 207.77 711.5C216.51 700.72 220.2 686.1 220.63 666.5" fill="none" stroke="url(#txe50uh-collar-joint-edge)" stroke-width="1.56" opacity="1" stroke-linejoin="round" stroke-linecap="round" />
+      <path d="M-1.64 726.3Q.7 731.21 10.20 731.18L149.2 728.48C179.30 727.92 195.02 724.32 206.93 710.06C213.91 701.64 217.6 692.73 218.53 679.17" fill="none" stroke="#11171c" stroke-width="2.15" opacity="0.96" stroke-linejoin="round" stroke-linecap="round" />
+      <path d="M1.03 15.4C1.41 8.10 5.37 4.67 14.9 1.65C57.0 -6.10 117.1 -15.58 160.3 -21.28C178.55 -23.72 201.36 -23.83 212.63 -20.26C217.86 -19.03 220.1 -16.81 220.19 -10.41L217.67 655.9C217.44 680.30 215.63 696.84 204.79 707.21C193.12 718.65 177.60 721.71 150.22 722.29L10.73 725.70Q.02 725.85 -1.52 721.63Z" fill="url(#txe50uh-upper-graphite)" />
+      <path d="M1.03 15.4C1.41 8.10 5.37 4.67 14.9 1.65C57.0 -6.10 117.1 -15.58 160.3 -21.28C178.55 -23.72 201.36 -23.83 212.63 -20.26C217.86 -19.03 220.1 -16.81 220.19 -10.41L217.67 655.9C217.44 680.30 215.63 696.84 204.79 707.21C193.12 718.65 177.60 721.71 150.22 722.29L10.73 725.70Q.02 725.85 -1.52 721.63Z" fill="url(#txe50uh-lower-graphite)" mask="url(#txe50uh-blend-on-face)" />
+      <path d="M1.03 15.4C1.41 8.10 5.37 4.67 14.9 1.65C57.0 -6.10 117.1 -15.58 160.3 -21.28C178.55 -23.72 201.36 -23.83 212.63 -20.26C217.86 -19.03 220.1 -16.81 220.19 -10.41L217.67 655.9C217.44 680.30 215.63 696.84 204.79 707.21C193.12 718.65 177.60 721.71 150.22 722.29L10.73 725.70Q.02 725.85 -1.52 721.63Z" fill="url(#txe50uh-micrograin)" opacity=".35" />
+      <path d="M1.03 15.4C1.41 8.10 5.37 4.67 14.9 1.65C57.0 -6.10 117.1 -15.58 160.3 -21.28C178.55 -23.72 201.36 -23.83 212.63 -20.26C217.86 -19.03 220.1 -16.81 220.19 -10.41C216.4 -14.42 207.9 -15.24 199.6 -15.88C186.28 -16.74 175.80 -16.20 160.5 -14.64C115.20 -9.40 50.52 1.78 18.49 7.13Q4.35 9.48 1.03 15.4Z" fill="url(#txe50uh-crown)" />
+      <path d="M2.77 11.27Q5.33 5.63 15.25 2.71C64.15 -6.32 122.43 -15.0 160.82 -20.28C178.63 -22.49 200.7 -22.85 212.24 -19.15" fill="none" stroke="url(#txe50uh-crown-rim)" stroke-width="1.55" opacity="1" stroke-linejoin="round" stroke-linecap="round" />
+      <path d="M3.10 17.06L-.7 714.75" fill="none" stroke="#83909b" stroke-width="1.1" opacity="0.42" stroke-linejoin="round" stroke-linecap="round" />
+      <path d="M218.64 -9.48L216.21 657.55Q216.05 685.50 208.81 698.72" fill="none" stroke="#46505a" stroke-width="1.3" opacity="0.79" stroke-linejoin="round" stroke-linecap="round" />
+      <path d="M220.78 -8.12L218.51 653.80Q218.45 681.54 213.61 694.21" fill="none" stroke="#161a1f" stroke-width="1.8" opacity="0.93" stroke-linejoin="round" stroke-linecap="round" />
+      <path d="M-1.61 718.47Q-.66 724.39 10.68 724.61L149.19 721.01C177.05 720.37 192.62 717.34 204.33 706.06C213.51 697.2 216.50 682.63 217.34 664.31C217.23 685.92 214.08 699.65 205.53 709.0C193.87 721.56 178.11 724.28 149.47 725.0L10.68 728.54Q-.06 728.75 -1.92 723.87Z" fill="url(#txe50uh-silver-joint)" />
+      <path d="M6.38 726.31Q8.87 726.82 12.95 726.65L145.5 723.41Q171.4 722.96 182.79 719.75" fill="none" stroke="#f5f8f6" stroke-width="0.77" opacity="0.75" stroke-linejoin="round" stroke-linecap="round" />
+    </g>
+    <g id="txe50uh-pad-printed-mark" fill="url(#txe50uh-silver-ink)">
+      <path d="M41.42 641.25C40.53 633.57 42.43 626.03 46.79 620.81C49.5 617.38 53.82 616.09 57.22 617.78C62.06 619.66 64.52 626.59 65.13 633.39C65.81 640.98 63.26 648.49 59.55 652.53C57.26 654.83 54.5 655.88 51.58 655.77L51.27 645.75C55.85 645.25 58.38 641.89 58.84 637.31C59.32 632.68 57.34 628.18 54.18 628.03C50.24 627.99 47.98 633.26 48.31 640.73Z" fill="url(#txe50uh-silver-ink)" />
+      <path d="M33.66 645.91L47.75 644.64Q48.85 644.61 48.90 645.81L49.2 668.32Q49.19 669.16 48.45 669.22L43.11 669.65Q42.45 669.63 42.37 668.84L41.79 656.47 34.63 656.94Q33.99 656.99 33.96 656.15Z" fill="url(#txe50uh-silver-ink)" />
+      <g transform="matrix(1 -.054 .062 1 68.54 636.0)" stroke="url(#txe50uh-wordmark-ink)" stroke-width="2.45" stroke-linejoin="round" stroke-linecap="round" fill="none">
+        <path d="M1.0 1.95V13.93C1.0 17.06 1.84 18.34 3.57 18.34Q4.93 18.34 5.94 17.62M1.06 6.46H4.54" fill="none" />
+        <path d="M7.22 23.14V12.12C7.22 8.35 8.63 6.50 11.03 6.50C13.55 6.5 15.11 8.82 15.11 12.50C15.11 16.20 13.71 18.42 11.25 18.42Q8.86 18.42 7.30 16.64" fill="none" />
+        <path d="M17.30 12.66H20.76" fill="none" />
+        <path d="M23.65 .92V17.98" fill="none" />
+        <path d="M28.35 6.55V17.98" fill="none" />
+        <path d="M32.56 17.98V11.07C32.56 8.30 34.04 6.48 36.03 6.48C38.41 6.48 39.32 8.25 39.32 11.25V17.98" fill="none" />
+        <path d="M43.56 .92V17.98M49.63 6.51L43.72 13.75M46.58 10.43L50.08 17.98" fill="none" />
+        <ellipse cx="28.36" cy="2.52" rx="1.47" ry="1.61" stroke="none" fill="url(#txe50uh-wordmark-ink)" />
+      </g>
+    </g>
+    <g id="txe50uh-blue-indicator">
+      <path d="M76.07 782.38C80.35 781.47 83.12 784.68 83.13 790.35L81.92 893.83C81.87 899.47 79.56 903.52 75.45 904.06C71.34 904.77 67.12 901.73 67.16 896.42L68.79 795.20C68.85 788.48 71.42 783.22 76.07 782.38Z" fill="url(#txe50uh-led-bezel)" />
+      <path d="M76.33 784.07C79.51 783.65 81.94 786.71 81.9 790.66L80.66 893.96C80.64 898.39 78.48 901.77 75.17 902.32C71.72 902.77 68.49 900.37 68.60 896.23L70.18 795.21C70.23 789.53 72.66 784.65 76.33 784.07Z" fill="#294c5d" />
+      <path d="M76.57 784.98C79.56 784.58 81.31 787.12 81.24 791.15L79.99 893.12C79.95 897.36 78.13 900.52 75.03 900.96C72.10 901.43 69.57 899.12 69.66 895.54L71.17 795.49C71.20 790.41 73.20 785.67 76.57 784.98Z" fill="url(#txe50uh-cyan-lens)" />
+      <path d="M77.68 786.14Q74.39 785.64 73.39 793.61L71.94 893.57Q71.85 898.25 74.41 899.31" fill="none" stroke="url(#txe50uh-indicator-glint)" stroke-width="1.37" opacity="1" stroke-linejoin="round" stroke-linecap="round" />
+      <path d="M81.03 891.85Q80.91 900.20 76.18 901.71" fill="none" stroke="#b0dbe5" stroke-width="0.86" opacity="0.74" stroke-linejoin="round" stroke-linecap="round" />
+    </g>
+  </g>
+</svg>

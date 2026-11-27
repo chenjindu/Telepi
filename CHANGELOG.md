@@ -9,9 +9,10 @@ and sets up the hotspots to match, so there is no longer a separate image per ca
 
 ### Added
 
-- **AW7915-NPD support.** This M.2 card (MediaTek MT7915) runs both hotspots, 5G and 2.4G,
-  with WiFi 6. The Pi's onboard WiFi stays off in this setup
-- **Hardware detection on every boot.** Swap the M.2 card, or move the microSD card to a
+- **AW7915-NPD support.** This Mini PCIe card (MediaTek MT7915) runs both hotspots, 5G and
+  2.4G, with WiFi 6. It fits the Waveshare PCIe to MiniPCIe HAT+, and the Pi's onboard WiFi
+  stays off in this setup
+- **Hardware detection on every boot.** Swap the WiFi card, or move the microSD card to a
   Telepi built with a different card, and the hotspots come up with settings for that card.
   Hotspot names and passwords are kept
 - The WAN, Wi-Fi 5G and Wi-Fi 2.4G pages show the adapter behind each of them: a picture,
@@ -43,11 +44,11 @@ and sets up the hotspots to match, so there is no longer a separate image per ca
 
 ### Supported WiFi hardware
 
-| M.2 card (hotspots) | 5G hotspot | 2.4G hotspot | Status |
+| WiFi card (hotspots) | 5G hotspot | 2.4G hotspot | Status |
 | --- | --- | --- | --- |
-| MT7921 / MT7922 | M.2 card | Pi 5 onboard WiFi | Supported |
-| AW7915-NPD | M.2 card, WiFi 6 | M.2 card, WiFi 6 | Supported, new in 2.1.0 |
-| AW7916-NPD | — | — | Driver included, not tested yet |
+| MT7921 / MT7922 (M.2) | The card | Pi 5 onboard WiFi | Supported |
+| AW7915-NPD (Mini PCIe) | The card, WiFi 6 | The card, WiFi 6 | Supported, new in 2.1.0 |
+| AW7916-NPD (Mini PCIe) | — | — | Same driver as the AW7915-NPD, not tested yet |
 | MT7925 (M.2) | — | — | Not supported: unstable as a hotspot in our tests |
 
 The upstream radio is still a USB adapter with the MT7921AU chip. Drivers for the USB

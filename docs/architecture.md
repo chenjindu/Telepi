@@ -64,18 +64,31 @@ Notes:
 
 ## Radio Layout
 
+Telepi comes in two builds. The upstream radio is the same; the hotspots differ.
+
+**Build 1 — Starter** (Telepi OS 2.0.1, or 2.1.0 and later)
+
 | Radio | Hardware | Role |
 |---|---|---|
 | #1 | USB 3.0 adapter (MediaTek MT7921AU) | Upstream — connects to the source WiFi |
-| #2 | M.2 card (MT7922) via PCIe HAT | 5 GHz hotspot |
+| #2 | MT7922 M.2 card on the PCIe to M.2 HAT | 5 GHz hotspot |
 | #3 | Raspberry Pi 5 onboard WiFi | 2.4 GHz hotspot |
 
-With this layout the repeater and the dual-band hotspot run **simultaneously** —
-no bandwidth halving, no mode switching. See the [Hardware List](hardware.md) for exact parts.
+**Build 2 — Pro** (Telepi OS 2.1.0 and later)
 
-With an **AW7915-NPD** M.2 card instead of the MT7922 (Telepi OS 2.1.0 and later), the card
-runs both hotspots and the onboard WiFi stays off. Telepi OS detects which card is fitted
-on every boot.
+| Radio | Hardware | Role |
+|---|---|---|
+| #1 | USB 3.0 adapter (MediaTek MT7921AU) | Upstream — connects to the source WiFi |
+| #2 | AW7915-NPD / AW7916-NPD Mini PCIe card on the PCIe to MiniPCIe HAT | 5 GHz hotspot **and** 2.4 GHz hotspot |
+| — | Raspberry Pi 5 onboard WiFi | Switched off |
+
+In both builds the repeater and the dual-band hotspot run **simultaneously** —
+no bandwidth halving, no mode switching. In Build 1 the hotspots come from ordinary WiFi
+cards working as access points, and the 2.4 GHz hotspot from the onboard WiFi is weak.
+In Build 2 a chip made for access points runs both hotspots.
+
+Telepi OS 2.1.0 detects which build it is running on at every boot and sets up the hotspots
+to match. See the [Hardware List](hardware.md) for the exact parts.
 
 ## The Ethernet Port
 

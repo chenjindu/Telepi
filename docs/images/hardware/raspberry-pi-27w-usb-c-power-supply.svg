@@ -1,0 +1,308 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1080" height="1080" viewBox="212 256 836 836" role="img" aria-labelledby="title desc">
+  <title id="title">Raspberry Pi 27W USB-C Power Supply · US</title>
+  <desc id="desc">黑色美规电源，含带孔双扁插脚、盘绕的固定线缆和 USB-C 插头。透明背景的独立组件插画。</desc>
+  <defs>
+    <linearGradient id="case-crown" x1="427" y1="345" x2="718" y2="293" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#38393e" />
+      <stop offset=".48" stop-color="#414246" />
+      <stop offset="1" stop-color="#333438" />
+    </linearGradient>
+    <linearGradient id="case-wall" x1="688" y1="323" x2="749" y2="688" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#18191d" />
+      <stop offset=".08" stop-color="#232429" />
+      <stop offset=".27" stop-color="#2b2c32" />
+      <stop offset=".52" stop-color="#24252b" />
+      <stop offset=".82" stop-color="#2b2c31" />
+      <stop offset=".94" stop-color="#222328" />
+      <stop offset="1" stop-color="#141518" />
+    </linearGradient>
+    <linearGradient id="cap-tone" x1="423" y1="370" x2="620" y2="678" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#333439" />
+      <stop offset=".48" stop-color="#2c2d32" />
+      <stop offset=".84" stop-color="#292a2f" />
+      <stop offset="1" stop-color="#25262a" />
+    </linearGradient>
+    <linearGradient id="cap-seam-glint" x1="577" y1="357" x2="656" y2="686" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#46474c" />
+      <stop offset=".12" stop-color="#686b70" />
+      <stop offset=".31" stop-color="#35373c" />
+      <stop offset=".7" stop-color="#34353a" />
+      <stop offset="1" stop-color="#232428" />
+    </linearGradient>
+    <linearGradient id="pole-face" x1="0%" y1="55%" x2="100%" y2="40%">
+      <stop offset="0" stop-color="#4b4d50" />
+      <stop offset=".2" stop-color="#5a5b5d" />
+      <stop offset=".53" stop-color="#8a8a88" />
+      <stop offset=".77" stop-color="#b8b6ae" />
+      <stop offset=".92" stop-color="#d3cfc4" />
+      <stop offset="1" stop-color="#a5a199" />
+    </linearGradient>
+    <linearGradient id="pole-edge" x1="0%" y1="0%" x2="90%" y2="90%">
+      <stop offset="0" stop-color="#eeeadf" />
+      <stop offset=".40" stop-color="#a8a6a0" />
+      <stop offset=".78" stop-color="#dbd6cb" />
+      <stop offset="1" stop-color="#908e89" />
+    </linearGradient>
+    <linearGradient id="pole-bore" x1="0%" y1="0%" x2="100%" y2="20%">
+      <stop offset="0" stop-color="#666664" />
+      <stop offset=".33" stop-color="#ded9ce" />
+      <stop offset=".57" stop-color="#97948e" />
+      <stop offset="1" stop-color="#565657" />
+    </linearGradient>
+    <radialGradient id="cap-gleam" gradientUnits="userSpaceOnUse" cx="0" cy="0" r="1" gradientTransform="matrix(220 20 -22 252 431 388)">
+      <stop offset="0" stop-color="#65666b" stop-opacity=".11" />
+      <stop offset=".60" stop-color="#64656a" stop-opacity=".045" />
+      <stop offset="1" stop-color="#65666b" stop-opacity="0" />
+    </radialGradient>
+  </defs>
+  <g id="power-supply">
+    <g id="wire-cable">
+      <defs>
+        <linearGradient id="wire-sweep" gradientUnits="userSpaceOnUse" x1="290" y1="850" x2="945" y2="968">
+          <stop offset="0" stop-color="#4c4d53" />
+          <stop offset="0.15" stop-color="#5c5e64" />
+          <stop offset="0.4" stop-color="#4b4d53" />
+          <stop offset="0.64" stop-color="#373a40" />
+          <stop offset="0.83" stop-color="#50535b" />
+          <stop offset="1" stop-color="#44464c" />
+        </linearGradient>
+        <linearGradient id="wire-coil-light" gradientUnits="userSpaceOnUse" x1="365" y1="730" x2="855" y2="720">
+          <stop offset="0" stop-color="#6c6c72" />
+          <stop offset="0.1" stop-color="#53565d" />
+          <stop offset="0.25" stop-color="#3d4046" />
+          <stop offset="0.42" stop-color="#33363c" />
+          <stop offset="0.64" stop-color="#4b4e55" />
+          <stop offset="0.83" stop-color="#686b70" />
+          <stop offset="1" stop-color="#3e4147" />
+        </linearGradient>
+        <linearGradient id="wire-secondary" gradientUnits="userSpaceOnUse" x1="372" y1="720" x2="850" y2="748">
+          <stop offset="0" stop-color="#505157" />
+          <stop offset="0.18" stop-color="#5e6167" />
+          <stop offset="0.41" stop-color="#383b41" />
+          <stop offset="0.6" stop-color="#32353a" />
+          <stop offset="0.88" stop-color="#575960" />
+          <stop offset="1" stop-color="#40434b" />
+        </linearGradient>
+        <linearGradient id="wire-strain" gradientUnits="userSpaceOnUse" x1="619" y1="720" x2="667" y2="720">
+          <stop offset="0" stop-color="#27292e" />
+          <stop offset="0.2" stop-color="#3e4047" />
+          <stop offset="0.62" stop-color="#55565b" />
+          <stop offset="0.87" stop-color="#3c3e42" />
+          <stop offset="1" stop-color="#292b2e" />
+        </linearGradient>
+        <linearGradient id="wire-tie" gradientUnits="userSpaceOnUse" x1="579" y1="763" x2="606" y2="753">
+          <stop offset="0" stop-color="#181a1d" />
+          <stop offset="0.4" stop-color="#292c30" />
+          <stop offset="0.72" stop-color="#393b40" />
+          <stop offset="1" stop-color="#222429" />
+        </linearGradient>
+        <path d="M442 787 C367 805 310 807 294 843 C266 899 385 928 485 924 C581 922 682 877 748 861 C785 852 815 851 843 856 C903 866 947 883 964 917 C978 945 966 959 940 977" id="wire-path-free-lead" />
+        <path d="M557 737 C640 697 737 662 813 654 C829 652 837 656 825 668 C806 685 741 698 679 716" id="wire-path-rear-turn" />
+        <path d="M399 778 C473 782 613 758 727 748 C793 743 851 735 852 705 C852 683 826 674 792 682 C730 691 674 717 637 737" id="wire-path-rear-return" />
+        <path d="M419 808 C478 809 541 788 600 781 C681 770 782 772 833 760 C859 755 870 744 850 734 C829 724 788 727 752 737" id="wire-path-deep-turn" />
+        <path d="M453 722 C418 718 398 712 410 698 C422 683 486 707 554 718 C593 725 629 732 661 729 C716 722 773 685 826 684 C847 683 854 691 851 704" id="wire-path-inner-turn" />
+        <path d="M588 734 C530 739 468 739 415 731 C395 728 372 722 373 733 C375 750 428 757 501 749 C549 745 576 737 616 735" id="wire-path-middle-turn" />
+        <path d="M589 747 C524 756 461 765 392 760 C376 759 367 759 372 769 C381 781 434 783 484 772 C518 766 555 758 587 752" id="wire-path-low-turn" />
+        <path d="M604 783 C541 797 467 805 402 800 C385 798 380 794 388 789 C414 777 476 779 516 777 C554 774 588 761 617 751" id="wire-path-lower-return" />
+        <path d="M627 766 C591 774 547 780 502 795 C460 807 427 830 409 826 C405 822 415 811 440 799 C482 778 542 761 575 752 C626 739 684 749 740 736 C782 726 822 717 848 730" id="wire-path-lower-crossing" />
+        <path d="M666 763 C616 776 556 789 505 814 C474 828 450 843 425 851 C433 845 450 833 469 821 C525 785 583 763 634 750 C685 738 749 732 800 725 C834 721 861 729 858 746" id="wire-path-front-turn" />
+        <clipPath id="wire-exit-clip">
+          <path d="M600 719 H690 V794 C704 789 722 784 743 780 V866 H600Z" />
+        </clipPath>
+        <path d="M641 733 C644 766 660 802 693 825 C711 840 728 837 728 820 C728 801 718 782 709 767" id="wire-path-short-lead" />
+      </defs>
+      <g id="wire-free-lead" fill="none" stroke-linecap="round" stroke-linejoin="round">
+        <use xlink:href="#wire-path-free-lead" stroke="#1b1c20" stroke-width="25" transform="translate(0 0)" opacity="1" />
+        <use xlink:href="#wire-path-free-lead" stroke="#24262b" stroke-width="23.38" transform="translate(0 -0.33)" opacity="1" />
+        <use xlink:href="#wire-path-free-lead" stroke="#2e3035" stroke-width="19.75" transform="translate(0 -1)" opacity="1" />
+        <use xlink:href="#wire-path-free-lead" stroke="#35373d" stroke-width="16.0" transform="translate(0 -1.7)" opacity="1" />
+        <use xlink:href="#wire-path-free-lead" stroke="url(#wire-sweep)" stroke-width="12.25" transform="translate(0 -2.5)" opacity="0.6" />
+        <use xlink:href="#wire-path-free-lead" stroke="url(#wire-sweep)" stroke-width="7.5" transform="translate(0 -3.4)" opacity="0.65" />
+        <use xlink:href="#wire-path-free-lead" stroke="url(#wire-sweep)" stroke-width="3.75" transform="translate(0 -4.05)" opacity="0.65" />
+      </g>
+      <g id="wire-windings">
+        <g id="wire-rear-turn" fill="none" stroke-linecap="round" stroke-linejoin="round">
+          <use xlink:href="#wire-path-rear-turn" stroke="#1b1c20" stroke-width="23" transform="translate(0 0)" opacity="1" />
+          <use xlink:href="#wire-path-rear-turn" stroke="#24262b" stroke-width="21.51" transform="translate(0 -0.33)" opacity="1" />
+          <use xlink:href="#wire-path-rear-turn" stroke="#2e3035" stroke-width="18.17" transform="translate(0 -1)" opacity="1" />
+          <use xlink:href="#wire-path-rear-turn" stroke="#35373d" stroke-width="14.72" transform="translate(0 -1.7)" opacity="1" />
+          <use xlink:href="#wire-path-rear-turn" stroke="url(#wire-secondary)" stroke-width="11.27" transform="translate(0 -2.5)" opacity="0.6" />
+          <use xlink:href="#wire-path-rear-turn" stroke="url(#wire-secondary)" stroke-width="6.9" transform="translate(0 -3.4)" opacity="0.65" />
+          <use xlink:href="#wire-path-rear-turn" stroke="url(#wire-secondary)" stroke-width="3.45" transform="translate(0 -4.05)" opacity="0.65" />
+        </g>
+        <g id="wire-rear-return" fill="none" stroke-linecap="round" stroke-linejoin="round">
+          <use xlink:href="#wire-path-rear-return" stroke="#1b1c20" stroke-width="27" transform="translate(0 0)" opacity="1" />
+          <use xlink:href="#wire-path-rear-return" stroke="#24262b" stroke-width="25.25" transform="translate(0 -0.33)" opacity="1" />
+          <use xlink:href="#wire-path-rear-return" stroke="#2e3035" stroke-width="21.33" transform="translate(0 -1)" opacity="1" />
+          <use xlink:href="#wire-path-rear-return" stroke="#35373d" stroke-width="17.28" transform="translate(0 -1.7)" opacity="1" />
+          <use xlink:href="#wire-path-rear-return" stroke="url(#wire-secondary)" stroke-width="13.23" transform="translate(0 -2.5)" opacity="0.6" />
+          <use xlink:href="#wire-path-rear-return" stroke="url(#wire-secondary)" stroke-width="8.1" transform="translate(0 -3.4)" opacity="0.65" />
+          <use xlink:href="#wire-path-rear-return" stroke="url(#wire-secondary)" stroke-width="4.05" transform="translate(0 -4.05)" opacity="0.65" />
+        </g>
+        <g id="wire-deep-turn" fill="none" stroke-linecap="round" stroke-linejoin="round">
+          <use xlink:href="#wire-path-deep-turn" stroke="#1b1c20" stroke-width="26" transform="translate(0 0)" opacity="1" />
+          <use xlink:href="#wire-path-deep-turn" stroke="#24262b" stroke-width="24.31" transform="translate(0 -0.33)" opacity="1" />
+          <use xlink:href="#wire-path-deep-turn" stroke="#2e3035" stroke-width="20.54" transform="translate(0 -1)" opacity="1" />
+          <use xlink:href="#wire-path-deep-turn" stroke="#35373d" stroke-width="16.64" transform="translate(0 -1.7)" opacity="1" />
+          <use xlink:href="#wire-path-deep-turn" stroke="url(#wire-secondary)" stroke-width="12.74" transform="translate(0 -2.5)" opacity="0.6" />
+          <use xlink:href="#wire-path-deep-turn" stroke="url(#wire-secondary)" stroke-width="7.8" transform="translate(0 -3.4)" opacity="0.65" />
+          <use xlink:href="#wire-path-deep-turn" stroke="url(#wire-secondary)" stroke-width="3.9" transform="translate(0 -4.05)" opacity="0.65" />
+        </g>
+        <g id="wire-inner-turn" fill="none" stroke-linecap="round" stroke-linejoin="round">
+          <use xlink:href="#wire-path-inner-turn" stroke="#1b1c20" stroke-width="27" transform="translate(0 0)" opacity="1" />
+          <use xlink:href="#wire-path-inner-turn" stroke="#24262b" stroke-width="25.25" transform="translate(0 -0.33)" opacity="1" />
+          <use xlink:href="#wire-path-inner-turn" stroke="#2e3035" stroke-width="21.33" transform="translate(0 -1)" opacity="1" />
+          <use xlink:href="#wire-path-inner-turn" stroke="#35373d" stroke-width="17.28" transform="translate(0 -1.7)" opacity="1" />
+          <use xlink:href="#wire-path-inner-turn" stroke="url(#wire-coil-light)" stroke-width="13.23" transform="translate(0 -2.5)" opacity="0.6" />
+          <use xlink:href="#wire-path-inner-turn" stroke="url(#wire-coil-light)" stroke-width="8.1" transform="translate(0 -3.4)" opacity="0.65" />
+          <use xlink:href="#wire-path-inner-turn" stroke="url(#wire-coil-light)" stroke-width="4.05" transform="translate(0 -4.05)" opacity="0.65" />
+        </g>
+        <g id="wire-middle-turn" fill="none" stroke-linecap="round" stroke-linejoin="round">
+          <use xlink:href="#wire-path-middle-turn" stroke="#1b1c20" stroke-width="27" transform="translate(0 0)" opacity="1" />
+          <use xlink:href="#wire-path-middle-turn" stroke="#24262b" stroke-width="25.25" transform="translate(0 -0.33)" opacity="1" />
+          <use xlink:href="#wire-path-middle-turn" stroke="#2e3035" stroke-width="21.33" transform="translate(0 -1)" opacity="1" />
+          <use xlink:href="#wire-path-middle-turn" stroke="#35373d" stroke-width="17.28" transform="translate(0 -1.7)" opacity="1" />
+          <use xlink:href="#wire-path-middle-turn" stroke="url(#wire-coil-light)" stroke-width="13.23" transform="translate(0 -2.5)" opacity="0.6" />
+          <use xlink:href="#wire-path-middle-turn" stroke="url(#wire-coil-light)" stroke-width="8.1" transform="translate(0 -3.4)" opacity="0.65" />
+          <use xlink:href="#wire-path-middle-turn" stroke="url(#wire-coil-light)" stroke-width="4.05" transform="translate(0 -4.05)" opacity="0.65" />
+        </g>
+        <g id="wire-low-turn" fill="none" stroke-linecap="round" stroke-linejoin="round">
+          <use xlink:href="#wire-path-low-turn" stroke="#1b1c20" stroke-width="27" transform="translate(0 0)" opacity="1" />
+          <use xlink:href="#wire-path-low-turn" stroke="#24262b" stroke-width="25.25" transform="translate(0 -0.33)" opacity="1" />
+          <use xlink:href="#wire-path-low-turn" stroke="#2e3035" stroke-width="21.33" transform="translate(0 -1)" opacity="1" />
+          <use xlink:href="#wire-path-low-turn" stroke="#35373d" stroke-width="17.28" transform="translate(0 -1.7)" opacity="1" />
+          <use xlink:href="#wire-path-low-turn" stroke="url(#wire-secondary)" stroke-width="13.23" transform="translate(0 -2.5)" opacity="0.6" />
+          <use xlink:href="#wire-path-low-turn" stroke="url(#wire-secondary)" stroke-width="8.1" transform="translate(0 -3.4)" opacity="0.65" />
+          <use xlink:href="#wire-path-low-turn" stroke="url(#wire-secondary)" stroke-width="4.05" transform="translate(0 -4.05)" opacity="0.65" />
+        </g>
+        <g id="wire-lower-return" fill="none" stroke-linecap="round" stroke-linejoin="round">
+          <use xlink:href="#wire-path-lower-return" stroke="#1b1c20" stroke-width="25" transform="translate(0 0)" opacity="1" />
+          <use xlink:href="#wire-path-lower-return" stroke="#24262b" stroke-width="23.38" transform="translate(0 -0.33)" opacity="1" />
+          <use xlink:href="#wire-path-lower-return" stroke="#2e3035" stroke-width="19.75" transform="translate(0 -1)" opacity="1" />
+          <use xlink:href="#wire-path-lower-return" stroke="#35373d" stroke-width="16.0" transform="translate(0 -1.7)" opacity="1" />
+          <use xlink:href="#wire-path-lower-return" stroke="url(#wire-secondary)" stroke-width="12.25" transform="translate(0 -2.5)" opacity="0.6" />
+          <use xlink:href="#wire-path-lower-return" stroke="url(#wire-secondary)" stroke-width="7.5" transform="translate(0 -3.4)" opacity="0.65" />
+          <use xlink:href="#wire-path-lower-return" stroke="url(#wire-secondary)" stroke-width="3.75" transform="translate(0 -4.05)" opacity="0.65" />
+        </g>
+        <g id="wire-lower-crossing" fill="none" stroke-linecap="round" stroke-linejoin="round">
+          <use xlink:href="#wire-path-lower-crossing" stroke="#1b1c20" stroke-width="27" transform="translate(0 0)" opacity="1" />
+          <use xlink:href="#wire-path-lower-crossing" stroke="#24262b" stroke-width="25.25" transform="translate(0 -0.33)" opacity="1" />
+          <use xlink:href="#wire-path-lower-crossing" stroke="#2e3035" stroke-width="21.33" transform="translate(0 -1)" opacity="1" />
+          <use xlink:href="#wire-path-lower-crossing" stroke="#35373d" stroke-width="17.28" transform="translate(0 -1.7)" opacity="1" />
+          <use xlink:href="#wire-path-lower-crossing" stroke="url(#wire-coil-light)" stroke-width="13.23" transform="translate(0 -2.5)" opacity="0.6" />
+          <use xlink:href="#wire-path-lower-crossing" stroke="url(#wire-coil-light)" stroke-width="8.1" transform="translate(0 -3.4)" opacity="0.65" />
+          <use xlink:href="#wire-path-lower-crossing" stroke="url(#wire-coil-light)" stroke-width="4.05" transform="translate(0 -4.05)" opacity="0.65" />
+        </g>
+        <g id="wire-front-turn" fill="none" stroke-linecap="round" stroke-linejoin="round">
+          <use xlink:href="#wire-path-front-turn" stroke="#1b1c20" stroke-width="26" transform="translate(0 0)" opacity="1" />
+          <use xlink:href="#wire-path-front-turn" stroke="#24262b" stroke-width="24.31" transform="translate(0 -0.33)" opacity="1" />
+          <use xlink:href="#wire-path-front-turn" stroke="#2e3035" stroke-width="20.54" transform="translate(0 -1)" opacity="1" />
+          <use xlink:href="#wire-path-front-turn" stroke="#35373d" stroke-width="16.64" transform="translate(0 -1.7)" opacity="1" />
+          <use xlink:href="#wire-path-front-turn" stroke="url(#wire-coil-light)" stroke-width="12.74" transform="translate(0 -2.5)" opacity="0.6" />
+          <use xlink:href="#wire-path-front-turn" stroke="url(#wire-coil-light)" stroke-width="7.8" transform="translate(0 -3.4)" opacity="0.65" />
+          <use xlink:href="#wire-path-front-turn" stroke="url(#wire-coil-light)" stroke-width="3.9" transform="translate(0 -4.05)" opacity="0.65" />
+        </g>
+      </g>
+      <g id="wire-retaining-tie">
+        <path d="M579 739 Q585 739 590 736 L618 805 Q618.5 810 614 814 Q607 818 602 813 L598 806Z" fill="url(#wire-tie)" stroke="#191b1d" stroke-width="1" />
+        <path d="M582.5 741 Q585.3 739.8 588.3 740 L612.8 802" fill="none" stroke="#48494c" stroke-width="1.4" opacity="0.68" />
+        <path d="M602 802 Q608 802 617 798 L624 797 Q628 797 627 802 L622 810 Q614 814 607 812Z" fill="#252629" stroke="#1b1c1e" stroke-width="1.1" />
+        <path d="M613 803 L623 800" fill="none" stroke="#434449" stroke-width="1.2" />
+      </g>
+      <g id="wire-strain-relief">
+        <g id="wire-short-lead" fill="none" stroke-linecap="round" stroke-linejoin="round" clip-path="url(#wire-exit-clip)">
+          <use xlink:href="#wire-path-short-lead" stroke="#1b1c20" stroke-width="24.8" transform="translate(0 0)" opacity="1" />
+          <use xlink:href="#wire-path-short-lead" stroke="#24262b" stroke-width="23.19" transform="translate(0 -0.33)" opacity="1" />
+          <use xlink:href="#wire-path-short-lead" stroke="#2e3035" stroke-width="19.59" transform="translate(0 -1)" opacity="1" />
+          <use xlink:href="#wire-path-short-lead" stroke="#35373d" stroke-width="15.87" transform="translate(0 -1.7)" opacity="1" />
+          <use xlink:href="#wire-path-short-lead" stroke="url(#wire-secondary)" stroke-width="12.15" transform="translate(0 -2.5)" opacity="0.6" />
+          <use xlink:href="#wire-path-short-lead" stroke="url(#wire-secondary)" stroke-width="7.44" transform="translate(0 -3.4)" opacity="0.65" />
+          <use xlink:href="#wire-path-short-lead" stroke="url(#wire-secondary)" stroke-width="3.72" transform="translate(0 -4.05)" opacity="0.65" />
+        </g>
+        <path d="M619 701 Q638 699 655 692 L665 744 Q648 751 626 751Z" fill="url(#wire-strain)" stroke="#292a2d" stroke-width="1.15" stroke-linejoin="round" />
+        <path d="M627 748 Q645 749 663 742" fill="none" stroke="#67696c" stroke-width="1.05" opacity=".54" />
+      </g>
+    </g>
+    <g id="mains-adapter">
+      <path d="M394.6 387.5 Q393.7 352.8 414.1 344.3 Q416.3 343.3 421.3 342.2 L594.9 304.8 Q601.2 303 606.3 303.8 L760.8 315.4 Q774.4 315.9 785.1 324.2 Q804.6 340.1 809.4 368.7 L830.7 613.9 Q834.1 649.1 811.9 663 L656.2 707.2 Q641.6 714.2 616.8 713 L460.9 689.8 Q429.8 686.9 420.2 645.4 Q418.1 636.8 417.5 628.1 Z" fill="#1d1e21" stroke="#242527" stroke-width="1.25" stroke-linejoin="round" />
+      <path d="M409 346.8 Q412.6 343.8 420.9 342 L595.2 304.5 Q600.1 303 606.5 303.6 L760.8 315.1 Q767.3 315.7 771.7 317.8 L590 365 L548.7 382 Z" fill="url(#case-crown)" />
+      <path d="M423.5 342 L596.3 304.7 Q602.1 303.2 608 304 L757.2 315.2" fill="none" stroke="#737478" stroke-width=".9" stroke-linecap="round" stroke-linejoin="round" opacity="0.42" />
+      <path d="M573.2 357.8 L752.6 317.4 Q767.6 313.6 780.7 323.4 Q802.4 339.4 806.9 367.1 L828.8 614.2 Q831.6 646.7 811.2 661.6 Q804.8 665.3 795.7 667.6 L647.2 710.3 Q638.8 712.2 625.5 710.8 Z" fill="url(#case-wall)" />
+      <path d="M575.8 357.9 Q584.8 356 593.1 354.1 L751.3 317.7" fill="none" stroke="#16171a" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" opacity="0.82" />
+      <path d="M775.3 319.6 Q801.9 335.2 806.2 369.4 L826.8 615.1 Q829.3 643.5 814.5 657.6" fill="none" stroke="#505157" stroke-width="1.25" stroke-linecap="round" stroke-linejoin="round" opacity="0.68" />
+      <path d="M779.2 319.6 Q803.6 333.5 808.8 369 L830.0 614.9 Q832.7 642.3 819.9 656.2" fill="none" stroke="#111214" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" opacity="0.86" />
+      <path d="M394.9 388.6 Q393.7 359.4 407.3 348.3 Q414.3 342.6 425.2 343.8 L570.1 356.4 Q598.5 358.0 611.5 379.8 Q619.5 393.6 621.6 413.3 L648.4 666.3 Q651.2 693.6 637.1 707.6 Q628.9 716 613.8 713.2 L461.4 690.1 Q430.9 686.5 421.2 651.1 Q418.8 641.8 417.7 632.4 Z" fill="#141518" transform="translate(4 .25)" />
+      <path d="M394.9 388.6 Q393.7 359.4 407.3 348.3 Q414.3 342.6 425.2 343.8 L570.1 356.4 Q598.5 358.0 611.5 379.8 Q619.5 393.6 621.6 413.3 L648.4 666.3 Q651.2 693.6 637.1 707.6 Q628.9 716 613.8 713.2 L461.4 690.1 Q430.9 686.5 421.2 651.1 Q418.8 641.8 417.7 632.4 Z" fill="url(#cap-tone)" />
+      <path d="M394.9 388.6 Q393.7 359.4 407.3 348.3 Q414.3 342.6 425.2 343.8 L570.1 356.4 Q598.5 358.0 611.5 379.8 Q619.5 393.6 621.6 413.3 L648.4 666.3 Q651.2 693.6 637.1 707.6 Q628.9 716 613.8 713.2 L461.4 690.1 Q430.9 686.5 421.2 651.1 Q418.8 641.8 417.7 632.4 Z" fill="url(#cap-gleam)" />
+      <path d="M397.1 388.9 Q395.7 357.4 411.6 347.7 Q418 344 425.2 344.5 L564.9 356.9" fill="none" stroke="#64656b" stroke-width="0.85" stroke-linecap="round" stroke-linejoin="round" opacity="0.43" />
+      <path d="M577.1 357.7 Q600 360 612.7 381.6 Q619.4 393.6 622.1 411.1 L648.7 666.0 Q651.6 695.3 637.4 708.0" fill="none" stroke="url(#cap-seam-glint)" stroke-width="1.55" stroke-linecap="round" stroke-linejoin="round" opacity="1" />
+      <path d="M590.5 361 Q601.5 364.8 610.4 377.4" fill="none" stroke="#85868c" stroke-width="0.82" stroke-linecap="round" stroke-linejoin="round" opacity="0.55" />
+      <path d="M431.3 673.5 Q442.6 686.9 462.7 689.6 L612.8 712.8 Q622.1 714.7 628.7 712.9" fill="none" stroke="#16171a" stroke-width="1.15" stroke-linecap="round" stroke-linejoin="round" opacity="0.59" />
+      <g id="us-flat-blades">
+        <g id="rear-blade" transform="translate(747 442.0) scale(0.98)">
+          <path d="M0 0 L81.0 7.1 Q87.8 7.9 90.2 17.4 Q92.7 27.1 91.6 39 Q91.0 48.7 85.5 48.1 L.8 39.1 Z M65.0 27.3 C64.6 21.6 65.5 17.1 68.5 17.4 C71.3 17.6 73.4 22.7 73.9 28.8 C74.4 34.7 73.0 38.5 70.1 38.3 C67.4 38.0 65.3 33.5 65.0 27.3Z" fill="url(#pole-edge)" fill-rule="evenodd" transform="translate(3.4 -.5)" />
+          <path d="M0 0 L81.0 7.1 Q87.8 7.9 90.2 17.4 Q92.7 27.1 91.6 39 Q91.0 48.7 85.5 48.1 L.8 39.1 Z M65.0 27.3 C64.6 21.6 65.5 17.1 68.5 17.4 C71.3 17.6 73.4 22.7 73.9 28.8 C74.4 34.7 73.0 38.5 70.1 38.3 C67.4 38.0 65.3 33.5 65.0 27.3Z" fill="url(#pole-bore)" fill-rule="evenodd" />
+          <path d="M0 0 L81.0 7.1 Q87.8 7.9 90.2 17.4 Q92.7 27.1 91.6 39 Q91.0 48.7 85.5 48.1 L.8 39.1 Z M61.1 27.0 C60.4 20.4 62.5 14.4 66.8 14.8 C71.5 15.2 74.1 21.0 74.8 28.6 C75.4 36.0 72.6 41.2 68.6 40.6 C64.3 40.0 61.9 34.1 61.1 27.0Z" fill="url(#pole-face)" fill-rule="evenodd" />
+          <path d="M0 0 L81.0 7.1 Q87.8 7.9 90.2 17.4 Q92.7 27.1 91.6 39 Q91.0 48.7 85.5 48.1 L.8 39.1 Z M61.1 27.0 C60.4 20.4 62.5 14.4 66.8 14.8 C71.5 15.2 74.1 21.0 74.8 28.6 C75.4 36.0 72.6 41.2 68.6 40.6 C64.3 40.0 61.9 34.1 61.1 27.0Z" fill="#1c1d20" opacity="0.18" fill-rule="evenodd" />
+          <path d="M.8 .4 L80.7 7.4 Q84.3 7.8 86.7 11.4" fill="none" stroke="#e5e1d8" stroke-width="0.92" stroke-linecap="round" stroke-linejoin="round" opacity="0.76" />
+          <path d="M82.3 8.9 Q88.1 11.7 89.2 23.7 Q91 35.1 88.9 42.7" fill="none" stroke="#eeece4" stroke-width="1.05" stroke-linecap="round" stroke-linejoin="round" opacity="0.7" />
+          <path d="M62.1 32.0 Q63.5 39.3 68.1 40.7" fill="none" stroke="#f4eee1" stroke-width="0.85" stroke-linecap="round" stroke-linejoin="round" opacity="0.72" />
+          <path d="M2.3 38.9 L83.7 47.7" fill="none" stroke="#92908a" stroke-width="0.65" stroke-linecap="round" stroke-linejoin="round" opacity="0.63" />
+        </g>
+        <g id="near-blade" transform="translate(679.6 459.6) scale(1)">
+          <path d="M0 0 L81.0 7.1 Q87.8 7.9 90.2 17.4 Q92.7 27.1 91.6 39 Q91.0 48.7 85.5 48.1 L.8 39.1 Z M65.0 27.3 C64.6 21.6 65.5 17.1 68.5 17.4 C71.3 17.6 73.4 22.7 73.9 28.8 C74.4 34.7 73.0 38.5 70.1 38.3 C67.4 38.0 65.3 33.5 65.0 27.3Z" fill="url(#pole-edge)" fill-rule="evenodd" transform="translate(3.4 -.5)" />
+          <path d="M0 0 L81.0 7.1 Q87.8 7.9 90.2 17.4 Q92.7 27.1 91.6 39 Q91.0 48.7 85.5 48.1 L.8 39.1 Z M65.0 27.3 C64.6 21.6 65.5 17.1 68.5 17.4 C71.3 17.6 73.4 22.7 73.9 28.8 C74.4 34.7 73.0 38.5 70.1 38.3 C67.4 38.0 65.3 33.5 65.0 27.3Z" fill="url(#pole-bore)" fill-rule="evenodd" />
+          <path d="M0 0 L81.0 7.1 Q87.8 7.9 90.2 17.4 Q92.7 27.1 91.6 39 Q91.0 48.7 85.5 48.1 L.8 39.1 Z M61.1 27.0 C60.4 20.4 62.5 14.4 66.8 14.8 C71.5 15.2 74.1 21.0 74.8 28.6 C75.4 36.0 72.6 41.2 68.6 40.6 C64.3 40.0 61.9 34.1 61.1 27.0Z" fill="url(#pole-face)" fill-rule="evenodd" />
+          <path d="M.8 .4 L80.7 7.4 Q84.3 7.8 86.7 11.4" fill="none" stroke="#e5e1d8" stroke-width="0.92" stroke-linecap="round" stroke-linejoin="round" opacity="0.76" />
+          <path d="M82.3 8.9 Q88.1 11.7 89.2 23.7 Q91 35.1 88.9 42.7" fill="none" stroke="#eeece4" stroke-width="1.05" stroke-linecap="round" stroke-linejoin="round" opacity="0.7" />
+          <path d="M62.1 32.0 Q63.5 39.3 68.1 40.7" fill="none" stroke="#f4eee1" stroke-width="0.85" stroke-linecap="round" stroke-linejoin="round" opacity="0.72" />
+          <path d="M2.3 38.9 L83.7 47.7" fill="none" stroke="#92908a" stroke-width="0.65" stroke-linecap="round" stroke-linejoin="round" opacity="0.63" />
+        </g>
+      </g>
+    </g>
+    <g id="usbtip-plug" stroke-linejoin="round" stroke-linecap="round">
+      <defs>
+        <linearGradient id="usbtip-shell" x1="892" y1="986" x2="913" y2="1033" gradientUnits="userSpaceOnUse">
+          <stop stop-color="#47484d" />
+          <stop offset=".30" stop-color="#37383d" />
+          <stop offset="1" stop-color="#292a2e" />
+        </linearGradient>
+        <linearGradient id="usbtip-end" x1="814" y1="981" x2="846" y2="1048" gradientUnits="userSpaceOnUse">
+          <stop stop-color="#5e6065" />
+          <stop offset=".57" stop-color="#48494d" />
+          <stop offset="1" stop-color="#303136" />
+        </linearGradient>
+        <linearGradient id="usbtip-steel" x1="803" y1="1009" x2="838" y2="1027" gradientUnits="userSpaceOnUse">
+          <stop stop-color="#b9b5ab" />
+          <stop offset=".47" stop-color="#d1cdc3" />
+          <stop offset=".83" stop-color="#c0bcb3" />
+          <stop offset="1" stop-color="#ebe9df" />
+        </linearGradient>
+        <linearGradient id="usbtip-metal-edge" x1="833" y1="1023" x2="837" y2="1033" gradientUnits="userSpaceOnUse">
+          <stop stop-color="#ece9e0" />
+          <stop offset=".52" stop-color="#c8c7bf" />
+          <stop offset="1" stop-color="#979996" />
+        </linearGradient>
+      </defs>
+      <path d="M910.6 964.8L931.0 953.5Q934.9 951.5 938.6 952.9L947.8 956.8Q953.6 960.0 955.6 966.5Q957.1 972.7 953.6 978.5L941.3 991.3L925.5 994.7Z" fill="#303136" />
+      <path d="M916.3 965.0L931.7 954.7Q935.1 953.1 938.8 954.0L946.2 957.4" fill="none" stroke="#54565c" stroke-width=".85" />
+      <path d="M802.0 1008.8Q801.9 990.4 810.2 983.9Q812.0 982.7 815.1 981.5L890.9 951.4Q894.8 949.7 898.7 951.0L940.4 969.4Q949.7 973.3 950.6 982.9Q950.0 993.7 945.6 1008.0Q944.2 1013.4 939.5 1015.1L861.2 1047.1Q855.7 1049.7 850.7 1047.9L809.0 1029.8Q802.2 1026.2 802.0 1008.8Z" fill="url(#usbtip-shell)" stroke="#292a2e" stroke-width=".9" />
+      <path d="M810.3 983.9L891.6 951.8Q894.6 950.6 897.7 951.6L939.9 970.0Q943.7 971.7 945.8 974.0L864.8 1007.2Q860.4 1007.1 856.9 1005.3L815.0 986.3Z" fill="#404146" />
+      <path d="M891.9 951.9Q894.8 950.9 897.8 951.9L937.8 969.5" fill="none" stroke="#56575c" stroke-width=".85" />
+      <path d="M810.6 984.1Q807.4 985.5 805.3 991.3Q798.8 1012.0 804.3 1024.5Q805.5 1027.1 809.3 1029.1L850.9 1047.2Q856.9 1049.3 861.2 1045.7Q866.8 1035.0 867.6 1014.1Q867.7 1008.8 863.1 1005.5L816.1 985.5Q812.7 983.8 810.6 984.1Z" fill="url(#usbtip-end)" />
+      <path d="M813.5 984.8Q815.2 984.9 818.8 986.7L861.7 1005.1Q865.7 1007.5 866.5 1011.2" fill="none" stroke="#79797b" stroke-width=".9" opacity=".72" />
+      <g transform="matrix(.84 .36 -.88 .36 877 969.2)" fill="none" stroke="#55565a" stroke-width="1.24" opacity=".70">
+        <path d="M-1.0 5.4Q-10.5 4.6 -12.5 -1.1Q-3.2 -1.8 .4 4.0Q3.4 -1.9 12.9 -1.2Q11.3 4.2 2.5 5.3 M-6.8 6.0Q-12.4 5.0 -14 10.1Q-16.7 12.3 -15.3 16.1Q-16.7 20.3 -12.7 22.5Q-11.5 26.8 -6.4 26.8Q-3.3 31.1 .2 30.9Q4.3 31.0 7.1 26.9Q11.9 26.5 13.0 22.6Q16.3 20.3 15.7 16.4Q17.2 12.7 14 10.4Q12.8 5.7 7 6.0Z" />
+        <path d="M-6.2 8.8Q-1.8 7.7 -1.7 12.0 M2.8 10.4Q7.5 7.1 9.2 12.0 M-8.4 14.2Q-4.2 12.3 -3.6 16.6 M1.2 16.7Q5.8 13.5 7.6 18.0 M-5.8 21.0Q-1.6 18.1 -.4 22.4 M2.3 25.6Q6.5 23.1 7.2 20.8" />
+      </g>
+      <path d="M783.6 1013.1L810.6 1001.4Q813.5 1000.2 816.0 1001.0L851.4 1016.1Q855.5 1017.7 855.0 1021.9L854.4 1025.6Q853.9 1028.0 851.5 1029.3L826.7 1043.0Q824.8 1044.0 822.9 1043.6L783.0 1026.7Q780.7 1025.4 781.3 1020.6Q781.8 1015.3 783.6 1013.1Z" fill="url(#usbtip-metal-edge)" stroke="#757672" stroke-width=".7" />
+      <path d="M783.8 1013.4L810.7 1001.6Q813.4 1000.6 816 1001.5L851.2 1016.6Q853.1 1017.3 853.6 1019.1L824.1 1032.8Z" fill="url(#usbtip-steel)" />
+      <path d="M826.1 1032.5L852.4 1020.4" stroke="#f7f5ea" stroke-width="1.3" />
+      <path d="M785.6 1013.5L822.3 1029.4Q827.2 1031.3 827.3 1035.6Q827.0 1039.6 824.6 1042.0Q823.6 1043.0 821.9 1042.3L784.3 1026.3Q780.9 1024.8 781.5 1020.3Q781.9 1015.6 783.8 1013.8Q784.6 1013.2 785.6 1013.5Z" fill="#ddddd6" stroke="#a9aca7" stroke-width=".65" />
+      <path d="M785.4 1016.2L821.5 1031.8Q824.9 1033.1 824.6 1035.7Q824.2 1038.6 823.0 1039.3Q822.3 1039.7 821.4 1039.2L785.2 1023.8Q783.4 1022.8 783.8 1020.0Q784 1017.4 785.4 1016.2Z" fill="#191e23" />
+      <path d="M786.8 1020.8Q786.6 1020.1 787.2 1019.7L820.7 1034.2Q821.6 1034.8 821.2 1035.9L820.5 1036.3L787.5 1022.2Q786.8 1021.5 786.8 1020.8Z" fill="#8b9a9d" />
+      <path d="M789.3 1020.6L818.9 1033.4" fill="none" stroke="#c4c8c1" stroke-width=".55" />
+    </g>
+  </g>
+</svg>

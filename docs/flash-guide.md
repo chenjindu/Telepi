@@ -9,6 +9,14 @@ Get the latest **Telepi OS** image (`.img.xz`, currently **2.1.0**) from:
 - [telepi.com/products](https://telepi.com/products) (recommended), or
 - [GitHub Releases](https://github.com/chenjindu/Telepi/releases/latest)
 
+One image fits both [hardware builds](hardware.md#the-two-builds): Telepi OS 2.1.0 detects the
+WiFi card on every boot and sets up the hotspots to match.
+
+| Telepi OS | Build 1 — Starter (MT7922) | Build 2 — Pro (AW7915-NPD / AW7916-NPD) |
+|---|---|---|
+| 2.1.0 and later | Yes | Yes |
+| 2.0.1 | Yes | No |
+
 ## 2. Verify the checksum
 
 Every release publishes a SHA256 checksum. Verify it before flashing —

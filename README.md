@@ -61,7 +61,7 @@ client can route the whole network through your VPN.
 
 ## Quick Start
 
-1. **Get the hardware** — see the [Hardware List](docs/hardware.md) (Raspberry Pi 5 + off-the-shelf parts)
+1. **Get the hardware** — pick one of the [two builds](#two-builds) below and see the [Hardware List](docs/hardware.md) (Raspberry Pi 5 + off-the-shelf parts)
 2. **Download** the latest Telepi OS image (currently **2.1.0**) from [telepi.com](https://telepi.com/products) or [Releases](https://github.com/chenjindu/Telepi/releases/latest)
 3. **Flash** it to a microSD card or SSD — see the [Flash Guide](docs/flash-guide.md)
 4. **Power on**, connect to the `Telepi-5G-XXXX` or `Telepi-2.4G-XXXX` WiFi hotspot (default password: `telepi.com`)
@@ -69,6 +69,23 @@ client can route the whole network through your VPN.
 6. Connect to your upstream WiFi on the **WAN** page, then change the default passwords
 
 From download to a working router in about ten minutes.
+
+## Two Builds
+
+Both builds use the same Raspberry Pi 5, USB adapter, antennas, case and power supply. They
+differ in the WiFi card that makes your hotspots, and the HAT that holds it.
+
+| | **Build 1 — Starter** | **Build 2 — Pro** |
+|---|---|---|
+| | <img src="docs/images/hardware/waveshare-pcie-m2-e-key-hat.svg" width="110" alt="Waveshare PCIe to M.2 E-Key HAT+"> <img src="docs/images/hardware/mt7922-wifi-card.svg" width="110" alt="MT7922"> | <img src="docs/images/hardware/waveshare-pcie-to-minipcie-hat.svg" width="110" alt="Waveshare PCIe to MiniPCIe HAT+"> <img src="docs/images/hardware/aw7915-npd-wifi-card.svg" width="110" alt="AW7915-NPD"> |
+| HAT + WiFi card | Waveshare PCIe to M.2 E-Key HAT+ with an **MT7922** | Waveshare PCIe to MiniPCIe HAT+ with an **AW7915-NPD / AW7916-NPD** |
+| 5G hotspot | MT7922 | AW card |
+| 2.4G hotspot | Pi 5 onboard WiFi | AW card |
+| In short | Ordinary WiFi cards working as access points; the 2.4G hotspot is weak | A chip made for access points; both hotspots are stable and reliable |
+| Telepi OS | 2.0.1, or 2.1.0 and later | 2.1.0 and later |
+
+Telepi OS 2.1.0 detects the hardware on every boot, so one image fits both builds.
+Full parts list with pictures: [Hardware List](docs/hardware.md).
 
 ## Documentation
 
