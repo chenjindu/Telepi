@@ -66,7 +66,7 @@ Notes:
 
 | Radio | Hardware | Role |
 |---|---|---|
-| #1 | USB 3.0 adapter (ALFA AWUS036AXML) | Upstream — connects to the source WiFi |
+| #1 | USB 3.0 adapter (MediaTek MT7921AU) | Upstream — connects to the source WiFi |
 | #2 | M.2 card (MT7922) via PCIe HAT | 5 GHz hotspot |
 | #3 | Raspberry Pi 5 onboard WiFi | 2.4 GHz hotspot |
 

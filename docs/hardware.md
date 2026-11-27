@@ -12,21 +12,39 @@ Equivalent parts with the same specs also work — these are the exact models we
 | 4 | <img src="images/hw_04.png" width="120" alt="Waveshare M.2 HAT"> | **Waveshare PCIe to M.2 E-Key HAT** | For Raspberry Pi 5; supports NGFF (M.2 E-Key) wireless NICs, USB Bluetooth; HAT+ standard |
 | 5 | <img src="images/hw_05.png" width="120" alt="MT7922 WiFi card"> | **MT7922 Wi-Fi 6E network card** | M.2 E-Key; drives the 5G hotspot (the 2.4G hotspot uses the Pi 5 onboard WiFi) |
 | 6 | <img src="images/hw_06.png" width="120" alt="Bingfu antennas"> | **Bingfu dual-band antennas (2-pack)** | 2.4/5/5.8 GHz 3dBi MIMO, RP-SMA male; connect to the MT7922 |
-| 7 | <img src="images/hw_07.png" width="120" alt="ALFA AWUS036AXML"> | **ALFA NETWORK AWUS036AXML** | 802.11axe WiFi 6E USB 3.0 adapter (AXE3000, tri-band); the upstream/repeater radio ( or EDUP® USB 3.0 WiFi 6E Adapter for PC, AX3000M, Same Chip: Mt7921au  ) |
+| 7 | <img src="images/hw_07.png" width="120" alt="MT7921AU USB WiFi adapter"> | **MT7921AU USB 3.0 WiFi adapter** | WiFi 6E (AXE3000, tri-band); the upstream/repeater radio. See [USB adapter models](#usb-adapter-models) below |
 | 8 | <img src="images/hw_08.png" width="120" alt="microSD / USB SSD"> | **microSD card or USB SSD** | 16 GB or larger; SSD gives better longevity under 24/7 use |
+
+## USB Adapter Models
+
+The upstream radio is the one part where you have a choice of brands. What matters is the
+chip: a **MediaTek MT7921AU** (Linux driver `mt7921u`, included in Telepi OS).
+
+| Brand | Model | Chip |
+|---|---|---|
+| Panda Wireless | PAU0F AXE3000 Tri Band | MT7921AU |
+| ALFA Network | AWUS036AXML | MT7921AU |
+| EDUP | USB 3.0 WiFi 6E Adapter AX3000M | MT7921AU |
+| NETGEAR | Nighthawk A8000 | MT7921AU |
+| TP-Link | Archer TXE50UH AXE3000 | MT7921AU |
+| BrosTrend | AXE3000 | MT7921AU |
+
+Telepi is built and tested with the Panda. The others use the same chip and are expected to
+work the same way. Check the exact model name before buying: similar names can hide a
+different chip.
 
 ## Assembly Notes
 
 1. Mount the **active cooler** on the Pi 5 first, then the **PCIe HAT** on top.
 2. Insert the **MT7922** card into the HAT's M.2 slot and connect its two antenna
    pigtails; screw the **Bingfu antennas** onto the RP-SMA connectors through the case.
-3. Plug the **ALFA adapter** into one of the **blue USB 3.0 ports** (USB 2.0 ports will
+3. Plug the **USB WiFi adapter** into one of the **blue USB 3.0 ports** (USB 2.0 ports will
    throttle it badly).
 4. Insert the flashed microSD / connect the SSD, close the case, connect power. Done.
 
 ## Minimal Build (reduced feature set)
 
-No PCIe HAT / MT7922 / ALFA at hand? Telepi OS also boots on a **bare Raspberry Pi 5**.
+No PCIe HAT / MT7922 / USB adapter at hand? Telepi OS also boots on a **bare Raspberry Pi 5**.
 The onboard WiFi provides the 2.4G hotspot, and DNS filtering and VPN work as usual — but there
 is no 5G hotspot, and without the USB adapter there is no radio left for the upstream, so plug
 a wired Ethernet uplink into the Gigabit port. This is not the configuration we build and test
