@@ -44,7 +44,7 @@ client can route the whole network through your VPN.
 </p>
 
 <p align="center">
-  <img src="docs/images/webui-wan.png" alt="Telepi web interface — WAN" width="720">
+  <img src="docs/images/webui-wan.png" alt="Telepi web interface — Internet page" width="720">
 </p>
 
 ## Features
@@ -66,7 +66,7 @@ client can route the whole network through your VPN.
 3. **Flash** it to a microSD card or SSD — see the [Flash Guide](docs/flash-guide.md)
 4. **Power on**, connect to the `Telepi-5G-XXXX` or `Telepi-2.4G-XXXX` WiFi hotspot (default password: `telepi.com`)
 5. Open **http://192.168.111.200:8080** and log in with `admin` / `telepi.com`
-6. Connect to your upstream WiFi on the **WAN** page, then change the default passwords
+6. Connect to your upstream WiFi on the **Internet** page, then change the default passwords
 
 From download to a working router in about ten minutes.
 

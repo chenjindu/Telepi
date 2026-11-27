@@ -8,13 +8,13 @@ on first use. Full SSH access is included for anything beyond the UI.
   <img src="images/webui-dashboard.png" alt="Web UI — overview" width="720">
 </p>
 
-The **Overview** page shows the four things that matter at the top — WAN, LAN, Wi-Fi 5G and
-Wi-Fi 2.4G — with system health below.
+The **Overview** page shows the four things that matter at the top — the upstream connection,
+your local network and the two hotspots — with system health below.
 
-## WAN — the upstream connection
+## Internet — the upstream connection
 
 <p align="center">
-  <img src="images/webui-wan.png" alt="Web UI — WAN" width="720">
+  <img src="images/webui-wan.png" alt="Web UI — Internet page" width="720">
 </p>
 
 - **WiFi repeater** — scan and join any upstream WiFi (hotel, Airbnb, office, home). Networks are
@@ -27,19 +27,19 @@ Wi-Fi 2.4G — with system health below.
 A connection watchdog re-establishes a dropped upstream automatically — no manual intervention
 when the hotel AP hiccups at 3 a.m.
 
-## Wi-Fi — your own network
+## 5 GHz Hotspot and 2.4 GHz Hotspot — your own network
 
 <p align="center">
-  <img src="images/webui-wifi.png" alt="Web UI — Wi-Fi 5G" width="720">
+  <img src="images/webui-wifi.png" alt="Web UI — 5 GHz Hotspot page" width="720">
 </p>
 
-- **Wi-Fi 5G** and **Wi-Fi 2.4G** are two separate hotspots; set each one's name, password and
+- **5 GHz Hotspot** and **2.4 GHz Hotspot** are two separate hotspots; set each one's name, password and
   channel independently, or switch one off.
 - Each page lists the devices currently connected.
 - Channels are chosen automatically, and the 5G hotspot moves out of the way if it would
   collide with the upstream network.
 
-## LAN
+## Local Network
 
 - Defaults to `192.168.111.0/24` with the router at `192.168.111.200`.
 - Change the subnet, router address and DHCP range if they collide with an upstream network.
@@ -84,7 +84,7 @@ Turn the SSH server on or off from the **SSH Server** page. Log in as `admin`
 
 - **Setting** — interface language (English / 简体中文 / 繁體中文), web UI password, reboot,
   and system logs.
-- **Upgrade** — check for a new version and install it with one click.
+- **System Update** — check for a new version and install it with one click.
 - **About** — version information.
 
 ## Default Credentials (change these!)

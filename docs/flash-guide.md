@@ -71,14 +71,14 @@ Use either tool — both accept `.img.xz` directly, no need to decompress:
   <img src="images/webui-login.png" alt="Web UI — login" width="480">
 </p>
 
-3. Open the **WAN** page, pick your upstream WiFi and enter its password
+3. Open the **Internet** page, pick your upstream WiFi and enter its password
    (or plug an uplink cable into the Ethernet port)
 
 <p align="center">
-  <img src="images/webui-wan.png" alt="Web UI — WAN" width="720">
+  <img src="images/webui-wan.png" alt="Web UI — Internet page" width="720">
 </p>
 
-4. Change the defaults: hotspot passwords on the **Wi-Fi 5G** / **Wi-Fi 2.4G** pages,
+4. Change the defaults: hotspot passwords on the **5 GHz Hotspot** / **2.4 GHz Hotspot** pages,
    the web UI password on the **Setting** page
 
 That's it — your private network is live. Continue with the

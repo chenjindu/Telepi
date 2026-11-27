@@ -75,9 +75,9 @@ in Telepi OS).
 | <img src="images/hardware/tp-link-archer-txe50uh.svg" width="90" alt="TP-Link Archer TXE50UH"> | TP-Link | Archer TXE50UH AXE3000 | MT7921AU |
 | <img src="images/hardware/brostrend-axe3000.svg" width="90" alt="BrosTrend AXE3000"> | BrosTrend | AXE3000 | MT7921AU |
 
-Telepi is built and tested with the Panda. The others use the same chip and are expected to
-work the same way. Check the exact model name before buying: similar names can hide a
-different chip.
+Telepi is built and tested with the Panda PAU0F, ALFA AWUS036AXML and EDUP AX3000M.
+The other three use the same chip and are expected to work the same way. Check the exact
+model name before buying: similar names can hide a different chip.
 
 ## Assembly Notes
 
